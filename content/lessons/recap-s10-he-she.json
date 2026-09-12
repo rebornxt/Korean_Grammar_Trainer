@@ -1,0 +1,467 @@
+{
+  "id": "recap-s10-he-she",
+  "sectionId": "section-10",
+  "title": "10 · เขา เธอ และบุคคลที่กล่าวถึง",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section10_11.pdf",
+    "locator": "หน้า 3–5 · 10 · เขา เธอ และบุคคลที่กล่าวถึง",
+    "kind": "learner-recap"
+  },
+  "notes": "ขอบเขตตามโน้ตผู้เรียน ไม่ได้หมายถึงเรียนจบทั้ง section; ไม่มีการอนุมานหมายเลข lecture",
+  "words": [
+    {
+      "id": "s10-11-word-010",
+      "ko": "그 남자",
+      "th": "ผู้ชายคนนั้น",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 3"
+      }
+    },
+    {
+      "id": "s10-11-word-011",
+      "ko": "그 여자",
+      "th": "ผู้หญิงคนนั้น",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 3"
+      }
+    },
+    {
+      "id": "s10-11-word-012",
+      "ko": "그 친구",
+      "th": "เพื่อนคนนั้น",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 3"
+      }
+    },
+    {
+      "id": "s10-11-word-013",
+      "ko": "그분",
+      "th": "ท่านนั้น / บุคคลนั้น — รูปยกย่อง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 4"
+      }
+    },
+    {
+      "id": "s10-11-word-014",
+      "ko": "걔",
+      "th": "คนนั้น / เด็กคนนั้น — รูปกันเองจาก 그 아이",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 5"
+      }
+    },
+    {
+      "id": "s10-11-word-015",
+      "ko": "아이",
+      "th": "เด็ก",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 5"
+      }
+    },
+    {
+      "id": "s10-11-word-016",
+      "ko": "피자",
+      "th": "พิซซ่า",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 4"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s10-third-person",
+      "topic": "pronouns",
+      "title": "그 + คำนาม และ 그분",
+      "explanation": "ใช้ 그 ตามด้วยคำนามเพื่อระบุคนที่พูดถึง เช่น 그 남자, 그 여자, 그 친구 ส่วน 그분 หมายถึงบุคคลนั้นอย่างยกย่อง ไม่ระบุเพศ คำแปล “เขา/เธอ” จึงขึ้นกับบริบท และไม่ควรบังคับให้ 그분 เป็นเพศใดเพศหนึ่ง",
+      "examples": [
+        {
+          "ko": "그 남자",
+          "th": "ผู้ชายคนนั้น",
+          "wordIds": [
+            "s10-11-word-010"
+          ]
+        },
+        {
+          "ko": "그 여자",
+          "th": "ผู้หญิงคนนั้น",
+          "wordIds": [
+            "s10-11-word-011"
+          ]
+        },
+        {
+          "ko": "그 친구",
+          "th": "เพื่อนคนนั้น",
+          "wordIds": [
+            "s10-11-word-012"
+          ]
+        },
+        {
+          "ko": "그분은 피자를 먹어요.",
+          "th": "ท่านนั้นกินพิซซ่า — ตัวอย่างตามสไลด์",
+          "wordIds": [
+            "s10-11-word-013",
+            "s10-11-word-016"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10-gyae",
+      "topic": "pronouns",
+      "title": "걔 — รูปกันเอง",
+      "explanation": "걔 เป็นคำย่อจาก 그 아이 ใช้พูดถึงเด็กหรือบุคคลที่เรียกแบบกันเองได้ ไม่ใช่รูปยกย่อง ใช้สะกด 걔 เพื่อแยกจาก 개 ซึ่งเป็นอีกคำหนึ่ง",
+      "examples": [
+        {
+          "ko": "걔",
+          "th": "คนนั้น / เด็กคนนั้น — กันเอง",
+          "wordIds": [
+            "s10-11-word-014"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recap-order-rule-2",
+      "topic": "order",
+      "title": "เรียงประโยคตามตัวอย่างในโน้ต",
+      "explanation": "ใช้ชิ้นคำที่มีคำช่วยติดอยู่แล้ว เรียงตามประโยคตัวอย่าง โดยวางภาคแสดงท้ายประโยค แบบฝึกนี้เจาะจงลำดับในโน้ต ไม่ได้ตัดสินว่าการสลับลำดับอื่นผิดเสมอในภาษาเกาหลี",
+      "examples": [
+        {
+          "ko": "그분은 피자를 먹어요.",
+          "th": "ท่านนั้นกินพิซซ่า — เรียงตามลำดับตัวอย่างในโน้ต",
+          "wordIds": [
+            "s10-11-word-013",
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ]
+        }
+      ],
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "recap-man",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "“ผู้ชายคนนั้น” ตามสไลด์คือข้อใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "그 친구"
+        },
+        {
+          "id": "o1",
+          "text": "그 남자"
+        },
+        {
+          "id": "o2",
+          "text": "그 여자"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "그 남자",
+      "explanation": "그 ระบุคนที่กล่าวถึง และ 남자 หมายถึงผู้ชาย",
+      "requires": [
+        "s10-third-person",
+        "s10-11-word-010"
+      ],
+      "wordIds": [
+        "s10-11-word-010"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-woman",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "“ผู้หญิงคนนั้น” ตามสไลด์คือข้อใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "그 남자"
+        },
+        {
+          "id": "o1",
+          "text": "그 친구"
+        },
+        {
+          "id": "o2",
+          "text": "그 여자"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "그 여자",
+      "explanation": "เลือกคำนามที่ระบุเพศตามความหมาย ไม่ต้องเปลี่ยนโครงสร้าง 그 + คำนาม",
+      "requires": [
+        "s10-third-person",
+        "s10-11-word-011"
+      ],
+      "wordIds": [
+        "s10-11-word-011"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-respect",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "เมื่อต้องการกล่าวถึง “ท่านนั้น” อย่างยกย่อง เลือกข้อใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "그분"
+        },
+        {
+          "id": "o1",
+          "text": "걔"
+        },
+        {
+          "id": "o2",
+          "text": "너"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "그분",
+      "explanation": "그분 ยกย่องบุคคลที่กล่าวถึง ส่วน 걔 เป็นรูปกันเอง และ 너 ใช้กับคู่สนทนา",
+      "requires": [
+        "s10-third-person",
+        "s10-11-word-013"
+      ],
+      "wordIds": [
+        "s10-11-word-013"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-gender",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "คำว่า 그분 ระบุว่าเป็นผู้ชายหรือผู้หญิงหรือไม่",
+      "options": [
+        {
+          "id": "o0",
+          "text": "ไม่ระบุเพศ ต้องดูบริบท"
+        },
+        {
+          "id": "o1",
+          "text": "เป็นผู้ชายเท่านั้น"
+        },
+        {
+          "id": "o2",
+          "text": "เป็นผู้หญิงเท่านั้น"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "그분",
+      "explanation": "ตัวอย่างในหน้า 4 แปลได้ทั้ง he/she แบบยกย่อง",
+      "requires": [
+        "s10-third-person",
+        "s10-11-word-013"
+      ],
+      "wordIds": [
+        "s10-11-word-013"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-gyae",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "รูปกันเองที่ย่อจาก 그 아이 คือข้อใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "걔"
+        },
+        {
+          "id": "o1",
+          "text": "그분"
+        },
+        {
+          "id": "o2",
+          "text": "저희"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "걔",
+      "explanation": "걔 เป็นรูปกันเองจาก 그 아이 ไม่ใช่รูปยกย่อง",
+      "requires": [
+        "s10-gyae",
+        "s10-11-word-014"
+      ],
+      "wordIds": [
+        "s10-11-word-014"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-order-person-pizza",
+      "type": "order",
+      "topic": "order",
+      "prompt": "ท่านนั้นกินพิซซ่า — เรียงตามลำดับตัวอย่างในโน้ต",
+      "chunks": [
+        "그분은",
+        "피자를",
+        "먹어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "answerText": "그분은 피자를 먹어요.",
+      "explanation": "ข้อนี้ฝึกลำดับตามประโยคตัวอย่างในโน้ต โดยเก็บคำช่วยติดกับคำนามและวางภาคแสดงท้ายประโยค ไม่ได้หมายความว่าลำดับอื่นผิดในทุกบริบท",
+      "requires": [
+        "s10-third-person",
+        "s11-eo-batchim",
+        "s10-11-word-013",
+        "s10-11-word-016",
+        "s10-11-word-022",
+        "recap-order-rule-2"
+      ],
+      "wordIds": [
+        "s10-11-word-013",
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "added": true
+    },
+    {
+      "id": "recall-s10-11-word-010",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-010",
+      "prompt": "ผู้ชายคนนั้น",
+      "answerText": "그 남자",
+      "explanation": "그 남자 — ผู้ชายคนนั้น",
+      "requires": [
+        "s10-11-word-010"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 3"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-011",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-011",
+      "prompt": "ผู้หญิงคนนั้น",
+      "answerText": "그 여자",
+      "explanation": "그 여자 — ผู้หญิงคนนั้น",
+      "requires": [
+        "s10-11-word-011"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 3"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-012",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-012",
+      "prompt": "เพื่อนคนนั้น",
+      "answerText": "그 친구",
+      "explanation": "그 친구 — เพื่อนคนนั้น",
+      "requires": [
+        "s10-11-word-012"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 3"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-013",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-013",
+      "prompt": "ท่านนั้น / บุคคลนั้น — รูปยกย่อง",
+      "answerText": "그분",
+      "explanation": "그분 — ท่านนั้น / บุคคลนั้น — รูปยกย่อง",
+      "requires": [
+        "s10-11-word-013"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 4"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-014",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-014",
+      "prompt": "คนนั้น / เด็กคนนั้น — รูปกันเองจาก 그 아이",
+      "answerText": "걔",
+      "explanation": "걔 — คนนั้น / เด็กคนนั้น — รูปกันเองจาก 그 아이",
+      "requires": [
+        "s10-11-word-014"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 5"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-015",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-015",
+      "prompt": "เด็ก",
+      "answerText": "아이",
+      "explanation": "아이 — เด็ก",
+      "requires": [
+        "s10-11-word-015"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 5"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-016",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-016",
+      "prompt": "พิซซ่า",
+      "answerText": "피자",
+      "explanation": "피자 — พิซซ่า",
+      "requires": [
+        "s10-11-word-016"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 4"
+      }
+    }
+  ]
+}

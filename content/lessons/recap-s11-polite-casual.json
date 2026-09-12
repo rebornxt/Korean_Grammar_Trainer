@@ -1,0 +1,785 @@
+{
+  "id": "recap-s11-polite-casual",
+  "sectionId": "section-11",
+  "title": "11 · รูปสุภาพและรูปกันเอง",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section10_11.pdf",
+    "locator": "หน้า 12–14 · 11 · รูปสุภาพและรูปกันเอง",
+    "kind": "learner-recap"
+  },
+  "notes": "ขอบเขตตามโน้ตผู้เรียน ไม่ได้หมายถึงเรียนจบทั้ง section; ไม่มีการอนุมานหมายเลข lecture",
+  "words": [
+    {
+      "id": "s10-11-word-048",
+      "ko": "가지다",
+      "th": "มี / ครอบครอง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "s10-11-word-049",
+      "ko": "말리다",
+      "th": "ห้าม / ทัดทาน — ความหมายในตัวอย่างนี้",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "s10-11-word-050",
+      "ko": "치다",
+      "th": "ตี — ความหมายในตัวอย่างนี้",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "s10-11-word-051",
+      "ko": "청소하다",
+      "th": "ทำความสะอาด",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "s10-11-word-052",
+      "ko": "요리하다",
+      "th": "ทำอาหาร",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "s10-11-word-053",
+      "ko": "수영하다",
+      "th": "ว่ายน้ำ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s11-i-contract",
+      "topic": "endings",
+      "title": "ㅣ + 어 → ㅕ",
+      "explanation": "ฐานกริยาลงท้ายด้วย ㅣ ไม่มีตัวสะกด รวมกับ 어 เป็น ㅕ เช่น 마시다 → 마셔요 และ 가지다 → 가져요 ตัวอย่างชุดนี้เน้นรูปย่อที่สไลด์ใช้",
+      "examples": [
+        {
+          "ko": "마셔요",
+          "th": "마시다 → 마셔요 · ดื่ม",
+          "wordIds": [
+            "s10-11-word-029"
+          ]
+        },
+        {
+          "ko": "가져요",
+          "th": "가지다 → 가져요 · มี / ครอบครอง",
+          "wordIds": [
+            "s10-11-word-048"
+          ]
+        },
+        {
+          "ko": "말려요",
+          "th": "말리다 → 말려요 · ห้าม / ทัดทาน — ความหมายในตัวอย่างนี้",
+          "wordIds": [
+            "s10-11-word-049"
+          ]
+        },
+        {
+          "ko": "쳐요",
+          "th": "치다 → 쳐요 · ตี — ความหมายในตัวอย่างนี้",
+          "wordIds": [
+            "s10-11-word-050"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11-haeyo",
+      "topic": "endings",
+      "title": "하다 → 해요",
+      "explanation": "กริยาที่ลงท้ายด้วย 하다 ในตัวอย่างเปลี่ยน 하다 เป็น 해요 ส่วนคำนามด้านหน้าคงเดิม เช่น 공부하다 → 공부해요 และ 요리하다 → 요리해요",
+      "examples": [
+        {
+          "ko": "공부해요",
+          "th": "공부하다 → 공부해요 · เรียน / ศึกษา",
+          "wordIds": [
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "청소해요",
+          "th": "청소하다 → 청소해요 · ทำความสะอาด",
+          "wordIds": [
+            "s10-11-word-051"
+          ]
+        },
+        {
+          "ko": "요리해요",
+          "th": "요리하다 → 요리해요 · ทำอาหาร",
+          "wordIds": [
+            "s10-11-word-052"
+          ]
+        },
+        {
+          "ko": "수영해요",
+          "th": "수영하다 → 수영해요 · ว่ายน้ำ",
+          "wordIds": [
+            "s10-11-word-053"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11-casual",
+      "topic": "endings",
+      "title": "รูปกันเอง: เอา 요 ออกจากรูปสุภาพในชุดนี้",
+      "explanation": "รูปกันเองของตัวอย่างกริยากลุ่มนี้ใช้ฐานเดียวกับรูปสุภาพ แต่ไม่มี 요 เช่น 먹어요 → 먹어, 마셔요 → 마셔 และ 요리해요 → 요리해 ใช้กับคนที่พูดแบบกันเองได้ กฎนี้ไม่ได้ครอบคลุมคำลงท้ายทุกชนิดในภาษาเกาหลี",
+      "examples": [
+        {
+          "ko": "먹어",
+          "th": "먹다 → 먹어 · กิน",
+          "wordIds": [
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "팔아",
+          "th": "팔다 → 팔아 · ขาย",
+          "wordIds": [
+            "s10-11-word-024"
+          ]
+        },
+        {
+          "ko": "지워",
+          "th": "지우다 → 지워 · ลบ",
+          "wordIds": [
+            "s10-11-word-046"
+          ]
+        },
+        {
+          "ko": "요리해",
+          "th": "요리하다 → 요리해 · ทำอาหาร",
+          "wordIds": [
+            "s10-11-word-052"
+          ]
+        },
+        {
+          "ko": "마셔",
+          "th": "마시다 → 마셔 · ดื่ม",
+          "wordIds": [
+            "s10-11-word-029"
+          ]
+        },
+        {
+          "ko": "공부해",
+          "th": "공부하다 → 공부해 · เรียน / ศึกษา",
+          "wordIds": [
+            "s10-11-word-023"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "recap-conjugate-33",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "마시다 · ดื่ม\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "마샤요"
+        },
+        {
+          "id": "o1",
+          "text": "마시요"
+        },
+        {
+          "id": "o2",
+          "text": "마셔요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "마셔요",
+      "explanation": "마시다 → 마셔요\nฐานกริยาลงท้ายด้วย ㅣ ไม่มีตัวสะกด รวมกับ 어 เป็น ㅕ เช่น 마시다 → 마셔요 และ 가지다 → 가져요 ตัวอย่างชุดนี้เน้นรูปย่อที่สไลด์ใช้",
+      "requires": [
+        "s11-i-contract",
+        "s10-11-word-029"
+      ],
+      "wordIds": [
+        "s10-11-word-029"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-34",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "가지다 · มี / ครอบครอง\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "가지요"
+        },
+        {
+          "id": "o1",
+          "text": "가져요"
+        },
+        {
+          "id": "o2",
+          "text": "가쟈요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "가져요",
+      "explanation": "가지다 → 가져요\nฐานกริยาลงท้ายด้วย ㅣ ไม่มีตัวสะกด รวมกับ 어 เป็น ㅕ เช่น 마시다 → 마셔요 และ 가지다 → 가져요 ตัวอย่างชุดนี้เน้นรูปย่อที่สไลด์ใช้",
+      "requires": [
+        "s11-i-contract",
+        "s10-11-word-048"
+      ],
+      "wordIds": [
+        "s10-11-word-048"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-35",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "말리다 · ห้าม / ทัดทาน — ความหมายในตัวอย่างนี้\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "말려요"
+        },
+        {
+          "id": "o1",
+          "text": "말랴요"
+        },
+        {
+          "id": "o2",
+          "text": "말리요"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "말려요",
+      "explanation": "말리다 → 말려요\nฐานกริยาลงท้ายด้วย ㅣ ไม่มีตัวสะกด รวมกับ 어 เป็น ㅕ เช่น 마시다 → 마셔요 และ 가지다 → 가져요 ตัวอย่างชุดนี้เน้นรูปย่อที่สไลด์ใช้",
+      "requires": [
+        "s11-i-contract",
+        "s10-11-word-049"
+      ],
+      "wordIds": [
+        "s10-11-word-049"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-36",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "치다 · ตี — ความหมายในตัวอย่างนี้\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "챠요"
+        },
+        {
+          "id": "o1",
+          "text": "치요"
+        },
+        {
+          "id": "o2",
+          "text": "쳐요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "쳐요",
+      "explanation": "치다 → 쳐요\nฐานกริยาลงท้ายด้วย ㅣ ไม่มีตัวสะกด รวมกับ 어 เป็น ㅕ เช่น 마시다 → 마셔요 และ 가지다 → 가져요 ตัวอย่างชุดนี้เน้นรูปย่อที่สไลด์ใช้",
+      "requires": [
+        "s11-i-contract",
+        "s10-11-word-050"
+      ],
+      "wordIds": [
+        "s10-11-word-050"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-37",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "공부하다 · เรียน / ศึกษา\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "공부하어요"
+        },
+        {
+          "id": "o1",
+          "text": "공부해요"
+        },
+        {
+          "id": "o2",
+          "text": "공부하요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "공부해요",
+      "explanation": "공부하다 → 공부해요\nกริยาที่ลงท้ายด้วย 하다 ในตัวอย่างเปลี่ยน 하다 เป็น 해요 ส่วนคำนามด้านหน้าคงเดิม เช่น 공부하다 → 공부해요 และ 요리하다 → 요리해요",
+      "requires": [
+        "s11-haeyo",
+        "s10-11-word-023"
+      ],
+      "wordIds": [
+        "s10-11-word-023"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-38",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "청소하다 · ทำความสะอาด\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "청소해요"
+        },
+        {
+          "id": "o1",
+          "text": "청소하요"
+        },
+        {
+          "id": "o2",
+          "text": "청소하어요"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "청소해요",
+      "explanation": "청소하다 → 청소해요\nกริยาที่ลงท้ายด้วย 하다 ในตัวอย่างเปลี่ยน 하다 เป็น 해요 ส่วนคำนามด้านหน้าคงเดิม เช่น 공부하다 → 공부해요 และ 요리하다 → 요리해요",
+      "requires": [
+        "s11-haeyo",
+        "s10-11-word-051"
+      ],
+      "wordIds": [
+        "s10-11-word-051"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-39",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "요리하다 · ทำอาหาร\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "요리하요"
+        },
+        {
+          "id": "o1",
+          "text": "요리하어요"
+        },
+        {
+          "id": "o2",
+          "text": "요리해요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "요리해요",
+      "explanation": "요리하다 → 요리해요\nกริยาที่ลงท้ายด้วย 하다 ในตัวอย่างเปลี่ยน 하다 เป็น 해요 ส่วนคำนามด้านหน้าคงเดิม เช่น 공부하다 → 공부해요 และ 요리하다 → 요리해요",
+      "requires": [
+        "s11-haeyo",
+        "s10-11-word-052"
+      ],
+      "wordIds": [
+        "s10-11-word-052"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-40",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "수영하다 · ว่ายน้ำ\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "수영하어요"
+        },
+        {
+          "id": "o1",
+          "text": "수영해요"
+        },
+        {
+          "id": "o2",
+          "text": "수영하요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "수영해요",
+      "explanation": "수영하다 → 수영해요\nกริยาที่ลงท้ายด้วย 하다 ในตัวอย่างเปลี่ยน 하다 เป็น 해요 ส่วนคำนามด้านหน้าคงเดิม เช่น 공부하다 → 공부해요 และ 요리하다 → 요리해요",
+      "requires": [
+        "s11-haeyo",
+        "s10-11-word-053"
+      ],
+      "wordIds": [
+        "s10-11-word-053"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-41",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "먹다 · กิน\nเลือกรูปกันเอง",
+      "options": [
+        {
+          "id": "o0",
+          "text": "먹어"
+        },
+        {
+          "id": "o1",
+          "text": "먹어요"
+        },
+        {
+          "id": "o2",
+          "text": "먹습니다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "먹어",
+      "explanation": "먹다 → 먹어\nรูปกันเองของตัวอย่างกริยากลุ่มนี้ใช้ฐานเดียวกับรูปสุภาพ แต่ไม่มี 요 เช่น 먹어요 → 먹어, 마셔요 → 마셔 และ 요리해요 → 요리해 ใช้กับคนที่พูดแบบกันเองได้ กฎนี้ไม่ได้ครอบคลุมคำลงท้ายทุกชนิดในภาษาเกาหลี",
+      "requires": [
+        "s11-casual",
+        "s10-11-word-022",
+        "s11-formal-v",
+        "s11-formal-c",
+        "s11-formal-l",
+        "s11-i-contract",
+        "s11-haeyo",
+        "s11-u-contract",
+        "s11-eo-batchim",
+        "s11-a-batchim"
+      ],
+      "wordIds": [
+        "s10-11-word-022"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-42",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "팔다 · ขาย\nเลือกรูปกันเอง",
+      "options": [
+        {
+          "id": "o0",
+          "text": "팔아요"
+        },
+        {
+          "id": "o1",
+          "text": "팝니다"
+        },
+        {
+          "id": "o2",
+          "text": "팔아"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "팔아",
+      "explanation": "팔다 → 팔아\nรูปกันเองของตัวอย่างกริยากลุ่มนี้ใช้ฐานเดียวกับรูปสุภาพ แต่ไม่มี 요 เช่น 먹어요 → 먹어, 마셔요 → 마셔 และ 요리해요 → 요리해 ใช้กับคนที่พูดแบบกันเองได้ กฎนี้ไม่ได้ครอบคลุมคำลงท้ายทุกชนิดในภาษาเกาหลี",
+      "requires": [
+        "s11-casual",
+        "s10-11-word-024",
+        "s11-formal-v",
+        "s11-formal-c",
+        "s11-formal-l",
+        "s11-i-contract",
+        "s11-haeyo",
+        "s11-u-contract",
+        "s11-eo-batchim",
+        "s11-a-batchim"
+      ],
+      "wordIds": [
+        "s10-11-word-024"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-43",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "지우다 · ลบ\nเลือกรูปกันเอง",
+      "options": [
+        {
+          "id": "o0",
+          "text": "지우다"
+        },
+        {
+          "id": "o1",
+          "text": "지워"
+        },
+        {
+          "id": "o2",
+          "text": "지워요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "지워",
+      "explanation": "지우다 → 지워\nรูปกันเองของตัวอย่างกริยากลุ่มนี้ใช้ฐานเดียวกับรูปสุภาพ แต่ไม่มี 요 เช่น 먹어요 → 먹어, 마셔요 → 마셔 และ 요리해요 → 요리해 ใช้กับคนที่พูดแบบกันเองได้ กฎนี้ไม่ได้ครอบคลุมคำลงท้ายทุกชนิดในภาษาเกาหลี",
+      "requires": [
+        "s11-casual",
+        "s10-11-word-046",
+        "s11-formal-v",
+        "s11-formal-c",
+        "s11-formal-l",
+        "s11-i-contract",
+        "s11-haeyo",
+        "s11-u-contract",
+        "s11-eo-batchim",
+        "s11-a-batchim"
+      ],
+      "wordIds": [
+        "s10-11-word-046"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-44",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "요리하다 · ทำอาหาร\nเลือกรูปกันเอง",
+      "options": [
+        {
+          "id": "o0",
+          "text": "요리해"
+        },
+        {
+          "id": "o1",
+          "text": "요리해요"
+        },
+        {
+          "id": "o2",
+          "text": "요리하다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "요리해",
+      "explanation": "요리하다 → 요리해\nรูปกันเองของตัวอย่างกริยากลุ่มนี้ใช้ฐานเดียวกับรูปสุภาพ แต่ไม่มี 요 เช่น 먹어요 → 먹어, 마셔요 → 마셔 และ 요리해요 → 요리해 ใช้กับคนที่พูดแบบกันเองได้ กฎนี้ไม่ได้ครอบคลุมคำลงท้ายทุกชนิดในภาษาเกาหลี",
+      "requires": [
+        "s11-casual",
+        "s10-11-word-052",
+        "s11-formal-v",
+        "s11-formal-c",
+        "s11-formal-l",
+        "s11-i-contract",
+        "s11-haeyo",
+        "s11-u-contract",
+        "s11-eo-batchim",
+        "s11-a-batchim"
+      ],
+      "wordIds": [
+        "s10-11-word-052"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-45",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "마시다 · ดื่ม\nเลือกรูปกันเอง",
+      "options": [
+        {
+          "id": "o0",
+          "text": "마셔요"
+        },
+        {
+          "id": "o1",
+          "text": "마십니다"
+        },
+        {
+          "id": "o2",
+          "text": "마셔"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "마셔",
+      "explanation": "마시다 → 마셔\nรูปกันเองของตัวอย่างกริยากลุ่มนี้ใช้ฐานเดียวกับรูปสุภาพ แต่ไม่มี 요 เช่น 먹어요 → 먹어, 마셔요 → 마셔 และ 요리해요 → 요리해 ใช้กับคนที่พูดแบบกันเองได้ กฎนี้ไม่ได้ครอบคลุมคำลงท้ายทุกชนิดในภาษาเกาหลี",
+      "requires": [
+        "s11-casual",
+        "s10-11-word-029",
+        "s11-formal-v",
+        "s11-formal-c",
+        "s11-formal-l",
+        "s11-i-contract",
+        "s11-haeyo",
+        "s11-u-contract",
+        "s11-eo-batchim",
+        "s11-a-batchim"
+      ],
+      "wordIds": [
+        "s10-11-word-029"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-46",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "공부하다 · เรียน / ศึกษา\nเลือกรูปกันเอง",
+      "options": [
+        {
+          "id": "o0",
+          "text": "공부합니다"
+        },
+        {
+          "id": "o1",
+          "text": "공부해"
+        },
+        {
+          "id": "o2",
+          "text": "공부해요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "공부해",
+      "explanation": "공부하다 → 공부해\nรูปกันเองของตัวอย่างกริยากลุ่มนี้ใช้ฐานเดียวกับรูปสุภาพ แต่ไม่มี 요 เช่น 먹어요 → 먹어, 마셔요 → 마셔 และ 요리해요 → 요리해 ใช้กับคนที่พูดแบบกันเองได้ กฎนี้ไม่ได้ครอบคลุมคำลงท้ายทุกชนิดในภาษาเกาหลี",
+      "requires": [
+        "s11-casual",
+        "s10-11-word-023",
+        "s11-formal-v",
+        "s11-formal-c",
+        "s11-formal-l",
+        "s11-i-contract",
+        "s11-haeyo",
+        "s11-u-contract",
+        "s11-eo-batchim",
+        "s11-a-batchim"
+      ],
+      "wordIds": [
+        "s10-11-word-023"
+      ],
+      "added": true
+    },
+    {
+      "id": "recall-s10-11-word-048",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-048",
+      "prompt": "มี / ครอบครอง",
+      "answerText": "가지다",
+      "explanation": "가지다 — มี / ครอบครอง",
+      "requires": [
+        "s10-11-word-048"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-049",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-049",
+      "prompt": "ห้าม / ทัดทาน — ความหมายในตัวอย่างนี้",
+      "answerText": "말리다",
+      "explanation": "말리다 — ห้าม / ทัดทาน — ความหมายในตัวอย่างนี้",
+      "requires": [
+        "s10-11-word-049"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-050",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-050",
+      "prompt": "ตี — ความหมายในตัวอย่างนี้",
+      "answerText": "치다",
+      "explanation": "치다 — ตี — ความหมายในตัวอย่างนี้",
+      "requires": [
+        "s10-11-word-050"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-051",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-051",
+      "prompt": "ทำความสะอาด",
+      "answerText": "청소하다",
+      "explanation": "청소하다 — ทำความสะอาด",
+      "requires": [
+        "s10-11-word-051"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-052",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-052",
+      "prompt": "ทำอาหาร",
+      "answerText": "요리하다",
+      "explanation": "요리하다 — ทำอาหาร",
+      "requires": [
+        "s10-11-word-052"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-053",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-053",
+      "prompt": "ว่ายน้ำ",
+      "answerText": "수영하다",
+      "explanation": "수영하다 — ว่ายน้ำ",
+      "requires": [
+        "s10-11-word-053"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 13"
+      }
+    }
+  ]
+}

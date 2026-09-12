@@ -1,0 +1,742 @@
+{
+  "id": "recap-s11-polite-2",
+  "sectionId": "section-11",
+  "title": "11 · รูปสุภาพ 2 — 어요 และ 워요",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section10_11.pdf",
+    "locator": "หน้า 10–12 · 11 · รูปสุภาพ 2 — 어요 และ 워요",
+    "kind": "learner-recap"
+  },
+  "notes": "ขอบเขตตามโน้ตผู้เรียน ไม่ได้หมายถึงเรียนจบทั้ง section; ไม่มีการอนุมานหมายเลข lecture",
+  "words": [
+    {
+      "id": "s10-11-word-039",
+      "ko": "섞다",
+      "th": "ผสม",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "s10-11-word-040",
+      "ko": "세다",
+      "th": "นับ — ความหมายในตัวอย่างนี้",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "s10-11-word-041",
+      "ko": "서다",
+      "th": "ยืน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "s10-11-word-042",
+      "ko": "켜다",
+      "th": "เปิดไฟหรือเปิดเครื่อง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "s10-11-word-043",
+      "ko": "내다",
+      "th": "จ่าย / ส่ง — ความหมายในตัวอย่างนี้",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "s10-11-word-044",
+      "ko": "키우다",
+      "th": "เลี้ยง / ทำให้เติบโต",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 12"
+      }
+    },
+    {
+      "id": "s10-11-word-045",
+      "ko": "배우다",
+      "th": "เรียนรู้",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 12"
+      }
+    },
+    {
+      "id": "s10-11-word-046",
+      "ko": "지우다",
+      "th": "ลบ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 12"
+      }
+    },
+    {
+      "id": "s10-11-word-047",
+      "ko": "주다",
+      "th": "ให้",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 12"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s11-eo-batchim",
+      "topic": "endings",
+      "title": "สระอื่น + ตัวสะกด → 어요",
+      "explanation": "ถ้าสระพยางค์ท้ายของฐานไม่ใช่ ㅏ หรือ ㅗ และมีตัวสะกด ตัวอย่างในโน้ตใช้ 어요 เช่น 먹다 → 먹어요 และ 들다 → 들어요 โดย 들다 ในบทนี้หมายถึง “ยก” ไม่ใช่ 듣다 ที่แปลว่า “ฟัง”",
+      "examples": [
+        {
+          "ko": "먹어요",
+          "th": "먹다 → 먹어요 · กิน",
+          "wordIds": [
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "읽어요",
+          "th": "읽다 → 읽어요 · อ่าน",
+          "wordIds": [
+            "s10-11-word-025"
+          ]
+        },
+        {
+          "ko": "섞어요",
+          "th": "섞다 → 섞어요 · ผสม",
+          "wordIds": [
+            "s10-11-word-039"
+          ]
+        },
+        {
+          "ko": "들어요",
+          "th": "들다 → 들어요 · ยก — ความหมายในตัวอย่างนี้",
+          "wordIds": [
+            "s10-11-word-030"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11-eo-open",
+      "topic": "endings",
+      "title": "ฐานลงท้าย ㅔ / ㅐ / ㅓ / ㅕ → 요",
+      "explanation": "คำในสไลด์ที่ฐานลงท้ายด้วยสระเหล่านี้ใช้รูปย่อโดยเติม 요 เช่น 세다 → 세요, 내다 → 내요, 서다 → 서요 และ 켜다 → 켜요 ไม่ต้องเติม 어 ซ้ำ",
+      "examples": [
+        {
+          "ko": "세요",
+          "th": "세다 → 세요 · นับ — ความหมายในตัวอย่างนี้",
+          "wordIds": [
+            "s10-11-word-040"
+          ]
+        },
+        {
+          "ko": "서요",
+          "th": "서다 → 서요 · ยืน",
+          "wordIds": [
+            "s10-11-word-041"
+          ]
+        },
+        {
+          "ko": "켜요",
+          "th": "켜다 → 켜요 · เปิดไฟหรือเปิดเครื่อง",
+          "wordIds": [
+            "s10-11-word-042"
+          ]
+        },
+        {
+          "ko": "내요",
+          "th": "내다 → 내요 · จ่าย / ส่ง — ความหมายในตัวอย่างนี้",
+          "wordIds": [
+            "s10-11-word-043"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11-u-contract",
+      "topic": "endings",
+      "title": "ㅜ + 어 → ㅝ",
+      "explanation": "เมื่อฐานลงท้ายด้วย ㅜ ไม่มีตัวสะกด สไลด์ใช้รูปย่อ ㅝ요 เช่น 주다 → 줘요, 배우다 → 배워요 บางคำมีรูปไม่ย่อที่ถูกได้ด้วย แบบฝึกจึงระบุให้เลือกรูปย่อ",
+      "examples": [
+        {
+          "ko": "키워요",
+          "th": "키우다 → 키워요 · เลี้ยง / ทำให้เติบโต",
+          "wordIds": [
+            "s10-11-word-044"
+          ]
+        },
+        {
+          "ko": "배워요",
+          "th": "배우다 → 배워요 · เรียนรู้",
+          "wordIds": [
+            "s10-11-word-045"
+          ]
+        },
+        {
+          "ko": "지워요",
+          "th": "지우다 → 지워요 · ลบ",
+          "wordIds": [
+            "s10-11-word-046"
+          ]
+        },
+        {
+          "ko": "줘요",
+          "th": "주다 → 줘요 · ให้",
+          "wordIds": [
+            "s10-11-word-047"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "recap-conjugate-21",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "먹다 · กิน\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "먹아요"
+        },
+        {
+          "id": "o1",
+          "text": "먹요"
+        },
+        {
+          "id": "o2",
+          "text": "먹어요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "먹어요",
+      "explanation": "먹다 → 먹어요\nถ้าสระพยางค์ท้ายของฐานไม่ใช่ ㅏ หรือ ㅗ และมีตัวสะกด ตัวอย่างในโน้ตใช้ 어요 เช่น 먹다 → 먹어요 และ 들다 → 들어요 โดย 들다 ในบทนี้หมายถึง “ยก” ไม่ใช่ 듣다 ที่แปลว่า “ฟัง”",
+      "requires": [
+        "s11-eo-batchim",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-022"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-22",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "읽다 · อ่าน\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "읽요"
+        },
+        {
+          "id": "o1",
+          "text": "읽어요"
+        },
+        {
+          "id": "o2",
+          "text": "읽아요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "읽어요",
+      "explanation": "읽다 → 읽어요\nถ้าสระพยางค์ท้ายของฐานไม่ใช่ ㅏ หรือ ㅗ และมีตัวสะกด ตัวอย่างในโน้ตใช้ 어요 เช่น 먹다 → 먹어요 และ 들다 → 들어요 โดย 들다 ในบทนี้หมายถึง “ยก” ไม่ใช่ 듣다 ที่แปลว่า “ฟัง”",
+      "requires": [
+        "s11-eo-batchim",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s10-11-word-025"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-23",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "섞다 · ผสม\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "섞어요"
+        },
+        {
+          "id": "o1",
+          "text": "섞아요"
+        },
+        {
+          "id": "o2",
+          "text": "섞요"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "섞어요",
+      "explanation": "섞다 → 섞어요\nถ้าสระพยางค์ท้ายของฐานไม่ใช่ ㅏ หรือ ㅗ และมีตัวสะกด ตัวอย่างในโน้ตใช้ 어요 เช่น 먹다 → 먹어요 และ 들다 → 들어요 โดย 들다 ในบทนี้หมายถึง “ยก” ไม่ใช่ 듣다 ที่แปลว่า “ฟัง”",
+      "requires": [
+        "s11-eo-batchim",
+        "s10-11-word-039"
+      ],
+      "wordIds": [
+        "s10-11-word-039"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-24",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "들다 · ยก — ความหมายในตัวอย่างนี้\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "들아요"
+        },
+        {
+          "id": "o1",
+          "text": "들요"
+        },
+        {
+          "id": "o2",
+          "text": "들어요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "들어요",
+      "explanation": "들다 → 들어요\nถ้าสระพยางค์ท้ายของฐานไม่ใช่ ㅏ หรือ ㅗ และมีตัวสะกด ตัวอย่างในโน้ตใช้ 어요 เช่น 먹다 → 먹어요 และ 들다 → 들어요 โดย 들다 ในบทนี้หมายถึง “ยก” ไม่ใช่ 듣다 ที่แปลว่า “ฟัง”",
+      "requires": [
+        "s11-eo-batchim",
+        "s10-11-word-030"
+      ],
+      "wordIds": [
+        "s10-11-word-030"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-25",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "세다 · นับ — ความหมายในตัวอย่างนี้\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "세다"
+        },
+        {
+          "id": "o1",
+          "text": "세요"
+        },
+        {
+          "id": "o2",
+          "text": "세아요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "세요",
+      "explanation": "세다 → 세요\nคำในสไลด์ที่ฐานลงท้ายด้วยสระเหล่านี้ใช้รูปย่อโดยเติม 요 เช่น 세다 → 세요, 내다 → 내요, 서다 → 서요 และ 켜다 → 켜요 ไม่ต้องเติม 어 ซ้ำ",
+      "requires": [
+        "s11-eo-open",
+        "s10-11-word-040"
+      ],
+      "wordIds": [
+        "s10-11-word-040"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-26",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "서다 · ยืน\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "서요"
+        },
+        {
+          "id": "o1",
+          "text": "서아요"
+        },
+        {
+          "id": "o2",
+          "text": "서다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "서요",
+      "explanation": "서다 → 서요\nคำในสไลด์ที่ฐานลงท้ายด้วยสระเหล่านี้ใช้รูปย่อโดยเติม 요 เช่น 세다 → 세요, 내다 → 내요, 서다 → 서요 และ 켜다 → 켜요 ไม่ต้องเติม 어 ซ้ำ",
+      "requires": [
+        "s11-eo-open",
+        "s10-11-word-041"
+      ],
+      "wordIds": [
+        "s10-11-word-041"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-27",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "켜다 · เปิดไฟหรือเปิดเครื่อง\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "켜아요"
+        },
+        {
+          "id": "o1",
+          "text": "켜다"
+        },
+        {
+          "id": "o2",
+          "text": "켜요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "켜요",
+      "explanation": "켜다 → 켜요\nคำในสไลด์ที่ฐานลงท้ายด้วยสระเหล่านี้ใช้รูปย่อโดยเติม 요 เช่น 세다 → 세요, 내다 → 내요, 서다 → 서요 และ 켜다 → 켜요 ไม่ต้องเติม 어 ซ้ำ",
+      "requires": [
+        "s11-eo-open",
+        "s10-11-word-042"
+      ],
+      "wordIds": [
+        "s10-11-word-042"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-28",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "내다 · จ่าย / ส่ง — ความหมายในตัวอย่างนี้\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "내다"
+        },
+        {
+          "id": "o1",
+          "text": "내요"
+        },
+        {
+          "id": "o2",
+          "text": "내아요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "내요",
+      "explanation": "내다 → 내요\nคำในสไลด์ที่ฐานลงท้ายด้วยสระเหล่านี้ใช้รูปย่อโดยเติม 요 เช่น 세다 → 세요, 내다 → 내요, 서다 → 서요 และ 켜다 → 켜요 ไม่ต้องเติม 어 ซ้ำ",
+      "requires": [
+        "s11-eo-open",
+        "s10-11-word-043"
+      ],
+      "wordIds": [
+        "s10-11-word-043"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-29",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "키우다 · เลี้ยง / ทำให้เติบโต\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "키워요"
+        },
+        {
+          "id": "o1",
+          "text": "키와요"
+        },
+        {
+          "id": "o2",
+          "text": "키우요"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "키워요",
+      "explanation": "키우다 → 키워요\nเมื่อฐานลงท้ายด้วย ㅜ ไม่มีตัวสะกด สไลด์ใช้รูปย่อ ㅝ요 เช่น 주다 → 줘요, 배우다 → 배워요 บางคำมีรูปไม่ย่อที่ถูกได้ด้วย แบบฝึกจึงระบุให้เลือกรูปย่อ",
+      "requires": [
+        "s11-u-contract",
+        "s10-11-word-044"
+      ],
+      "wordIds": [
+        "s10-11-word-044"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-30",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "배우다 · เรียนรู้\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "배와요"
+        },
+        {
+          "id": "o1",
+          "text": "배우요"
+        },
+        {
+          "id": "o2",
+          "text": "배워요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "배워요",
+      "explanation": "배우다 → 배워요\nเมื่อฐานลงท้ายด้วย ㅜ ไม่มีตัวสะกด สไลด์ใช้รูปย่อ ㅝ요 เช่น 주다 → 줘요, 배우다 → 배워요 บางคำมีรูปไม่ย่อที่ถูกได้ด้วย แบบฝึกจึงระบุให้เลือกรูปย่อ",
+      "requires": [
+        "s11-u-contract",
+        "s10-11-word-045"
+      ],
+      "wordIds": [
+        "s10-11-word-045"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-31",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "지우다 · ลบ\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "지우요"
+        },
+        {
+          "id": "o1",
+          "text": "지워요"
+        },
+        {
+          "id": "o2",
+          "text": "지와요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "지워요",
+      "explanation": "지우다 → 지워요\nเมื่อฐานลงท้ายด้วย ㅜ ไม่มีตัวสะกด สไลด์ใช้รูปย่อ ㅝ요 เช่น 주다 → 줘요, 배우다 → 배워요 บางคำมีรูปไม่ย่อที่ถูกได้ด้วย แบบฝึกจึงระบุให้เลือกรูปย่อ",
+      "requires": [
+        "s11-u-contract",
+        "s10-11-word-046"
+      ],
+      "wordIds": [
+        "s10-11-word-046"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-32",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "주다 · ให้\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "줘요"
+        },
+        {
+          "id": "o1",
+          "text": "주아요"
+        },
+        {
+          "id": "o2",
+          "text": "주요"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "줘요",
+      "explanation": "주다 → 줘요\nเมื่อฐานลงท้ายด้วย ㅜ ไม่มีตัวสะกด สไลด์ใช้รูปย่อ ㅝ요 เช่น 주다 → 줘요, 배우다 → 배워요 บางคำมีรูปไม่ย่อที่ถูกได้ด้วย แบบฝึกจึงระบุให้เลือกรูปย่อ",
+      "requires": [
+        "s11-u-contract",
+        "s10-11-word-047"
+      ],
+      "wordIds": [
+        "s10-11-word-047"
+      ],
+      "added": true
+    },
+    {
+      "id": "recall-s10-11-word-039",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-039",
+      "prompt": "ผสม",
+      "answerText": "섞다",
+      "explanation": "섞다 — ผสม",
+      "requires": [
+        "s10-11-word-039"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-040",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-040",
+      "prompt": "นับ — ความหมายในตัวอย่างนี้",
+      "answerText": "세다",
+      "explanation": "세다 — นับ — ความหมายในตัวอย่างนี้",
+      "requires": [
+        "s10-11-word-040"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-041",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-041",
+      "prompt": "ยืน",
+      "answerText": "서다",
+      "explanation": "서다 — ยืน",
+      "requires": [
+        "s10-11-word-041"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-042",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-042",
+      "prompt": "เปิดไฟหรือเปิดเครื่อง",
+      "answerText": "켜다",
+      "explanation": "켜다 — เปิดไฟหรือเปิดเครื่อง",
+      "requires": [
+        "s10-11-word-042"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-043",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-043",
+      "prompt": "จ่าย / ส่ง — ความหมายในตัวอย่างนี้",
+      "answerText": "내다",
+      "explanation": "내다 — จ่าย / ส่ง — ความหมายในตัวอย่างนี้",
+      "requires": [
+        "s10-11-word-043"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 11"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-044",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-044",
+      "prompt": "เลี้ยง / ทำให้เติบโต",
+      "answerText": "키우다",
+      "explanation": "키우다 — เลี้ยง / ทำให้เติบโต",
+      "requires": [
+        "s10-11-word-044"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 12"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-045",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-045",
+      "prompt": "เรียนรู้",
+      "answerText": "배우다",
+      "explanation": "배우다 — เรียนรู้",
+      "requires": [
+        "s10-11-word-045"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 12"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-046",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-046",
+      "prompt": "ลบ",
+      "answerText": "지우다",
+      "explanation": "지우다 — ลบ",
+      "requires": [
+        "s10-11-word-046"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 12"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-047",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-047",
+      "prompt": "ให้",
+      "answerText": "주다",
+      "explanation": "주다 — ให้",
+      "requires": [
+        "s10-11-word-047"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 12"
+      }
+    }
+  ]
+}

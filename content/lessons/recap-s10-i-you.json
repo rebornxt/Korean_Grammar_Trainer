@@ -1,0 +1,673 @@
+{
+  "id": "recap-s10-i-you",
+  "sectionId": "section-10",
+  "title": "10 · ฉันและคุณ",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section10_11.pdf",
+    "locator": "หน้า 1–2 · 10 · ฉันและคุณ",
+    "kind": "learner-recap"
+  },
+  "notes": "ขอบเขตตามโน้ตผู้เรียน ไม่ได้หมายถึงเรียนจบทั้ง section; ไม่มีการอนุมานหมายเลข lecture",
+  "words": [
+    {
+      "id": "s10-11-word-001",
+      "ko": "저",
+      "th": "ฉัน/ผม/ดิฉัน — รูปถ่อมตน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "s10-11-word-002",
+      "ko": "나",
+      "th": "ฉัน — รูปกันเอง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "s10-11-word-003",
+      "ko": "너",
+      "th": "เธอ/นาย — ใช้กับคนสนิทหรือผู้ที่เหมาะกับภาษากันเอง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "s10-11-word-004",
+      "ko": "제가",
+      "th": "ฉัน/ผม/ดิฉัน เมื่อใช้ 저 กับ 가",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "s10-11-word-005",
+      "ko": "내가",
+      "th": "ฉัน เมื่อใช้ 나 กับ 가",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "s10-11-word-006",
+      "ko": "네가",
+      "th": "เธอ/นาย เมื่อใช้ 너 กับ 가 — รูปเขียนมาตรฐาน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "s10-11-word-007",
+      "ko": "당신",
+      "th": "คุณ — มีบริบทเฉพาะ เช่น คู่สมรส ไม่ใช่คำเรียกทุกคน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 2"
+      }
+    },
+    {
+      "id": "s10-11-word-008",
+      "ko": "그대",
+      "th": "เธอ — คำเรียกอย่างเอ็นดู มักพบในเพลงหรือบทกวี",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 2"
+      }
+    },
+    {
+      "id": "s10-11-word-009",
+      "ko": "선생님",
+      "th": "ครู / อาจารย์",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s10-i-register",
+      "topic": "pronouns",
+      "title": "저 กับ 나 — เลือกให้เหมาะกับคู่สนทนา",
+      "explanation": "저 เป็นสรรพนามบุรุษที่หนึ่งแบบถ่อมตน ส่วน 나 เป็นรูปกันเอง เมื่อเติม 가 จะเป็น 제가 และ 내가 ตามลำดับ ระดับความสุภาพของสรรพนามกับระดับคำลงท้ายเป็นคนละส่วนกัน แต่ควรเลือกให้เข้ากับบริบทเดียวกัน",
+      "examples": [
+        {
+          "ko": "저는 선생님입니다.",
+          "th": "ผม/ดิฉันเป็นครู",
+          "wordIds": [
+            "s10-11-word-001",
+            "s10-11-word-009"
+          ]
+        },
+        {
+          "ko": "제가 선생님입니다.",
+          "th": "ผม/ดิฉันเป็นครู",
+          "wordIds": [
+            "s10-11-word-004",
+            "s10-11-word-009"
+          ]
+        },
+        {
+          "ko": "나는 선생님이야.",
+          "th": "ฉันเป็นครู — กันเอง",
+          "wordIds": [
+            "s10-11-word-002",
+            "s10-11-word-009"
+          ]
+        },
+        {
+          "ko": "내가 선생님이야.",
+          "th": "ฉันเป็นครู — กันเอง",
+          "wordIds": [
+            "s10-11-word-005",
+            "s10-11-word-009"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10-you-context",
+      "topic": "pronouns",
+      "title": "너 ไม่ใช่คำว่า “คุณ” ที่ใช้ได้กับทุกคน",
+      "explanation": "너 เหมาะกับเพื่อนหรือคนที่ใช้ภาษากันเองด้วยได้ สไลด์แนะนำให้เรียกผู้ที่อาวุโสกว่าด้วยตำแหน่ง เช่น 선생님 และละสรรพนามเมื่อบริบทชัดเจน 당신 มีบริบทเฉพาะ เช่น ระหว่างคู่สมรส จึงไม่ควรใช้แทน “คุณ” กับทุกคน ส่วน 그대 เป็นคำเรียกอย่างเอ็นดู",
+      "examples": [
+        {
+          "ko": "너는 선생님이야.",
+          "th": "เธอเป็นครู — กันเอง",
+          "wordIds": [
+            "s10-11-word-003",
+            "s10-11-word-009"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10-nega",
+      "topic": "pronouns",
+      "title": "내가 กับ 네가 — แยกคนพูดและคนฟัง",
+      "explanation": "나 + 가 เปลี่ยนเป็น 내가 ส่วน 너 + 가 เปลี่ยนเป็น 네가 ในภาษาพูดมักได้ยิน 니가 เพื่อแยกจาก 내가 แต่แบบฝึกนี้ใช้รูปเขียนมาตรฐาน 네가 ตามคำแนะนำในสไลด์ ไม่ใช้การฟังอย่างเดียวให้แยกคำสองคำนี้",
+      "examples": [
+        {
+          "ko": "내가",
+          "th": "ฉัน เป็นประธาน",
+          "wordIds": [
+            "s10-11-word-005"
+          ]
+        },
+        {
+          "ko": "네가",
+          "th": "เธอ/นาย เป็นประธาน — รูปเขียน",
+          "wordIds": [
+            "s10-11-word-006"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recap-order-rule-1",
+      "topic": "order",
+      "title": "เรียงประโยคตามตัวอย่างในโน้ต",
+      "explanation": "ใช้ชิ้นคำที่มีคำช่วยติดอยู่แล้ว เรียงตามประโยคตัวอย่าง โดยวางภาคแสดงท้ายประโยค แบบฝึกนี้เจาะจงลำดับในโน้ต ไม่ได้ตัดสินว่าการสลับลำดับอื่นผิดเสมอในภาษาเกาหลี",
+      "examples": [
+        {
+          "ko": "저는 선생님입니다.",
+          "th": "ผม/ดิฉันเป็นครู — ใช้ชิ้นคำที่ให้เรียงตามตัวอย่างในโน้ต",
+          "wordIds": [
+            "s10-11-word-001",
+            "s10-11-word-009"
+          ]
+        },
+        {
+          "ko": "내가 선생님이야.",
+          "th": "ฉันเป็นครู — รูปกันเองตามตัวอย่างในโน้ต",
+          "wordIds": [
+            "s10-11-word-005",
+            "s10-11-word-009"
+          ]
+        }
+      ],
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "recap-i-humble",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "เมื่อพูดว่า “ฉัน” แบบถ่อมตน เลือกคำใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "너"
+        },
+        {
+          "id": "o1",
+          "text": "저"
+        },
+        {
+          "id": "o2",
+          "text": "나"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "저",
+      "explanation": "저 เป็นรูปถ่อมตน ส่วน 나 เป็นรูปกันเอง และ 너 หมายถึงคู่สนทนา",
+      "requires": [
+        "s10-i-register",
+        "s10-11-word-001"
+      ],
+      "wordIds": [
+        "s10-11-word-001"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-i-casual",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "เมื่อพูดว่า “ฉัน” กับเพื่อนสนิทแบบกันเอง เลือกคำใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저"
+        },
+        {
+          "id": "o1",
+          "text": "너"
+        },
+        {
+          "id": "o2",
+          "text": "나"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "나",
+      "explanation": "ในคู่คำที่เรียน 나 เป็นรูปกันเองของผู้พูด",
+      "requires": [
+        "s10-i-register",
+        "s10-11-word-002"
+      ],
+      "wordIds": [
+        "s10-11-word-002"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-je-ga",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "저 เมื่อใช้กับ 가 เปลี่ยนเป็นรูปใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "제가"
+        },
+        {
+          "id": "o1",
+          "text": "저가"
+        },
+        {
+          "id": "o2",
+          "text": "내가"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "제가",
+      "explanation": "저 + 가 เปลี่ยนเป็น 제가 ตามตัวอย่างในหน้า 1",
+      "requires": [
+        "s10-i-register",
+        "s10-11-word-004"
+      ],
+      "wordIds": [
+        "s10-11-word-004"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-nae-ga",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "나 เมื่อใช้กับ 가 เปลี่ยนเป็นรูปใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "네가"
+        },
+        {
+          "id": "o1",
+          "text": "내가"
+        },
+        {
+          "id": "o2",
+          "text": "나가"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "내가",
+      "explanation": "나 + 가 เปลี่ยนเป็น 내가 อย่าสับสนกับ 네가 ที่หมายถึงคนฟัง",
+      "requires": [
+        "s10-nega",
+        "s10-11-word-005"
+      ],
+      "wordIds": [
+        "s10-11-word-005"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-ne-ga",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "รูปเขียนมาตรฐานของ 너 + 가 คือข้อใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "니가"
+        },
+        {
+          "id": "o1",
+          "text": "내가"
+        },
+        {
+          "id": "o2",
+          "text": "네가"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "네가",
+      "explanation": "สไลด์ระบุให้เขียน 네가 แม้ภาษาพูดจะพบ 니가 เพื่อแยกจาก 내가",
+      "requires": [
+        "s10-nega",
+        "s10-11-word-006"
+      ],
+      "wordIds": [
+        "s10-11-word-006"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-you-senior",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "เมื่อต้องการเรียกครูอย่างเหมาะสม ตามคำแนะนำในโน้ต เลือกคำใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "너"
+        },
+        {
+          "id": "o1",
+          "text": "그대"
+        },
+        {
+          "id": "o2",
+          "text": "선생님"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "선생님",
+      "explanation": "ใช้ตำแหน่งเรียกผู้ที่อาวุโสกว่า ไม่ใช้ 너 กับทุกคน",
+      "requires": [
+        "s10-you-context",
+        "s10-11-word-009"
+      ],
+      "wordIds": [
+        "s10-11-word-009"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-you-context",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "ข้อใดตรงกับการใช้ 너 ในบทนี้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "ใช้สุภาพกับคนแปลกหน้าทุกคน"
+        },
+        {
+          "id": "o1",
+          "text": "ใช้แทนผู้พูด"
+        },
+        {
+          "id": "o2",
+          "text": "ใช้กับเพื่อนหรือคนที่ใช้ภาษากันเองด้วยได้"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "너",
+      "explanation": "คำสรรพนามขึ้นกับความสัมพันธ์กับคู่สนทนา สไลด์ระบุว่า 너 ใช้กับเพื่อน",
+      "requires": [
+        "s10-you-context",
+        "s10-11-word-003"
+      ],
+      "wordIds": [
+        "s10-11-word-003"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-dangsin",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "ข้อใดตรงกับคำเตือนเรื่อง 당신",
+      "options": [
+        {
+          "id": "o0",
+          "text": "มีบริบทเฉพาะ เช่น ระหว่างคู่สมรส"
+        },
+        {
+          "id": "o1",
+          "text": "ใช้เรียกครูได้เสมอโดยไม่ต้องดูบริบท"
+        },
+        {
+          "id": "o2",
+          "text": "หมายถึงพวกเราแบบถ่อมตน"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "당신",
+      "explanation": "โน้ตยกบริบทคู่สมรสและตำรา จึงไม่ควรจำ 당신 เป็น “คุณ” ที่ใช้ได้กับทุกคน",
+      "requires": [
+        "s10-you-context",
+        "s10-11-word-007"
+      ],
+      "wordIds": [
+        "s10-11-word-007"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-order-je-teacher",
+      "type": "order",
+      "topic": "order",
+      "prompt": "ผม/ดิฉันเป็นครู — ใช้ชิ้นคำที่ให้เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "선생님입니다."
+      ],
+      "accepted": [
+        [
+          0,
+          1
+        ]
+      ],
+      "answerText": "저는 선생님입니다.",
+      "explanation": "ข้อนี้ฝึกลำดับตามประโยคตัวอย่างในโน้ต โดยเก็บคำช่วยติดกับคำนามและวางภาคแสดงท้ายประโยค ไม่ได้หมายความว่าลำดับอื่นผิดในทุกบริบท",
+      "requires": [
+        "s10-i-register",
+        "s11-formal-v",
+        "s10-11-word-001",
+        "s10-11-word-009",
+        "recap-order-rule-1"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s10-11-word-009"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-order-nae-teacher",
+      "type": "order",
+      "topic": "order",
+      "prompt": "ฉันเป็นครู — รูปกันเองตามตัวอย่างในโน้ต",
+      "chunks": [
+        "내가",
+        "선생님이야."
+      ],
+      "accepted": [
+        [
+          0,
+          1
+        ]
+      ],
+      "answerText": "내가 선생님이야.",
+      "explanation": "ข้อนี้ฝึกลำดับตามประโยคตัวอย่างในโน้ต โดยเก็บคำช่วยติดกับคำนามและวางภาคแสดงท้ายประโยค ไม่ได้หมายความว่าลำดับอื่นผิดในทุกบริบท",
+      "requires": [
+        "s10-i-register",
+        "s10-nega",
+        "s10-11-word-005",
+        "s10-11-word-009",
+        "recap-order-rule-1"
+      ],
+      "wordIds": [
+        "s10-11-word-005",
+        "s10-11-word-009"
+      ],
+      "added": true
+    },
+    {
+      "id": "recall-s10-11-word-001",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-001",
+      "prompt": "ฉัน/ผม/ดิฉัน — รูปถ่อมตน",
+      "answerText": "저",
+      "explanation": "저 — ฉัน/ผม/ดิฉัน — รูปถ่อมตน",
+      "requires": [
+        "s10-11-word-001"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-002",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-002",
+      "prompt": "ฉัน — รูปกันเอง",
+      "answerText": "나",
+      "explanation": "나 — ฉัน — รูปกันเอง",
+      "requires": [
+        "s10-11-word-002"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-003",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-003",
+      "prompt": "เธอ/นาย — ใช้กับคนสนิทหรือผู้ที่เหมาะกับภาษากันเอง",
+      "answerText": "너",
+      "explanation": "너 — เธอ/นาย — ใช้กับคนสนิทหรือผู้ที่เหมาะกับภาษากันเอง",
+      "requires": [
+        "s10-11-word-003"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-004",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-004",
+      "prompt": "ฉัน/ผม/ดิฉัน เมื่อใช้ 저 กับ 가",
+      "answerText": "제가",
+      "explanation": "제가 — ฉัน/ผม/ดิฉัน เมื่อใช้ 저 กับ 가",
+      "requires": [
+        "s10-11-word-004"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-005",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-005",
+      "prompt": "ฉัน เมื่อใช้ 나 กับ 가",
+      "answerText": "내가",
+      "explanation": "내가 — ฉัน เมื่อใช้ 나 กับ 가",
+      "requires": [
+        "s10-11-word-005"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-006",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-006",
+      "prompt": "เธอ/นาย เมื่อใช้ 너 กับ 가 — รูปเขียนมาตรฐาน",
+      "answerText": "네가",
+      "explanation": "네가 — เธอ/นาย เมื่อใช้ 너 กับ 가 — รูปเขียนมาตรฐาน",
+      "requires": [
+        "s10-11-word-006"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-007",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-007",
+      "prompt": "คุณ — มีบริบทเฉพาะ เช่น คู่สมรส ไม่ใช่คำเรียกทุกคน",
+      "answerText": "당신",
+      "explanation": "당신 — คุณ — มีบริบทเฉพาะ เช่น คู่สมรส ไม่ใช่คำเรียกทุกคน",
+      "requires": [
+        "s10-11-word-007"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 2"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-008",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-008",
+      "prompt": "เธอ — คำเรียกอย่างเอ็นดู มักพบในเพลงหรือบทกวี",
+      "answerText": "그대",
+      "explanation": "그대 — เธอ — คำเรียกอย่างเอ็นดู มักพบในเพลงหรือบทกวี",
+      "requires": [
+        "s10-11-word-008"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 2"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-009",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-009",
+      "prompt": "ครู / อาจารย์",
+      "answerText": "선생님",
+      "explanation": "선생님 — ครู / อาจารย์",
+      "requires": [
+        "s10-11-word-009"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 1"
+      }
+    }
+  ]
+}

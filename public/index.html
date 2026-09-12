@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#fbfbfa"><meta name="description" content="ทบทวนภาษาเกาหลี ทีละบทตามที่คุณเรียน พร้อมเสียงและการใช้งานออฟไลน์">
+  <title>한국어 · ทบทวนเกาหลี</title>
+  <link rel="icon" href="icon.svg"><link rel="apple-touch-icon" href="icon-192.png"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-head"><a class="brand" href="./"><span class="brand-mark" lang="ko">한</span><span>한국어 <span class="brand-sub">/ ทบทวนเกาหลี</span></span></a><span class="personal">พื้นที่เรียนของคุณ</span></header>
+  <main>
+    <div class="topline"><span id="offline" class="status" role="status">กำลังเตรียมออฟไลน์…</span></div>
+    <div id="update-box" class="notice" hidden><span>รุ่นใหม่ดาวน์โหลดครบแล้ว พร้อมอัปเดตเมื่อคุณสะดวก</span><button id="update">อัปเดตและเปิดใหม่</button></div>
+    <div id="notice" class="notice" role="status" hidden></div>
+    <nav aria-label="หน้าหลัก"><button data-view="lessons" aria-current="page">บทเรียน</button><button data-view="practice">ฝึก</button><button data-view="review">อ่านทบทวน</button></nav>
+    <div id="view"></div>
+    <footer><details><summary>ข้อมูลและการตั้งค่า</summary><div class="footer-actions"><button id="backup" class="text-btn">สำรองผลทบทวน</button><button id="restore" class="text-btn">นำเข้าไฟล์</button><button id="retry-offline" class="text-btn">ตรวจออฟไลน์ / อัปเดต</button></div><small id="version"></small></details><input id="backup-file" type="file" accept="application/json,.json" hidden></footer>
+  </main>
+  <dialog id="import-dialog"><h2>แทนที่ผลทบทวนในเครื่องนี้?</h2><p>ไฟล์ที่ตรวจแล้วจะใช้แทนคะแนน สถานะคำศัพท์ และตัวกรองเดิม เนื้อหาบทเรียนไม่เปลี่ยน</p><p id="import-summary"></p><div class="actions"><button id="cancel-import">ยกเลิก</button><button id="confirm-import" class="primary">ยืนยันนำเข้า</button></div></dialog>
+  <noscript>กรุณาเปิด JavaScript เพื่อใช้งานแอพทบทวน</noscript>
+  <script type="module" src="app.js"></script>
+</body></html>

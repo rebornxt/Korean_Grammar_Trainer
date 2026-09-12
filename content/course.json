@@ -1,0 +1,481 @@
+{
+  "id": "udemy-korean-absolute-beginners",
+  "title": "The Complete Korean Course for Beginners | 10 courses in 1!",
+  "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+  "observedAt": "2026-09-12",
+  "lectureCount": 733,
+  "groups": [
+    {
+      "id": "course-1",
+      "title": "พื้นฐานภาษาเกาหลี 1",
+      "from": 1,
+      "to": 6
+    },
+    {
+      "id": "course-2",
+      "title": "พื้นฐานภาษาเกาหลี 2",
+      "from": 7,
+      "to": 14
+    },
+    {
+      "id": "course-3",
+      "title": "คำศัพท์ 1",
+      "from": 15,
+      "to": 28
+    },
+    {
+      "id": "course-4",
+      "title": "ไวยากรณ์สำคัญ 1",
+      "from": 29,
+      "to": 34
+    },
+    {
+      "id": "course-5",
+      "title": "บทสนทนาเบื้องต้น",
+      "from": 35,
+      "to": 44
+    },
+    {
+      "id": "course-6",
+      "title": "คำศัพท์ 2",
+      "from": 45,
+      "to": 53
+    },
+    {
+      "id": "course-7",
+      "title": "ระดับภาษาและการยกย่อง",
+      "from": 54,
+      "to": 57
+    },
+    {
+      "id": "course-8",
+      "title": "ภาษาเกาหลีเพื่อการเดินทาง",
+      "from": 58,
+      "to": 64
+    },
+    {
+      "id": "course-9",
+      "title": "ไวยากรณ์สำคัญ 2",
+      "from": 65,
+      "to": 71
+    },
+    {
+      "id": "course-10",
+      "title": "บทสนทนาก่อนระดับกลาง",
+      "from": 72,
+      "to": 82
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "number": 1,
+      "title": "Introduction"
+    },
+    {
+      "id": "section-02",
+      "number": 2,
+      "title": "Consonants"
+    },
+    {
+      "id": "section-03",
+      "number": 3,
+      "title": "Vowels"
+    },
+    {
+      "id": "section-04",
+      "number": 4,
+      "title": "Tense consonants, W-glides and CVC Combinations"
+    },
+    {
+      "id": "section-05",
+      "number": 5,
+      "title": "Korean Sentence Structure"
+    },
+    {
+      "id": "section-06",
+      "number": 6,
+      "title": "Basic Korean Phrases"
+    },
+    {
+      "id": "section-07",
+      "number": 7,
+      "title": "Korean for Absolute Beginners 2"
+    },
+    {
+      "id": "section-08",
+      "number": 8,
+      "title": "Korean numbers"
+    },
+    {
+      "id": "section-09",
+      "number": 9,
+      "title": "Time & Date"
+    },
+    {
+      "id": "section-10",
+      "number": 10,
+      "title": "Pronouns"
+    },
+    {
+      "id": "section-11",
+      "number": 11,
+      "title": "Sentence Structure - Present Tense"
+    },
+    {
+      "id": "section-12",
+      "number": 12,
+      "title": "Irregular verbs"
+    },
+    {
+      "id": "section-13",
+      "number": 13,
+      "title": "Sentence Formulation Practice"
+    },
+    {
+      "id": "section-14",
+      "number": 14,
+      "title": "Wh-words in Korean"
+    },
+    {
+      "id": "section-15",
+      "number": 15,
+      "title": "Korean Vocabulary Builder 1"
+    },
+    {
+      "id": "section-16",
+      "number": 16,
+      "title": "Family"
+    },
+    {
+      "id": "section-17",
+      "number": 17,
+      "title": "Clothes and Accessories"
+    },
+    {
+      "id": "section-18",
+      "number": 18,
+      "title": "Colours"
+    },
+    {
+      "id": "section-19",
+      "number": 19,
+      "title": "Fruit & Veg"
+    },
+    {
+      "id": "section-20",
+      "number": 20,
+      "title": "Meat & Fish"
+    },
+    {
+      "id": "section-21",
+      "number": 21,
+      "title": "Beverages & Korean Food"
+    },
+    {
+      "id": "section-22",
+      "number": 22,
+      "title": "The home"
+    },
+    {
+      "id": "section-23",
+      "number": 23,
+      "title": "People"
+    },
+    {
+      "id": "section-24",
+      "number": 24,
+      "title": "The school"
+    },
+    {
+      "id": "section-25",
+      "number": 25,
+      "title": "Sports"
+    },
+    {
+      "id": "section-26",
+      "number": 26,
+      "title": "Transport"
+    },
+    {
+      "id": "section-27",
+      "number": 27,
+      "title": "Places around the town"
+    },
+    {
+      "id": "section-28",
+      "number": 28,
+      "title": "Animals"
+    },
+    {
+      "id": "section-29",
+      "number": 29,
+      "title": "Essential Korean Grammar level 1"
+    },
+    {
+      "id": "section-30",
+      "number": 30,
+      "title": "Unit 2: Korean Adjectives"
+    },
+    {
+      "id": "section-31",
+      "number": 31,
+      "title": "Unit 3: Korean verbs & the past tense"
+    },
+    {
+      "id": "section-32",
+      "number": 32,
+      "title": "Unit 4: Basic particles"
+    },
+    {
+      "id": "section-33",
+      "number": 33,
+      "title": "Unit 5: Complex particles"
+    },
+    {
+      "id": "section-34",
+      "number": 34,
+      "title": "Unit 6: Can & Cannot"
+    },
+    {
+      "id": "section-35",
+      "number": 35,
+      "title": "Korean Conversation for Beginners"
+    },
+    {
+      "id": "section-36",
+      "number": 36,
+      "title": "Introduction"
+    },
+    {
+      "id": "section-37",
+      "number": 37,
+      "title": "Personal Detail 1"
+    },
+    {
+      "id": "section-38",
+      "number": 38,
+      "title": "Meeting again"
+    },
+    {
+      "id": "section-39",
+      "number": 39,
+      "title": "Personal detail 2"
+    },
+    {
+      "id": "section-40",
+      "number": 40,
+      "title": "Personal Detail 3"
+    },
+    {
+      "id": "section-41",
+      "number": 41,
+      "title": "Talking about likes and dislikes"
+    },
+    {
+      "id": "section-42",
+      "number": 42,
+      "title": "Talking about family"
+    },
+    {
+      "id": "section-43",
+      "number": 43,
+      "title": "Talking about appearance"
+    },
+    {
+      "id": "section-44",
+      "number": 44,
+      "title": "Talking about weekend activities & favourite movies"
+    },
+    {
+      "id": "section-45",
+      "number": 45,
+      "title": "Korean Vocabulary Builder 2"
+    },
+    {
+      "id": "section-46",
+      "number": 46,
+      "title": "Unit 1: Body parts"
+    },
+    {
+      "id": "section-47",
+      "number": 47,
+      "title": "Unit 2: Health"
+    },
+    {
+      "id": "section-48",
+      "number": 48,
+      "title": "Unit 3: Garden & Living things"
+    },
+    {
+      "id": "section-49",
+      "number": 49,
+      "title": "Unit 4: Weather & Geography"
+    },
+    {
+      "id": "section-50",
+      "number": 50,
+      "title": "Unit 5: The car and the road system"
+    },
+    {
+      "id": "section-51",
+      "number": 51,
+      "title": "Unit 6: Workplace"
+    },
+    {
+      "id": "section-52",
+      "number": 52,
+      "title": "Unit 7: Family Life"
+    },
+    {
+      "id": "section-53",
+      "number": 53,
+      "title": "Unit 8: TV and entertainment"
+    },
+    {
+      "id": "section-54",
+      "number": 54,
+      "title": "Formality in Korean"
+    },
+    {
+      "id": "section-55",
+      "number": 55,
+      "title": "Hierarchy in Korea"
+    },
+    {
+      "id": "section-56",
+      "number": 56,
+      "title": "Honorific Language"
+    },
+    {
+      "id": "section-57",
+      "number": 57,
+      "title": "Honorific Language in Context"
+    },
+    {
+      "id": "section-58",
+      "number": 58,
+      "title": "Travel Korean"
+    },
+    {
+      "id": "section-59",
+      "number": 59,
+      "title": "Using transport"
+    },
+    {
+      "id": "section-60",
+      "number": 60,
+      "title": "At the hotel"
+    },
+    {
+      "id": "section-61",
+      "number": 61,
+      "title": "Shopping"
+    },
+    {
+      "id": "section-62",
+      "number": 62,
+      "title": "Restaurant"
+    },
+    {
+      "id": "section-63",
+      "number": 63,
+      "title": "Sightseeing"
+    },
+    {
+      "id": "section-64",
+      "number": 64,
+      "title": "Train station"
+    },
+    {
+      "id": "section-65",
+      "number": 65,
+      "title": "Essential Korean Grammar level 2"
+    },
+    {
+      "id": "section-66",
+      "number": 66,
+      "title": "Verb tenses"
+    },
+    {
+      "id": "section-67",
+      "number": 67,
+      "title": "Particles & Connectors"
+    },
+    {
+      "id": "section-68",
+      "number": 68,
+      "title": "Time related expressions"
+    },
+    {
+      "id": "section-69",
+      "number": 69,
+      "title": "Obligations, wishes and experiences"
+    },
+    {
+      "id": "section-70",
+      "number": 70,
+      "title": "Intentions & Purpose"
+    },
+    {
+      "id": "section-71",
+      "number": 71,
+      "title": "Requests & Suggestions"
+    },
+    {
+      "id": "section-72",
+      "number": 72,
+      "title": "Korean Conversation for Pre-Intermediate | Volume A"
+    },
+    {
+      "id": "section-73",
+      "number": 73,
+      "title": "Unit 2 Talking about the weather"
+    },
+    {
+      "id": "section-74",
+      "number": 74,
+      "title": "Unit 3 Morning & Night time routine"
+    },
+    {
+      "id": "section-75",
+      "number": 75,
+      "title": "Unit 4 Daily & weekly routine"
+    },
+    {
+      "id": "section-76",
+      "number": 76,
+      "title": "Unit 5 Hobbies & spare time activities"
+    },
+    {
+      "id": "section-77",
+      "number": 77,
+      "title": "Unit 6: Talking about personality"
+    },
+    {
+      "id": "section-78",
+      "number": 78,
+      "title": "Unit 7 Talking about moods and feelings"
+    },
+    {
+      "id": "section-79",
+      "number": 79,
+      "title": "Unit 8 Talking about abilities"
+    },
+    {
+      "id": "section-80",
+      "number": 80,
+      "title": "Unit 9 Talking about hopes and desires"
+    },
+    {
+      "id": "section-81",
+      "number": 81,
+      "title": "Unit 10 Talking about the weekend"
+    },
+    {
+      "id": "section-82",
+      "number": 82,
+      "title": "Unit 11 Making arrangements"
+    }
+  ]
+}

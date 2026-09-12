@@ -1,0 +1,677 @@
+{
+  "id": "recap-s11-polite-1",
+  "sectionId": "section-11",
+  "title": "11 · รูปสุภาพ 1 — 아요 และ 와요",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section10_11.pdf",
+    "locator": "หน้า 8–10 · 11 · รูปสุภาพ 1 — 아요 และ 와요",
+    "kind": "learner-recap"
+  },
+  "notes": "ขอบเขตตามโน้ตผู้เรียน ไม่ได้หมายถึงเรียนจบทั้ง section; ไม่มีการอนุมานหมายเลข lecture",
+  "words": [
+    {
+      "id": "s10-11-word-031",
+      "ko": "볶다",
+      "th": "ผัด / คั่ว",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "s10-11-word-032",
+      "ko": "찾다",
+      "th": "หา / ค้นหา",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "s10-11-word-033",
+      "ko": "가다",
+      "th": "ไป",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "s10-11-word-034",
+      "ko": "만나다",
+      "th": "พบ / เจอ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "s10-11-word-035",
+      "ko": "끝나다",
+      "th": "จบ / สิ้นสุด",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "s10-11-word-036",
+      "ko": "보다",
+      "th": "ดู / เห็น",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 10"
+      }
+    },
+    {
+      "id": "s10-11-word-037",
+      "ko": "오다",
+      "th": "มา",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 10"
+      }
+    },
+    {
+      "id": "s10-11-word-038",
+      "ko": "쏘다",
+      "th": "ยิง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 10"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s11-a-batchim",
+      "topic": "endings",
+      "title": "ㅏ / ㅗ + ตัวสะกด → 아요",
+      "explanation": "สำหรับคำในชุดนี้ ถ้าสระพยางค์ท้ายของฐานเป็น ㅏ หรือ ㅗ และมีตัวสะกด ให้ต่อ 아요 เช่น 팔다 → 팔아요, 놓다 → 놓아요 คำที่เป็นข้อยกเว้นชนิดอื่นยังไม่อยู่ในชุดนี้",
+      "examples": [
+        {
+          "ko": "팔아요",
+          "th": "팔다 → 팔아요 · ขาย",
+          "wordIds": [
+            "s10-11-word-024"
+          ]
+        },
+        {
+          "ko": "놓아요",
+          "th": "놓다 → 놓아요 · วาง",
+          "wordIds": [
+            "s10-11-word-026"
+          ]
+        },
+        {
+          "ko": "볶아요",
+          "th": "볶다 → 볶아요 · ผัด / คั่ว",
+          "wordIds": [
+            "s10-11-word-031"
+          ]
+        },
+        {
+          "ko": "찾아요",
+          "th": "찾다 → 찾아요 · หา / ค้นหา",
+          "wordIds": [
+            "s10-11-word-032"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11-a-open",
+      "topic": "endings",
+      "title": "ฐานลงท้าย ㅏ ไม่มีตัวสะกด → 요",
+      "explanation": "เมื่อฐานลงท้ายด้วย ㅏ โดยไม่มีตัวสะกด สระซ้อนกันได้ จึงใช้รูปย่ออย่าง 가요, 자요, 만나요 แบบฝึกถามรูปที่ปรากฏในสไลด์",
+      "examples": [
+        {
+          "ko": "자요",
+          "th": "자다 → 자요 · นอน",
+          "wordIds": [
+            "s10-11-word-027"
+          ]
+        },
+        {
+          "ko": "가요",
+          "th": "가다 → 가요 · ไป",
+          "wordIds": [
+            "s10-11-word-033"
+          ]
+        },
+        {
+          "ko": "만나요",
+          "th": "만나다 → 만나요 · พบ / เจอ",
+          "wordIds": [
+            "s10-11-word-034"
+          ]
+        },
+        {
+          "ko": "끝나요",
+          "th": "끝나다 → 끝나요 · จบ / สิ้นสุด",
+          "wordIds": [
+            "s10-11-word-035"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11-o-contract",
+      "topic": "endings",
+      "title": "ㅗ + 아 → ㅘ",
+      "explanation": "เมื่อฐานลงท้ายด้วย ㅗ ไม่มีตัวสะกด สไลด์ใช้รูปย่อ ㅘ요 เช่น 오다 → 와요 และ 보다 → 봐요 บางคำมีรูปไม่ย่อที่ถูกได้ด้วย จึงไม่ใช้รูปไม่ย่อเป็นตัวลวง",
+      "examples": [
+        {
+          "ko": "봐요",
+          "th": "보다 → 봐요 · ดู / เห็น",
+          "wordIds": [
+            "s10-11-word-036"
+          ]
+        },
+        {
+          "ko": "와요",
+          "th": "오다 → 와요 · มา",
+          "wordIds": [
+            "s10-11-word-037"
+          ]
+        },
+        {
+          "ko": "쏴요",
+          "th": "쏘다 → 쏴요 · ยิง",
+          "wordIds": [
+            "s10-11-word-038"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "recap-conjugate-10",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "팔다 · ขาย\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "팔요"
+        },
+        {
+          "id": "o1",
+          "text": "팔아요"
+        },
+        {
+          "id": "o2",
+          "text": "팔어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "팔아요",
+      "explanation": "팔다 → 팔아요\nสำหรับคำในชุดนี้ ถ้าสระพยางค์ท้ายของฐานเป็น ㅏ หรือ ㅗ และมีตัวสะกด ให้ต่อ 아요 เช่น 팔다 → 팔아요, 놓다 → 놓아요 คำที่เป็นข้อยกเว้นชนิดอื่นยังไม่อยู่ในชุดนี้",
+      "requires": [
+        "s11-a-batchim",
+        "s10-11-word-024"
+      ],
+      "wordIds": [
+        "s10-11-word-024"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-11",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "놓다 · วาง\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "놓아요"
+        },
+        {
+          "id": "o1",
+          "text": "놓어요"
+        },
+        {
+          "id": "o2",
+          "text": "놓요"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "놓아요",
+      "explanation": "놓다 → 놓아요\nสำหรับคำในชุดนี้ ถ้าสระพยางค์ท้ายของฐานเป็น ㅏ หรือ ㅗ และมีตัวสะกด ให้ต่อ 아요 เช่น 팔다 → 팔아요, 놓다 → 놓아요 คำที่เป็นข้อยกเว้นชนิดอื่นยังไม่อยู่ในชุดนี้",
+      "requires": [
+        "s11-a-batchim",
+        "s10-11-word-026"
+      ],
+      "wordIds": [
+        "s10-11-word-026"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-12",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "볶다 · ผัด / คั่ว\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "볶어요"
+        },
+        {
+          "id": "o1",
+          "text": "볶요"
+        },
+        {
+          "id": "o2",
+          "text": "볶아요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "볶아요",
+      "explanation": "볶다 → 볶아요\nสำหรับคำในชุดนี้ ถ้าสระพยางค์ท้ายของฐานเป็น ㅏ หรือ ㅗ และมีตัวสะกด ให้ต่อ 아요 เช่น 팔다 → 팔아요, 놓다 → 놓아요 คำที่เป็นข้อยกเว้นชนิดอื่นยังไม่อยู่ในชุดนี้",
+      "requires": [
+        "s11-a-batchim",
+        "s10-11-word-031"
+      ],
+      "wordIds": [
+        "s10-11-word-031"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-13",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "찾다 · หา / ค้นหา\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "찾요"
+        },
+        {
+          "id": "o1",
+          "text": "찾아요"
+        },
+        {
+          "id": "o2",
+          "text": "찾어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "찾아요",
+      "explanation": "찾다 → 찾아요\nสำหรับคำในชุดนี้ ถ้าสระพยางค์ท้ายของฐานเป็น ㅏ หรือ ㅗ และมีตัวสะกด ให้ต่อ 아요 เช่น 팔다 → 팔아요, 놓다 → 놓아요 คำที่เป็นข้อยกเว้นชนิดอื่นยังไม่อยู่ในชุดนี้",
+      "requires": [
+        "s11-a-batchim",
+        "s10-11-word-032"
+      ],
+      "wordIds": [
+        "s10-11-word-032"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-14",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "자다 · นอน\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "자요"
+        },
+        {
+          "id": "o1",
+          "text": "자어요"
+        },
+        {
+          "id": "o2",
+          "text": "자다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "자요",
+      "explanation": "자다 → 자요\nเมื่อฐานลงท้ายด้วย ㅏ โดยไม่มีตัวสะกด สระซ้อนกันได้ จึงใช้รูปย่ออย่าง 가요, 자요, 만나요 แบบฝึกถามรูปที่ปรากฏในสไลด์",
+      "requires": [
+        "s11-a-open",
+        "s10-11-word-027"
+      ],
+      "wordIds": [
+        "s10-11-word-027"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-15",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "가다 · ไป\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "가어요"
+        },
+        {
+          "id": "o1",
+          "text": "가다"
+        },
+        {
+          "id": "o2",
+          "text": "가요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "가요",
+      "explanation": "가다 → 가요\nเมื่อฐานลงท้ายด้วย ㅏ โดยไม่มีตัวสะกด สระซ้อนกันได้ จึงใช้รูปย่ออย่าง 가요, 자요, 만나요 แบบฝึกถามรูปที่ปรากฏในสไลด์",
+      "requires": [
+        "s11-a-open",
+        "s10-11-word-033"
+      ],
+      "wordIds": [
+        "s10-11-word-033"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-16",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "만나다 · พบ / เจอ\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "만나다"
+        },
+        {
+          "id": "o1",
+          "text": "만나요"
+        },
+        {
+          "id": "o2",
+          "text": "만나어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "만나요",
+      "explanation": "만나다 → 만나요\nเมื่อฐานลงท้ายด้วย ㅏ โดยไม่มีตัวสะกด สระซ้อนกันได้ จึงใช้รูปย่ออย่าง 가요, 자요, 만나요 แบบฝึกถามรูปที่ปรากฏในสไลด์",
+      "requires": [
+        "s11-a-open",
+        "s10-11-word-034"
+      ],
+      "wordIds": [
+        "s10-11-word-034"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-17",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "끝나다 · จบ / สิ้นสุด\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "끝나요"
+        },
+        {
+          "id": "o1",
+          "text": "끝나어요"
+        },
+        {
+          "id": "o2",
+          "text": "끝나다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "끝나요",
+      "explanation": "끝나다 → 끝나요\nเมื่อฐานลงท้ายด้วย ㅏ โดยไม่มีตัวสะกด สระซ้อนกันได้ จึงใช้รูปย่ออย่าง 가요, 자요, 만나요 แบบฝึกถามรูปที่ปรากฏในสไลด์",
+      "requires": [
+        "s11-a-open",
+        "s10-11-word-035"
+      ],
+      "wordIds": [
+        "s10-11-word-035"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-18",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "보다 · ดู / เห็น\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "보어요"
+        },
+        {
+          "id": "o1",
+          "text": "보요"
+        },
+        {
+          "id": "o2",
+          "text": "봐요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "봐요",
+      "explanation": "보다 → 봐요\nเมื่อฐานลงท้ายด้วย ㅗ ไม่มีตัวสะกด สไลด์ใช้รูปย่อ ㅘ요 เช่น 오다 → 와요 และ 보다 → 봐요 บางคำมีรูปไม่ย่อที่ถูกได้ด้วย จึงไม่ใช้รูปไม่ย่อเป็นตัวลวง",
+      "requires": [
+        "s11-o-contract",
+        "s10-11-word-036"
+      ],
+      "wordIds": [
+        "s10-11-word-036"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-19",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "오다 · มา\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "오요"
+        },
+        {
+          "id": "o1",
+          "text": "와요"
+        },
+        {
+          "id": "o2",
+          "text": "오어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "와요",
+      "explanation": "오다 → 와요\nเมื่อฐานลงท้ายด้วย ㅗ ไม่มีตัวสะกด สไลด์ใช้รูปย่อ ㅘ요 เช่น 오다 → 와요 และ 보다 → 봐요 บางคำมีรูปไม่ย่อที่ถูกได้ด้วย จึงไม่ใช้รูปไม่ย่อเป็นตัวลวง",
+      "requires": [
+        "s11-o-contract",
+        "s10-11-word-037"
+      ],
+      "wordIds": [
+        "s10-11-word-037"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-20",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "쏘다 · ยิง\nเลือกรูปสุภาพตามรูปย่อที่สไลด์ใช้",
+      "options": [
+        {
+          "id": "o0",
+          "text": "쏴요"
+        },
+        {
+          "id": "o1",
+          "text": "쏘어요"
+        },
+        {
+          "id": "o2",
+          "text": "쏘요"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "쏴요",
+      "explanation": "쏘다 → 쏴요\nเมื่อฐานลงท้ายด้วย ㅗ ไม่มีตัวสะกด สไลด์ใช้รูปย่อ ㅘ요 เช่น 오다 → 와요 และ 보다 → 봐요 บางคำมีรูปไม่ย่อที่ถูกได้ด้วย จึงไม่ใช้รูปไม่ย่อเป็นตัวลวง",
+      "requires": [
+        "s11-o-contract",
+        "s10-11-word-038"
+      ],
+      "wordIds": [
+        "s10-11-word-038"
+      ],
+      "added": true
+    },
+    {
+      "id": "recall-s10-11-word-031",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-031",
+      "prompt": "ผัด / คั่ว",
+      "answerText": "볶다",
+      "explanation": "볶다 — ผัด / คั่ว",
+      "requires": [
+        "s10-11-word-031"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-032",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-032",
+      "prompt": "หา / ค้นหา",
+      "answerText": "찾다",
+      "explanation": "찾다 — หา / ค้นหา",
+      "requires": [
+        "s10-11-word-032"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-033",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-033",
+      "prompt": "ไป",
+      "answerText": "가다",
+      "explanation": "가다 — ไป",
+      "requires": [
+        "s10-11-word-033"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-034",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-034",
+      "prompt": "พบ / เจอ",
+      "answerText": "만나다",
+      "explanation": "만나다 — พบ / เจอ",
+      "requires": [
+        "s10-11-word-034"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-035",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-035",
+      "prompt": "จบ / สิ้นสุด",
+      "answerText": "끝나다",
+      "explanation": "끝나다 — จบ / สิ้นสุด",
+      "requires": [
+        "s10-11-word-035"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 9"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-036",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-036",
+      "prompt": "ดู / เห็น",
+      "answerText": "보다",
+      "explanation": "보다 — ดู / เห็น",
+      "requires": [
+        "s10-11-word-036"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 10"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-037",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-037",
+      "prompt": "มา",
+      "answerText": "오다",
+      "explanation": "오다 — มา",
+      "requires": [
+        "s10-11-word-037"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 10"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-038",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-038",
+      "prompt": "ยิง",
+      "answerText": "쏘다",
+      "explanation": "쏘다 — ยิง",
+      "requires": [
+        "s10-11-word-038"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 10"
+      }
+    }
+  ]
+}

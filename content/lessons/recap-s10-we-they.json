@@ -1,0 +1,516 @@
+{
+  "id": "recap-s10-we-they",
+  "sectionId": "section-10",
+  "title": "10 · พวกเราและพวกเขา",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section10_11.pdf",
+    "locator": "หน้า 5–7 · 10 · พวกเราและพวกเขา",
+    "kind": "learner-recap"
+  },
+  "notes": "ขอบเขตตามโน้ตผู้เรียน ไม่ได้หมายถึงเรียนจบทั้ง section; ไม่มีการอนุมานหมายเลข lecture",
+  "words": [
+    {
+      "id": "s10-11-word-017",
+      "ko": "우리",
+      "th": "พวกเรา — รูปทั่วไป",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 5"
+      }
+    },
+    {
+      "id": "s10-11-word-018",
+      "ko": "저희",
+      "th": "พวกเรา — รูปถ่อมตน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 5"
+      }
+    },
+    {
+      "id": "s10-11-word-019",
+      "ko": "학생",
+      "th": "นักเรียน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 6"
+      }
+    },
+    {
+      "id": "s10-11-word-020",
+      "ko": "친구",
+      "th": "เพื่อน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 6"
+      }
+    },
+    {
+      "id": "s10-11-word-021",
+      "ko": "가방",
+      "th": "กระเป๋า",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 6"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s10-we",
+      "topic": "pronouns",
+      "title": "우리 กับ 저희",
+      "explanation": "우리 เป็นรูปทั่วไปของ “พวกเรา” ส่วน 저희 เป็นรูปถ่อมตน ในตัวอย่างเดียวกันจึงพบได้ทั้ง 우리는 공부해요. และ 저희는 공부해요. การเลือกขึ้นกับคู่สนทนา ไม่ใช่เปลี่ยนตามจำนวนคน",
+      "examples": [
+        {
+          "ko": "우리는 공부해요.",
+          "th": "พวกเราเรียน",
+          "wordIds": [
+            "s10-11-word-017",
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "저희는 공부해요.",
+          "th": "พวกเราเรียน — ถ่อมตน",
+          "wordIds": [
+            "s10-11-word-018",
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "우리 공부해요.",
+          "th": "พวกเราเรียน — ตัวอย่างละ 는 ในสไลด์",
+          "wordIds": [
+            "s10-11-word-017",
+            "s10-11-word-023"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s10-they",
+      "topic": "pronouns",
+      "title": "그 + คำนาม + 들",
+      "explanation": "สไลด์ใช้การระบุกลุ่มด้วยคำนาม เช่น 그 학생들 และ 그 친구들 ส่วน 들 แสดงความเป็นพหูพจน์ ในชุดนี้ฝึกโครงสร้างที่สไลด์ยกมา ไม่สรุปว่า 그들 ผิดเสมอหรือว่าคำนามทุกคำต้องเติม 들",
+      "examples": [
+        {
+          "ko": "그 학생들",
+          "th": "นักเรียนเหล่านั้น",
+          "wordIds": [
+            "s10-11-word-019"
+          ]
+        },
+        {
+          "ko": "그 친구들",
+          "th": "เพื่อนเหล่านั้น",
+          "wordIds": [
+            "s10-11-word-020"
+          ]
+        },
+        {
+          "ko": "그 가방들",
+          "th": "กระเป๋าเหล่านั้น",
+          "wordIds": [
+            "s10-11-word-021"
+          ]
+        },
+        {
+          "ko": "그 학생들은 공부해요.",
+          "th": "นักเรียนเหล่านั้นเรียน",
+          "wordIds": [
+            "s10-11-word-019",
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "그 친구들은 피자를 먹어요.",
+          "th": "เพื่อนเหล่านั้นกินพิซซ่า",
+          "wordIds": [
+            "s10-11-word-020",
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recap-order-rule-3",
+      "topic": "order",
+      "title": "เรียงประโยคตามตัวอย่างในโน้ต",
+      "explanation": "ใช้ชิ้นคำที่มีคำช่วยติดอยู่แล้ว เรียงตามประโยคตัวอย่าง โดยวางภาคแสดงท้ายประโยค แบบฝึกนี้เจาะจงลำดับในโน้ต ไม่ได้ตัดสินว่าการสลับลำดับอื่นผิดเสมอในภาษาเกาหลี",
+      "examples": [
+        {
+          "ko": "우리는 공부해요.",
+          "th": "พวกเราเรียน — รูปทั่วไปตามตัวอย่างในโน้ต",
+          "wordIds": [
+            "s10-11-word-017",
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "저희는 공부해요.",
+          "th": "พวกเราเรียน — รูปถ่อมตนตามตัวอย่างในโน้ต",
+          "wordIds": [
+            "s10-11-word-018",
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "그 학생들은 공부해요.",
+          "th": "นักเรียนเหล่านั้นเรียน — เรียงตามตัวอย่างในโน้ต",
+          "wordIds": [
+            "s10-11-word-019",
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "그 친구들은 피자를 먹어요.",
+          "th": "เพื่อนเหล่านั้นกินพิซซ่า — เรียงตามลำดับตัวอย่างในโน้ต",
+          "wordIds": [
+            "s10-11-word-020",
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ]
+        }
+      ],
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "recap-we-humble",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "“พวกเรา” แบบถ่อมตนในบทนี้คือข้อใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저희"
+        },
+        {
+          "id": "o1",
+          "text": "우리"
+        },
+        {
+          "id": "o2",
+          "text": "그 친구들"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "저희",
+      "explanation": "저희 เป็นรูปถ่อมตนของพวกเรา ส่วน 우리 เป็นรูปทั่วไป",
+      "requires": [
+        "s10-we",
+        "s10-11-word-018"
+      ],
+      "wordIds": [
+        "s10-11-word-018"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-we-normal",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "“พวกเรา” รูปทั่วไปในบทนี้คือข้อใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "우리"
+        },
+        {
+          "id": "o1",
+          "text": "저희"
+        },
+        {
+          "id": "o2",
+          "text": "그 학생들"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "우리",
+      "explanation": "คู่คำที่เรียนคือ 우리 รูปทั่วไป และ 저희 รูปถ่อมตน",
+      "requires": [
+        "s10-we",
+        "s10-11-word-017"
+      ],
+      "wordIds": [
+        "s10-11-word-017"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-they-students",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "“นักเรียนเหล่านั้น” ตามโครงสร้างในสไลด์คือข้อใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "그 친구들"
+        },
+        {
+          "id": "o1",
+          "text": "그 가방들"
+        },
+        {
+          "id": "o2",
+          "text": "그 학생들"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "그 학생들",
+      "explanation": "ใช้ 그 + 학생 + 들 เพื่อระบุกลุ่มนักเรียน",
+      "requires": [
+        "s10-they"
+      ],
+      "wordIds": [],
+      "added": true
+    },
+    {
+      "id": "recap-they-friends",
+      "type": "choice",
+      "topic": "pronouns",
+      "prompt": "“เพื่อนเหล่านั้น” ตามโครงสร้างในสไลด์คือข้อใด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "그 가방들"
+        },
+        {
+          "id": "o1",
+          "text": "그 친구들"
+        },
+        {
+          "id": "o2",
+          "text": "그 학생들"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "그 친구들",
+      "explanation": "친구 คือเพื่อน และ 들 แสดงพหูพจน์ในตัวอย่างนี้",
+      "requires": [
+        "s10-they"
+      ],
+      "wordIds": [],
+      "added": true
+    },
+    {
+      "id": "recap-order-we-study",
+      "type": "order",
+      "topic": "order",
+      "prompt": "พวกเราเรียน — รูปทั่วไปตามตัวอย่างในโน้ต",
+      "chunks": [
+        "우리는",
+        "공부해요."
+      ],
+      "accepted": [
+        [
+          0,
+          1
+        ]
+      ],
+      "answerText": "우리는 공부해요.",
+      "explanation": "ข้อนี้ฝึกลำดับตามประโยคตัวอย่างในโน้ต โดยเก็บคำช่วยติดกับคำนามและวางภาคแสดงท้ายประโยค ไม่ได้หมายความว่าลำดับอื่นผิดในทุกบริบท",
+      "requires": [
+        "s10-we",
+        "s11-haeyo",
+        "s10-11-word-017",
+        "s10-11-word-023",
+        "recap-order-rule-3"
+      ],
+      "wordIds": [
+        "s10-11-word-017",
+        "s10-11-word-023"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-order-we-humble-study",
+      "type": "order",
+      "topic": "order",
+      "prompt": "พวกเราเรียน — รูปถ่อมตนตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저희는",
+        "공부해요."
+      ],
+      "accepted": [
+        [
+          0,
+          1
+        ]
+      ],
+      "answerText": "저희는 공부해요.",
+      "explanation": "ข้อนี้ฝึกลำดับตามประโยคตัวอย่างในโน้ต โดยเก็บคำช่วยติดกับคำนามและวางภาคแสดงท้ายประโยค ไม่ได้หมายความว่าลำดับอื่นผิดในทุกบริบท",
+      "requires": [
+        "s10-we",
+        "s11-haeyo",
+        "s10-11-word-018",
+        "s10-11-word-023",
+        "recap-order-rule-3"
+      ],
+      "wordIds": [
+        "s10-11-word-018",
+        "s10-11-word-023"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-order-students-study",
+      "type": "order",
+      "topic": "order",
+      "prompt": "นักเรียนเหล่านั้นเรียน — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "그 학생들은",
+        "공부해요."
+      ],
+      "accepted": [
+        [
+          0,
+          1
+        ]
+      ],
+      "answerText": "그 학생들은 공부해요.",
+      "explanation": "ข้อนี้ฝึกลำดับตามประโยคตัวอย่างในโน้ต โดยเก็บคำช่วยติดกับคำนามและวางภาคแสดงท้ายประโยค ไม่ได้หมายความว่าลำดับอื่นผิดในทุกบริบท",
+      "requires": [
+        "s10-they",
+        "s11-haeyo",
+        "s10-11-word-019",
+        "s10-11-word-023",
+        "recap-order-rule-3"
+      ],
+      "wordIds": [
+        "s10-11-word-019",
+        "s10-11-word-023"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-order-friends-pizza",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เพื่อนเหล่านั้นกินพิซซ่า — เรียงตามลำดับตัวอย่างในโน้ต",
+      "chunks": [
+        "그 친구들은",
+        "피자를",
+        "먹어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "answerText": "그 친구들은 피자를 먹어요.",
+      "explanation": "ข้อนี้ฝึกลำดับตามประโยคตัวอย่างในโน้ต โดยเก็บคำช่วยติดกับคำนามและวางภาคแสดงท้ายประโยค ไม่ได้หมายความว่าลำดับอื่นผิดในทุกบริบท",
+      "requires": [
+        "s10-they",
+        "s11-eo-batchim",
+        "s10-11-word-020",
+        "s10-11-word-016",
+        "s10-11-word-022",
+        "recap-order-rule-3"
+      ],
+      "wordIds": [
+        "s10-11-word-020",
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "added": true
+    },
+    {
+      "id": "recall-s10-11-word-017",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-017",
+      "prompt": "พวกเรา — รูปทั่วไป",
+      "answerText": "우리",
+      "explanation": "우리 — พวกเรา — รูปทั่วไป",
+      "requires": [
+        "s10-11-word-017"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 5"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-018",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-018",
+      "prompt": "พวกเรา — รูปถ่อมตน",
+      "answerText": "저희",
+      "explanation": "저희 — พวกเรา — รูปถ่อมตน",
+      "requires": [
+        "s10-11-word-018"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 5"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-019",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-019",
+      "prompt": "นักเรียน",
+      "answerText": "학생",
+      "explanation": "학생 — นักเรียน",
+      "requires": [
+        "s10-11-word-019"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 6"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-020",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-020",
+      "prompt": "เพื่อน",
+      "answerText": "친구",
+      "explanation": "친구 — เพื่อน",
+      "requires": [
+        "s10-11-word-020"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 6"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-021",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-021",
+      "prompt": "กระเป๋า",
+      "answerText": "가방",
+      "explanation": "가방 — กระเป๋า",
+      "requires": [
+        "s10-11-word-021"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 6"
+      }
+    }
+  ]
+}

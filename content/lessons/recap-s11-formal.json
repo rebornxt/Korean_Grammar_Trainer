@@ -1,0 +1,629 @@
+{
+  "id": "recap-s11-formal",
+  "sectionId": "section-11",
+  "title": "11 · ปัจจุบันแบบทางการ",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section10_11.pdf",
+    "locator": "หน้า 7–8 · 11 · ปัจจุบันแบบทางการ",
+    "kind": "learner-recap"
+  },
+  "notes": "ขอบเขตตามโน้ตผู้เรียน ไม่ได้หมายถึงเรียนจบทั้ง section; ไม่มีการอนุมานหมายเลข lecture",
+  "words": [
+    {
+      "id": "s10-11-word-022",
+      "ko": "먹다",
+      "th": "กิน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 7"
+      }
+    },
+    {
+      "id": "s10-11-word-023",
+      "ko": "공부하다",
+      "th": "เรียน / ศึกษา",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 7"
+      }
+    },
+    {
+      "id": "s10-11-word-024",
+      "ko": "팔다",
+      "th": "ขาย",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "s10-11-word-025",
+      "ko": "읽다",
+      "th": "อ่าน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "s10-11-word-026",
+      "ko": "놓다",
+      "th": "วาง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "s10-11-word-027",
+      "ko": "자다",
+      "th": "นอน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "s10-11-word-028",
+      "ko": "쉬다",
+      "th": "พัก / พักผ่อน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      },
+      "notes": "แก้คำตั้งต้น 시다 ในบรรทัดจดเป็น 쉬다 ให้สอดคล้องกับ 쉽니다"
+    },
+    {
+      "id": "s10-11-word-029",
+      "ko": "마시다",
+      "th": "ดื่ม",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "s10-11-word-030",
+      "ko": "들다",
+      "th": "ยก — ความหมายในตัวอย่างนี้",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s11-formal-c",
+      "topic": "endings",
+      "title": "รูปทางการ: 받침 + 습니다",
+      "explanation": "ตัด 다 ออกจากรูปพจนานุกรมก่อน ถ้าฐานกริยามีตัวสะกดที่ไม่ใช่ ㄹ ให้ต่อ 습니다 เช่น 먹다 → 먹습니다 และ 읽다 → 읽습니다",
+      "examples": [
+        {
+          "ko": "먹습니다",
+          "th": "먹다 → 먹습니다 · กิน",
+          "wordIds": [
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "읽습니다",
+          "th": "읽다 → 읽습니다 · อ่าน",
+          "wordIds": [
+            "s10-11-word-025"
+          ]
+        },
+        {
+          "ko": "놓습니다",
+          "th": "놓다 → 놓습니다 · วาง",
+          "wordIds": [
+            "s10-11-word-026"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11-formal-v",
+      "topic": "endings",
+      "title": "รูปทางการ: ไม่มี 받침 + ㅂ니다",
+      "explanation": "ถ้าฐานกริยาไม่มีตัวสะกด ให้เติม ㅂ เป็นตัวสะกดแล้วต่อ 니다 เช่น 자다 → 잡니다 และ 공부하다 → 공부합니다 เป็นรูปสุภาพแบบทางการ",
+      "examples": [
+        {
+          "ko": "잡니다",
+          "th": "자다 → 잡니다 · นอน",
+          "wordIds": [
+            "s10-11-word-027"
+          ]
+        },
+        {
+          "ko": "쉽니다",
+          "th": "쉬다 → 쉽니다 · พัก / พักผ่อน",
+          "wordIds": [
+            "s10-11-word-028"
+          ]
+        },
+        {
+          "ko": "마십니다",
+          "th": "마시다 → 마십니다 · ดื่ม",
+          "wordIds": [
+            "s10-11-word-029"
+          ]
+        },
+        {
+          "ko": "공부합니다",
+          "th": "공부하다 → 공부합니다 · เรียน / ศึกษา",
+          "wordIds": [
+            "s10-11-word-023"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s11-formal-l",
+      "topic": "endings",
+      "title": "รูปทางการ: ตัด ㄹ ก่อน ㅂ니다",
+      "explanation": "ถ้าฐานกริยาลงท้ายด้วย ㄹ ให้ตัด ㄹ แล้วเติม ㅂ니다 เช่น 팔다 → 팝니다 และ 들다 → 듭니다 กฎนี้ใช้กับคำลงท้ายทางการที่กำลังฝึก ไม่ได้แปลว่าต้องตัด ㄹ ในทุกรูป",
+      "examples": [
+        {
+          "ko": "팝니다",
+          "th": "팔다 → 팝니다 · ขาย",
+          "wordIds": [
+            "s10-11-word-024"
+          ]
+        },
+        {
+          "ko": "듭니다",
+          "th": "들다 → 듭니다 · ยก — ความหมายในตัวอย่างนี้",
+          "wordIds": [
+            "s10-11-word-030"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "recap-conjugate-01",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "먹다 · กิน\nเลือกรูปปัจจุบันแบบทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "먹다"
+        },
+        {
+          "id": "o1",
+          "text": "먹습니다"
+        },
+        {
+          "id": "o2",
+          "text": "먹니다"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "먹습니다",
+      "explanation": "먹다 → 먹습니다\nตัด 다 ออกจากรูปพจนานุกรมก่อน ถ้าฐานกริยามีตัวสะกดที่ไม่ใช่ ㄹ ให้ต่อ 습니다 เช่น 먹다 → 먹습니다 และ 읽다 → 읽습니다",
+      "requires": [
+        "s11-formal-c",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-022"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-02",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "읽다 · อ่าน\nเลือกรูปปัจจุบันแบบทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "읽습니다"
+        },
+        {
+          "id": "o1",
+          "text": "읽니다"
+        },
+        {
+          "id": "o2",
+          "text": "읽다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "읽습니다",
+      "explanation": "읽다 → 읽습니다\nตัด 다 ออกจากรูปพจนานุกรมก่อน ถ้าฐานกริยามีตัวสะกดที่ไม่ใช่ ㄹ ให้ต่อ 습니다 เช่น 먹다 → 먹습니다 และ 읽다 → 읽습니다",
+      "requires": [
+        "s11-formal-c",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s10-11-word-025"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-03",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "놓다 · วาง\nเลือกรูปปัจจุบันแบบทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "놓니다"
+        },
+        {
+          "id": "o1",
+          "text": "놓다"
+        },
+        {
+          "id": "o2",
+          "text": "놓습니다"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "놓습니다",
+      "explanation": "놓다 → 놓습니다\nตัด 다 ออกจากรูปพจนานุกรมก่อน ถ้าฐานกริยามีตัวสะกดที่ไม่ใช่ ㄹ ให้ต่อ 습니다 เช่น 먹다 → 먹습니다 และ 읽다 → 읽습니다",
+      "requires": [
+        "s11-formal-c",
+        "s10-11-word-026"
+      ],
+      "wordIds": [
+        "s10-11-word-026"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-04",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "자다 · นอน\nเลือกรูปปัจจุบันแบบทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "자다"
+        },
+        {
+          "id": "o1",
+          "text": "잡니다"
+        },
+        {
+          "id": "o2",
+          "text": "자습니다"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "잡니다",
+      "explanation": "자다 → 잡니다\nถ้าฐานกริยาไม่มีตัวสะกด ให้เติม ㅂ เป็นตัวสะกดแล้วต่อ 니다 เช่น 자다 → 잡니다 และ 공부하다 → 공부합니다 เป็นรูปสุภาพแบบทางการ",
+      "requires": [
+        "s11-formal-v",
+        "s10-11-word-027"
+      ],
+      "wordIds": [
+        "s10-11-word-027"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-05",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "쉬다 · พัก / พักผ่อน\nเลือกรูปปัจจุบันแบบทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "쉽니다"
+        },
+        {
+          "id": "o1",
+          "text": "쉬습니다"
+        },
+        {
+          "id": "o2",
+          "text": "쉬다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "쉽니다",
+      "explanation": "쉬다 → 쉽니다\nถ้าฐานกริยาไม่มีตัวสะกด ให้เติม ㅂ เป็นตัวสะกดแล้วต่อ 니다 เช่น 자다 → 잡니다 และ 공부하다 → 공부합니다 เป็นรูปสุภาพแบบทางการ",
+      "requires": [
+        "s11-formal-v",
+        "s10-11-word-028"
+      ],
+      "wordIds": [
+        "s10-11-word-028"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-06",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "마시다 · ดื่ม\nเลือกรูปปัจจุบันแบบทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "마시습니다"
+        },
+        {
+          "id": "o1",
+          "text": "마시다"
+        },
+        {
+          "id": "o2",
+          "text": "마십니다"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "마십니다",
+      "explanation": "마시다 → 마십니다\nถ้าฐานกริยาไม่มีตัวสะกด ให้เติม ㅂ เป็นตัวสะกดแล้วต่อ 니다 เช่น 자다 → 잡니다 และ 공부하다 → 공부합니다 เป็นรูปสุภาพแบบทางการ",
+      "requires": [
+        "s11-formal-v",
+        "s10-11-word-029"
+      ],
+      "wordIds": [
+        "s10-11-word-029"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-07",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "공부하다 · เรียน / ศึกษา\nเลือกรูปปัจจุบันแบบทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "공부하다"
+        },
+        {
+          "id": "o1",
+          "text": "공부합니다"
+        },
+        {
+          "id": "o2",
+          "text": "공부하습니다"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "공부합니다",
+      "explanation": "공부하다 → 공부합니다\nถ้าฐานกริยาไม่มีตัวสะกด ให้เติม ㅂ เป็นตัวสะกดแล้วต่อ 니다 เช่น 자다 → 잡니다 และ 공부하다 → 공부합니다 เป็นรูปสุภาพแบบทางการ",
+      "requires": [
+        "s11-formal-v",
+        "s10-11-word-023"
+      ],
+      "wordIds": [
+        "s10-11-word-023"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-08",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "팔다 · ขาย\nเลือกรูปปัจจุบันแบบทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "팝니다"
+        },
+        {
+          "id": "o1",
+          "text": "팔습니다"
+        },
+        {
+          "id": "o2",
+          "text": "팔니다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "팝니다",
+      "explanation": "팔다 → 팝니다\nถ้าฐานกริยาลงท้ายด้วย ㄹ ให้ตัด ㄹ แล้วเติม ㅂ니다 เช่น 팔다 → 팝니다 และ 들다 → 듭니다 กฎนี้ใช้กับคำลงท้ายทางการที่กำลังฝึก ไม่ได้แปลว่าต้องตัด ㄹ ในทุกรูป",
+      "requires": [
+        "s11-formal-l",
+        "s10-11-word-024"
+      ],
+      "wordIds": [
+        "s10-11-word-024"
+      ],
+      "added": true
+    },
+    {
+      "id": "recap-conjugate-09",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "들다 · ยก — ความหมายในตัวอย่างนี้\nเลือกรูปปัจจุบันแบบทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "들습니다"
+        },
+        {
+          "id": "o1",
+          "text": "들니다"
+        },
+        {
+          "id": "o2",
+          "text": "듭니다"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "듭니다",
+      "explanation": "들다 → 듭니다\nถ้าฐานกริยาลงท้ายด้วย ㄹ ให้ตัด ㄹ แล้วเติม ㅂ니다 เช่น 팔다 → 팝니다 และ 들다 → 듭니다 กฎนี้ใช้กับคำลงท้ายทางการที่กำลังฝึก ไม่ได้แปลว่าต้องตัด ㄹ ในทุกรูป",
+      "requires": [
+        "s11-formal-l",
+        "s10-11-word-030"
+      ],
+      "wordIds": [
+        "s10-11-word-030"
+      ],
+      "added": true
+    },
+    {
+      "id": "recall-s10-11-word-022",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-022",
+      "prompt": "กิน",
+      "answerText": "먹다",
+      "explanation": "먹다 — กิน",
+      "requires": [
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 7"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-023",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-023",
+      "prompt": "เรียน / ศึกษา",
+      "answerText": "공부하다",
+      "explanation": "공부하다 — เรียน / ศึกษา",
+      "requires": [
+        "s10-11-word-023"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 7"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-024",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-024",
+      "prompt": "ขาย",
+      "answerText": "팔다",
+      "explanation": "팔다 — ขาย",
+      "requires": [
+        "s10-11-word-024"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-025",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-025",
+      "prompt": "อ่าน",
+      "answerText": "읽다",
+      "explanation": "읽다 — อ่าน",
+      "requires": [
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-026",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-026",
+      "prompt": "วาง",
+      "answerText": "놓다",
+      "explanation": "놓다 — วาง",
+      "requires": [
+        "s10-11-word-026"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-027",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-027",
+      "prompt": "นอน",
+      "answerText": "자다",
+      "explanation": "자다 — นอน",
+      "requires": [
+        "s10-11-word-027"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-028",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-028",
+      "prompt": "พัก / พักผ่อน",
+      "answerText": "쉬다",
+      "explanation": "쉬다 — พัก / พักผ่อน\nหมายเหตุผู้จัดทำ: แก้คำตั้งต้น 시다 ในบรรทัดจดเป็น 쉬다 ให้สอดคล้องกับ 쉽니다",
+      "requires": [
+        "s10-11-word-028"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-029",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-029",
+      "prompt": "ดื่ม",
+      "answerText": "마시다",
+      "explanation": "마시다 — ดื่ม",
+      "requires": [
+        "s10-11-word-029"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    },
+    {
+      "id": "recall-s10-11-word-030",
+      "type": "recall",
+      "topic": "vocabulary",
+      "wordId": "s10-11-word-030",
+      "prompt": "ยก — ความหมายในตัวอย่างนี้",
+      "answerText": "들다",
+      "explanation": "들다 — ยก — ความหมายในตัวอย่างนี้",
+      "requires": [
+        "s10-11-word-030"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section10_11.pdf",
+        "locator": "หน้า 8"
+      }
+    }
+  ]
+}
