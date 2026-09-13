@@ -1,0 +1,404 @@
+{
+  "id": "s12-d",
+  "sectionId": "section-12",
+  "title": "12 · ㄷ — เปลี่ยนเป็น ㄹ",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section12.pdf",
+    "locator": "หน้า 2–3",
+    "kind": "learner-recap"
+  },
+  "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+  "words": [
+    {
+      "id": "s12-word-10",
+      "ko": "걷다",
+      "th": "เดิน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-11",
+      "ko": "듣다",
+      "th": "ฟัง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-12",
+      "ko": "묻다",
+      "th": "ถาม",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-13",
+      "ko": "싣다",
+      "th": "บรรทุก / ขนขึ้นรถ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-14",
+      "ko": "깨닫다",
+      "th": "ตระหนัก / เข้าใจขึ้นมา",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s12-rule-d",
+      "title": "ㄷ → ㄹ ก่อน 아요 / 어요",
+      "topic": "endings",
+      "explanation": "คำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+      "examples": [
+        {
+          "ko": "걸어요",
+          "th": "걷다 → 걸어요 · เดิน",
+          "wordIds": [
+            "s12-word-10"
+          ]
+        },
+        {
+          "ko": "들어요",
+          "th": "듣다 → 들어요 · ฟัง",
+          "wordIds": [
+            "s12-word-11"
+          ]
+        },
+        {
+          "ko": "물어요",
+          "th": "묻다 → 물어요 · ถาม",
+          "wordIds": [
+            "s12-word-12"
+          ]
+        },
+        {
+          "ko": "실어요",
+          "th": "싣다 → 실어요 · บรรทุก / ขนขึ้นรถ",
+          "wordIds": [
+            "s12-word-13"
+          ]
+        },
+        {
+          "ko": "깨달아요",
+          "th": "깨닫다 → 깨달아요 · ตระหนัก / เข้าใจขึ้นมา",
+          "wordIds": [
+            "s12-word-14"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2–3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "s12-conjugate-10",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "걷다 · เดิน\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "걷어요"
+        },
+        {
+          "id": "o1",
+          "text": "걷다"
+        },
+        {
+          "id": "o2",
+          "text": "걸어요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "걸어요",
+      "explanation": "걷다 → 걸어요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+      "requires": [
+        "s12-word-10",
+        "s12-rule-d"
+      ],
+      "wordIds": [
+        "s12-word-10"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-10-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เดิน",
+      "wordId": "s12-word-10",
+      "answerText": "걷다",
+      "explanation": "걷다 — เดิน",
+      "requires": [
+        "s12-word-10"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-11",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "듣다 · ฟัง\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "듣다"
+        },
+        {
+          "id": "o1",
+          "text": "들어요"
+        },
+        {
+          "id": "o2",
+          "text": "듣어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "들어요",
+      "explanation": "듣다 → 들어요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+      "requires": [
+        "s12-word-11",
+        "s12-rule-d"
+      ],
+      "wordIds": [
+        "s12-word-11"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-11-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ฟัง",
+      "wordId": "s12-word-11",
+      "answerText": "듣다",
+      "explanation": "듣다 — ฟัง",
+      "requires": [
+        "s12-word-11"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-12",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "묻다 · ถาม\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "물어요"
+        },
+        {
+          "id": "o1",
+          "text": "묻어요"
+        },
+        {
+          "id": "o2",
+          "text": "묻다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "물어요",
+      "explanation": "묻다 → 물어요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+      "requires": [
+        "s12-word-12",
+        "s12-rule-d"
+      ],
+      "wordIds": [
+        "s12-word-12"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-12-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ถาม",
+      "wordId": "s12-word-12",
+      "answerText": "묻다",
+      "explanation": "묻다 — ถาม",
+      "requires": [
+        "s12-word-12"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-13",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "싣다 · บรรทุก / ขนขึ้นรถ\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "싣어요"
+        },
+        {
+          "id": "o1",
+          "text": "싣다"
+        },
+        {
+          "id": "o2",
+          "text": "실어요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "실어요",
+      "explanation": "싣다 → 실어요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+      "requires": [
+        "s12-word-13",
+        "s12-rule-d"
+      ],
+      "wordIds": [
+        "s12-word-13"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-13-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "บรรทุก / ขนขึ้นรถ",
+      "wordId": "s12-word-13",
+      "answerText": "싣다",
+      "explanation": "싣다 — บรรทุก / ขนขึ้นรถ",
+      "requires": [
+        "s12-word-13"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-14",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "깨닫다 · ตระหนัก / เข้าใจขึ้นมา\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "깨닫다"
+        },
+        {
+          "id": "o1",
+          "text": "깨달아요"
+        },
+        {
+          "id": "o2",
+          "text": "깨닫아요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "깨달아요",
+      "explanation": "깨닫다 → 깨달아요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+      "requires": [
+        "s12-word-14",
+        "s12-rule-d"
+      ],
+      "wordIds": [
+        "s12-word-14"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-14-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ตระหนัก / เข้าใจขึ้นมา",
+      "wordId": "s12-word-14",
+      "answerText": "깨닫다",
+      "explanation": "깨닫다 — ตระหนัก / เข้าใจขึ้นมา",
+      "requires": [
+        "s12-word-14"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}

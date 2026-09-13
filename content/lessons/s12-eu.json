@@ -1,0 +1,1026 @@
+{
+  "id": "s12-eu",
+  "sectionId": "section-12",
+  "title": "12 · ㅡ — เลือก 아요 / 어요",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section12.pdf",
+    "locator": "หน้า 3–5, 7–8",
+    "kind": "learner-recap"
+  },
+  "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+  "words": [
+    {
+      "id": "s12-word-21",
+      "ko": "끄다",
+      "th": "ปิดเครื่อง / ปิดไฟ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-22",
+      "ko": "크다",
+      "th": "ใหญ่",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-23",
+      "ko": "뜨다",
+      "th": "ลืมตา",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-24",
+      "ko": "쓰다",
+      "th": "ใช้ / เขียน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-25",
+      "ko": "아프다",
+      "th": "เจ็บ / ป่วย",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-26",
+      "ko": "모으다",
+      "th": "รวบรวม / เก็บสะสม",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-27",
+      "ko": "바쁘다",
+      "th": "ยุ่ง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-28",
+      "ko": "잠그다",
+      "th": "ล็อก",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-29",
+      "ko": "배고프다",
+      "th": "หิว",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-30",
+      "ko": "예쁘다",
+      "th": "สวย / น่ารัก",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-31",
+      "ko": "기쁘다",
+      "th": "ดีใจ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-32",
+      "ko": "애쓰다",
+      "th": "พยายามอย่างมาก",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-33",
+      "ko": "슬프다",
+      "th": "เศร้า",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s12-rule-eu-one",
+      "title": "ㅡ ฐานพยางค์เดียว → 어요",
+      "topic": "endings",
+      "explanation": "ตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+      "examples": [
+        {
+          "ko": "꺼요",
+          "th": "끄다 → 꺼요 · ปิดเครื่อง / ปิดไฟ",
+          "wordIds": [
+            "s12-word-21"
+          ]
+        },
+        {
+          "ko": "커요",
+          "th": "크다 → 커요 · ใหญ่",
+          "wordIds": [
+            "s12-word-22"
+          ]
+        },
+        {
+          "ko": "떠요",
+          "th": "뜨다 → 떠요 · ลืมตา",
+          "wordIds": [
+            "s12-word-23"
+          ]
+        },
+        {
+          "ko": "써요",
+          "th": "쓰다 → 써요 · ใช้ / เขียน",
+          "wordIds": [
+            "s12-word-24"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3–5, 7–8",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-rule-eu-a",
+      "title": "ㅡ หลายพยางค์: ก่อนหน้าเป็น ㅏ / ㅗ",
+      "topic": "endings",
+      "explanation": "ตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+      "examples": [
+        {
+          "ko": "아파요",
+          "th": "아프다 → 아파요 · เจ็บ / ป่วย",
+          "wordIds": [
+            "s12-word-25"
+          ]
+        },
+        {
+          "ko": "모아요",
+          "th": "모으다 → 모아요 · รวบรวม / เก็บสะสม",
+          "wordIds": [
+            "s12-word-26"
+          ]
+        },
+        {
+          "ko": "바빠요",
+          "th": "바쁘다 → 바빠요 · ยุ่ง",
+          "wordIds": [
+            "s12-word-27"
+          ]
+        },
+        {
+          "ko": "잠가요",
+          "th": "잠그다 → 잠가요 · ล็อก",
+          "wordIds": [
+            "s12-word-28"
+          ]
+        },
+        {
+          "ko": "배고파요",
+          "th": "배고프다 → 배고파요 · หิว",
+          "wordIds": [
+            "s12-word-29"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3–5, 7–8",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-rule-eu-eo",
+      "title": "ㅡ หลายพยางค์: ก่อนหน้าเป็นสระอื่น",
+      "topic": "endings",
+      "explanation": "ตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+      "examples": [
+        {
+          "ko": "예뻐요",
+          "th": "예쁘다 → 예뻐요 · สวย / น่ารัก",
+          "wordIds": [
+            "s12-word-30"
+          ]
+        },
+        {
+          "ko": "기뻐요",
+          "th": "기쁘다 → 기뻐요 · ดีใจ",
+          "wordIds": [
+            "s12-word-31"
+          ]
+        },
+        {
+          "ko": "애써요",
+          "th": "애쓰다 → 애써요 · พยายามอย่างมาก",
+          "wordIds": [
+            "s12-word-32"
+          ]
+        },
+        {
+          "ko": "슬퍼요",
+          "th": "슬프다 → 슬퍼요 · เศร้า",
+          "wordIds": [
+            "s12-word-33"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3–5, 7–8",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "s12-conjugate-21",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "끄다 · ปิดเครื่อง / ปิดไฟ\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "꺼요"
+        },
+        {
+          "id": "o1",
+          "text": "끄어요"
+        },
+        {
+          "id": "o2",
+          "text": "끄다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "꺼요",
+      "explanation": "끄다 → 꺼요\nตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+      "requires": [
+        "s12-word-21",
+        "s12-rule-eu-one"
+      ],
+      "wordIds": [
+        "s12-word-21"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-21-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ปิดเครื่อง / ปิดไฟ",
+      "wordId": "s12-word-21",
+      "answerText": "끄다",
+      "explanation": "끄다 — ปิดเครื่อง / ปิดไฟ",
+      "requires": [
+        "s12-word-21"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-22",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "크다 · ใหญ่\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "크어요"
+        },
+        {
+          "id": "o1",
+          "text": "크다"
+        },
+        {
+          "id": "o2",
+          "text": "커요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "커요",
+      "explanation": "크다 → 커요\nตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+      "requires": [
+        "s12-word-22",
+        "s12-rule-eu-one"
+      ],
+      "wordIds": [
+        "s12-word-22"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-22-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ใหญ่",
+      "wordId": "s12-word-22",
+      "answerText": "크다",
+      "explanation": "크다 — ใหญ่",
+      "requires": [
+        "s12-word-22"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-23",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "뜨다 · ลืมตา\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "뜨다"
+        },
+        {
+          "id": "o1",
+          "text": "떠요"
+        },
+        {
+          "id": "o2",
+          "text": "뜨어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "떠요",
+      "explanation": "뜨다 → 떠요\nตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+      "requires": [
+        "s12-word-23",
+        "s12-rule-eu-one"
+      ],
+      "wordIds": [
+        "s12-word-23"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-23-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ลืมตา",
+      "wordId": "s12-word-23",
+      "answerText": "뜨다",
+      "explanation": "뜨다 — ลืมตา",
+      "requires": [
+        "s12-word-23"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-24",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "쓰다 · ใช้ / เขียน\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "써요"
+        },
+        {
+          "id": "o1",
+          "text": "쓰어요"
+        },
+        {
+          "id": "o2",
+          "text": "쓰다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "써요",
+      "explanation": "쓰다 → 써요\nตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+      "requires": [
+        "s12-word-24",
+        "s12-rule-eu-one"
+      ],
+      "wordIds": [
+        "s12-word-24"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-24-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ใช้ / เขียน",
+      "wordId": "s12-word-24",
+      "answerText": "쓰다",
+      "explanation": "쓰다 — ใช้ / เขียน",
+      "requires": [
+        "s12-word-24"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-25",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "아프다 · เจ็บ / ป่วย\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "아퍼요"
+        },
+        {
+          "id": "o1",
+          "text": "아프다"
+        },
+        {
+          "id": "o2",
+          "text": "아파요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "아파요",
+      "explanation": "아프다 → 아파요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+      "requires": [
+        "s12-word-25",
+        "s12-rule-eu-a"
+      ],
+      "wordIds": [
+        "s12-word-25"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-25-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เจ็บ / ป่วย",
+      "wordId": "s12-word-25",
+      "answerText": "아프다",
+      "explanation": "아프다 — เจ็บ / ป่วย",
+      "requires": [
+        "s12-word-25"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-26",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "모으다 · รวบรวม / เก็บสะสม\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "모으다"
+        },
+        {
+          "id": "o1",
+          "text": "모아요"
+        },
+        {
+          "id": "o2",
+          "text": "모어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "모아요",
+      "explanation": "모으다 → 모아요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+      "requires": [
+        "s12-word-26",
+        "s12-rule-eu-a"
+      ],
+      "wordIds": [
+        "s12-word-26"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-26-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "รวบรวม / เก็บสะสม",
+      "wordId": "s12-word-26",
+      "answerText": "모으다",
+      "explanation": "모으다 — รวบรวม / เก็บสะสม",
+      "requires": [
+        "s12-word-26"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-27",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "바쁘다 · ยุ่ง\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "바빠요"
+        },
+        {
+          "id": "o1",
+          "text": "바뻐요"
+        },
+        {
+          "id": "o2",
+          "text": "바쁘다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "바빠요",
+      "explanation": "바쁘다 → 바빠요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+      "requires": [
+        "s12-word-27",
+        "s12-rule-eu-a"
+      ],
+      "wordIds": [
+        "s12-word-27"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-27-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ยุ่ง",
+      "wordId": "s12-word-27",
+      "answerText": "바쁘다",
+      "explanation": "바쁘다 — ยุ่ง",
+      "requires": [
+        "s12-word-27"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-28",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "잠그다 · ล็อก\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "잠거요"
+        },
+        {
+          "id": "o1",
+          "text": "잠그다"
+        },
+        {
+          "id": "o2",
+          "text": "잠가요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "잠가요",
+      "explanation": "잠그다 → 잠가요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+      "requires": [
+        "s12-word-28",
+        "s12-rule-eu-a"
+      ],
+      "wordIds": [
+        "s12-word-28"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-28-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ล็อก",
+      "wordId": "s12-word-28",
+      "answerText": "잠그다",
+      "explanation": "잠그다 — ล็อก",
+      "requires": [
+        "s12-word-28"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-29",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "배고프다 · หิว\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "배고프다"
+        },
+        {
+          "id": "o1",
+          "text": "배고파요"
+        },
+        {
+          "id": "o2",
+          "text": "배고퍼요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "배고파요",
+      "explanation": "배고프다 → 배고파요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+      "requires": [
+        "s12-word-29",
+        "s12-rule-eu-a"
+      ],
+      "wordIds": [
+        "s12-word-29"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-29-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "หิว",
+      "wordId": "s12-word-29",
+      "answerText": "배고프다",
+      "explanation": "배고프다 — หิว",
+      "requires": [
+        "s12-word-29"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-30",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "예쁘다 · สวย / น่ารัก\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "예뻐요"
+        },
+        {
+          "id": "o1",
+          "text": "예빠요"
+        },
+        {
+          "id": "o2",
+          "text": "예쁘다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "예뻐요",
+      "explanation": "예쁘다 → 예뻐요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+      "requires": [
+        "s12-word-30",
+        "s12-rule-eu-eo"
+      ],
+      "wordIds": [
+        "s12-word-30"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-30-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "สวย / น่ารัก",
+      "wordId": "s12-word-30",
+      "answerText": "예쁘다",
+      "explanation": "예쁘다 — สวย / น่ารัก",
+      "requires": [
+        "s12-word-30"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-31",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "기쁘다 · ดีใจ\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "기빠요"
+        },
+        {
+          "id": "o1",
+          "text": "기쁘다"
+        },
+        {
+          "id": "o2",
+          "text": "기뻐요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "기뻐요",
+      "explanation": "기쁘다 → 기뻐요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+      "requires": [
+        "s12-word-31",
+        "s12-rule-eu-eo"
+      ],
+      "wordIds": [
+        "s12-word-31"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-31-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ดีใจ",
+      "wordId": "s12-word-31",
+      "answerText": "기쁘다",
+      "explanation": "기쁘다 — ดีใจ",
+      "requires": [
+        "s12-word-31"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-32",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "애쓰다 · พยายามอย่างมาก\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "애쓰다"
+        },
+        {
+          "id": "o1",
+          "text": "애써요"
+        },
+        {
+          "id": "o2",
+          "text": "애싸요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "애써요",
+      "explanation": "애쓰다 → 애써요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+      "requires": [
+        "s12-word-32",
+        "s12-rule-eu-eo"
+      ],
+      "wordIds": [
+        "s12-word-32"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-32-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "พยายามอย่างมาก",
+      "wordId": "s12-word-32",
+      "answerText": "애쓰다",
+      "explanation": "애쓰다 — พยายามอย่างมาก",
+      "requires": [
+        "s12-word-32"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-33",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "슬프다 · เศร้า\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "슬퍼요"
+        },
+        {
+          "id": "o1",
+          "text": "슬파요"
+        },
+        {
+          "id": "o2",
+          "text": "슬프다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "슬퍼요",
+      "explanation": "슬프다 → 슬퍼요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+      "requires": [
+        "s12-word-33",
+        "s12-rule-eu-eo"
+      ],
+      "wordIds": [
+        "s12-word-33"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-33-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เศร้า",
+      "wordId": "s12-word-33",
+      "answerText": "슬프다",
+      "explanation": "슬프다 — เศร้า",
+      "requires": [
+        "s12-word-33"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "id": "s12-s",
+  "sectionId": "section-12",
+  "title": "12 · ㅅ — ตัดตัวสะกด",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section12.pdf",
+    "locator": "หน้า 2–3",
+    "kind": "learner-recap"
+  },
+  "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+  "words": [
+    {
+      "id": "s12-word-15",
+      "ko": "짓다",
+      "th": "สร้าง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-16",
+      "ko": "긋다",
+      "th": "ขีดเส้น",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-17",
+      "ko": "잇다",
+      "th": "เชื่อมต่อ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-18",
+      "ko": "붓다",
+      "th": "เท (ของเหลว)",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-19",
+      "ko": "젓다",
+      "th": "คนให้เข้ากัน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-20",
+      "ko": "낫다",
+      "th": "หายป่วย / อาการดีขึ้น",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s12-rule-s",
+      "title": "ตัด ㅅ ก่อน 아요 / 어요",
+      "topic": "endings",
+      "explanation": "คำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+      "examples": [
+        {
+          "ko": "지어요",
+          "th": "짓다 → 지어요 · สร้าง",
+          "wordIds": [
+            "s12-word-15"
+          ]
+        },
+        {
+          "ko": "그어요",
+          "th": "긋다 → 그어요 · ขีดเส้น",
+          "wordIds": [
+            "s12-word-16"
+          ]
+        },
+        {
+          "ko": "이어요",
+          "th": "잇다 → 이어요 · เชื่อมต่อ",
+          "wordIds": [
+            "s12-word-17"
+          ]
+        },
+        {
+          "ko": "부어요",
+          "th": "붓다 → 부어요 · เท (ของเหลว)",
+          "wordIds": [
+            "s12-word-18"
+          ]
+        },
+        {
+          "ko": "저어요",
+          "th": "젓다 → 저어요 · คนให้เข้ากัน",
+          "wordIds": [
+            "s12-word-19"
+          ]
+        },
+        {
+          "ko": "나아요",
+          "th": "낫다 → 나아요 · หายป่วย / อาการดีขึ้น",
+          "wordIds": [
+            "s12-word-20"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2–3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "s12-conjugate-15",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "짓다 · สร้าง\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "지어요"
+        },
+        {
+          "id": "o1",
+          "text": "짓어요"
+        },
+        {
+          "id": "o2",
+          "text": "짓다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "지어요",
+      "explanation": "짓다 → 지어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+      "requires": [
+        "s12-word-15",
+        "s12-rule-s"
+      ],
+      "wordIds": [
+        "s12-word-15"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-15-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "สร้าง",
+      "wordId": "s12-word-15",
+      "answerText": "짓다",
+      "explanation": "짓다 — สร้าง",
+      "requires": [
+        "s12-word-15"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-16",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "긋다 · ขีดเส้น\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "긋어요"
+        },
+        {
+          "id": "o1",
+          "text": "긋다"
+        },
+        {
+          "id": "o2",
+          "text": "그어요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "그어요",
+      "explanation": "긋다 → 그어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+      "requires": [
+        "s12-word-16",
+        "s12-rule-s"
+      ],
+      "wordIds": [
+        "s12-word-16"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-16-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ขีดเส้น",
+      "wordId": "s12-word-16",
+      "answerText": "긋다",
+      "explanation": "긋다 — ขีดเส้น",
+      "requires": [
+        "s12-word-16"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-17",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "잇다 · เชื่อมต่อ\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "잇다"
+        },
+        {
+          "id": "o1",
+          "text": "이어요"
+        },
+        {
+          "id": "o2",
+          "text": "잇어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "이어요",
+      "explanation": "잇다 → 이어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+      "requires": [
+        "s12-word-17",
+        "s12-rule-s"
+      ],
+      "wordIds": [
+        "s12-word-17"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-17-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เชื่อมต่อ",
+      "wordId": "s12-word-17",
+      "answerText": "잇다",
+      "explanation": "잇다 — เชื่อมต่อ",
+      "requires": [
+        "s12-word-17"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-18",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "붓다 · เท (ของเหลว)\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "부어요"
+        },
+        {
+          "id": "o1",
+          "text": "붓어요"
+        },
+        {
+          "id": "o2",
+          "text": "붓다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "부어요",
+      "explanation": "붓다 → 부어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+      "requires": [
+        "s12-word-18",
+        "s12-rule-s"
+      ],
+      "wordIds": [
+        "s12-word-18"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-18-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เท (ของเหลว)",
+      "wordId": "s12-word-18",
+      "answerText": "붓다",
+      "explanation": "붓다 — เท (ของเหลว)",
+      "requires": [
+        "s12-word-18"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-19",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "젓다 · คนให้เข้ากัน\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "젓어요"
+        },
+        {
+          "id": "o1",
+          "text": "젓다"
+        },
+        {
+          "id": "o2",
+          "text": "저어요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "저어요",
+      "explanation": "젓다 → 저어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+      "requires": [
+        "s12-word-19",
+        "s12-rule-s"
+      ],
+      "wordIds": [
+        "s12-word-19"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-19-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "คนให้เข้ากัน",
+      "wordId": "s12-word-19",
+      "answerText": "젓다",
+      "explanation": "젓다 — คนให้เข้ากัน",
+      "requires": [
+        "s12-word-19"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-20",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "낫다 · หายป่วย / อาการดีขึ้น\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "낫다"
+        },
+        {
+          "id": "o1",
+          "text": "나아요"
+        },
+        {
+          "id": "o2",
+          "text": "낫아요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "나아요",
+      "explanation": "낫다 → 나아요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+      "requires": [
+        "s12-word-20",
+        "s12-rule-s"
+      ],
+      "wordIds": [
+        "s12-word-20"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-20-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "หายป่วย / อาการดีขึ้น",
+      "wordId": "s12-word-20",
+      "answerText": "낫다",
+      "explanation": "낫다 — หายป่วย / อาการดีขึ้น",
+      "requires": [
+        "s12-word-20"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}

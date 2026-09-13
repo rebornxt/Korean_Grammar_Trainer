@@ -1,0 +1,478 @@
+{
+  "id": "s12-reu",
+  "sectionId": "section-12",
+  "title": "12 · 르 — เพิ่ม ㄹ",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section12.pdf",
+    "locator": "หน้า 5–6, 8",
+    "kind": "learner-recap"
+  },
+  "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+  "words": [
+    {
+      "id": "s12-word-34",
+      "ko": "모르다",
+      "th": "ไม่รู้",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-35",
+      "ko": "고르다",
+      "th": "เลือก",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-36",
+      "ko": "나르다",
+      "th": "ขน / หอบหิ้ว",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-37",
+      "ko": "구르다",
+      "th": "กลิ้ง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-38",
+      "ko": "누르다",
+      "th": "กด",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-39",
+      "ko": "기르다",
+      "th": "เลี้ยงดู / ปลูกเลี้ยง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s12-rule-reu",
+      "title": "르: เพิ่ม ㄹ แล้วเลือก 라요 / 러요",
+      "topic": "endings",
+      "explanation": "คำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+      "examples": [
+        {
+          "ko": "몰라요",
+          "th": "모르다 → 몰라요 · ไม่รู้",
+          "wordIds": [
+            "s12-word-34"
+          ]
+        },
+        {
+          "ko": "골라요",
+          "th": "고르다 → 골라요 · เลือก",
+          "wordIds": [
+            "s12-word-35"
+          ]
+        },
+        {
+          "ko": "날라요",
+          "th": "나르다 → 날라요 · ขน / หอบหิ้ว",
+          "wordIds": [
+            "s12-word-36"
+          ]
+        },
+        {
+          "ko": "굴러요",
+          "th": "구르다 → 굴러요 · กลิ้ง",
+          "wordIds": [
+            "s12-word-37"
+          ]
+        },
+        {
+          "ko": "눌러요",
+          "th": "누르다 → 눌러요 · กด",
+          "wordIds": [
+            "s12-word-38"
+          ]
+        },
+        {
+          "ko": "길러요",
+          "th": "기르다 → 길러요 · เลี้ยงดู / ปลูกเลี้ยง",
+          "wordIds": [
+            "s12-word-39"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5–6, 8",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "s12-conjugate-34",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "모르다 · ไม่รู้\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "모라요"
+        },
+        {
+          "id": "o1",
+          "text": "모르다"
+        },
+        {
+          "id": "o2",
+          "text": "몰라요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "몰라요",
+      "explanation": "모르다 → 몰라요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+      "requires": [
+        "s12-word-34",
+        "s12-rule-reu"
+      ],
+      "wordIds": [
+        "s12-word-34"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-34-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ไม่รู้",
+      "wordId": "s12-word-34",
+      "answerText": "모르다",
+      "explanation": "모르다 — ไม่รู้",
+      "requires": [
+        "s12-word-34"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-35",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "고르다 · เลือก\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "고르다"
+        },
+        {
+          "id": "o1",
+          "text": "골라요"
+        },
+        {
+          "id": "o2",
+          "text": "고라요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "골라요",
+      "explanation": "고르다 → 골라요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+      "requires": [
+        "s12-word-35",
+        "s12-rule-reu"
+      ],
+      "wordIds": [
+        "s12-word-35"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-35-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เลือก",
+      "wordId": "s12-word-35",
+      "answerText": "고르다",
+      "explanation": "고르다 — เลือก",
+      "requires": [
+        "s12-word-35"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-36",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "나르다 · ขน / หอบหิ้ว\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "날라요"
+        },
+        {
+          "id": "o1",
+          "text": "나라요"
+        },
+        {
+          "id": "o2",
+          "text": "나르다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "날라요",
+      "explanation": "나르다 → 날라요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+      "requires": [
+        "s12-word-36",
+        "s12-rule-reu"
+      ],
+      "wordIds": [
+        "s12-word-36"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-36-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ขน / หอบหิ้ว",
+      "wordId": "s12-word-36",
+      "answerText": "나르다",
+      "explanation": "나르다 — ขน / หอบหิ้ว",
+      "requires": [
+        "s12-word-36"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-37",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "구르다 · กลิ้ง\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "구러요"
+        },
+        {
+          "id": "o1",
+          "text": "구르다"
+        },
+        {
+          "id": "o2",
+          "text": "굴러요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "굴러요",
+      "explanation": "구르다 → 굴러요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+      "requires": [
+        "s12-word-37",
+        "s12-rule-reu"
+      ],
+      "wordIds": [
+        "s12-word-37"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-37-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "กลิ้ง",
+      "wordId": "s12-word-37",
+      "answerText": "구르다",
+      "explanation": "구르다 — กลิ้ง",
+      "requires": [
+        "s12-word-37"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-38",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "누르다 · กด\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "누르다"
+        },
+        {
+          "id": "o1",
+          "text": "눌러요"
+        },
+        {
+          "id": "o2",
+          "text": "누러요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "눌러요",
+      "explanation": "누르다 → 눌러요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+      "requires": [
+        "s12-word-38",
+        "s12-rule-reu"
+      ],
+      "wordIds": [
+        "s12-word-38"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-38-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "กด",
+      "wordId": "s12-word-38",
+      "answerText": "누르다",
+      "explanation": "누르다 — กด",
+      "requires": [
+        "s12-word-38"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-39",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "기르다 · เลี้ยงดู / ปลูกเลี้ยง\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "길러요"
+        },
+        {
+          "id": "o1",
+          "text": "기러요"
+        },
+        {
+          "id": "o2",
+          "text": "기르다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "길러요",
+      "explanation": "기르다 → 길러요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+      "requires": [
+        "s12-word-39",
+        "s12-rule-reu"
+      ],
+      "wordIds": [
+        "s12-word-39"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-39-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เลี้ยงดู / ปลูกเลี้ยง",
+      "wordId": "s12-word-39",
+      "answerText": "기르다",
+      "explanation": "기르다 — เลี้ยงดู / ปลูกเลี้ยง",
+      "requires": [
+        "s12-word-39"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}

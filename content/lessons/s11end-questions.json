@@ -1,0 +1,375 @@
+{
+  "id": "s11end-questions",
+  "sectionId": "section-11",
+  "title": "11 · ประโยคคำถาม",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section11end.pdf",
+    "locator": "หน้า 5–6",
+    "kind": "learner-recap"
+  },
+  "notes": "เฉพาะเนื้อหาที่ปรากฏใน PDF ไม่อนุมานบทก่อนหน้าหรือบทอนาคต สไลด์หน้า 5 ใช้ 너가; ปรับเป็น 네가 ตามรูปเขียนมาตรฐาน (NIKL FAQ 5874)",
+  "words": [
+    {
+      "id": "s11end-word-63",
+      "ko": "한국어",
+      "th": "ภาษาเกาหลี",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s11end-formal-question",
+      "title": "คำถามทางการ 습니까 / ㅂ니까",
+      "topic": "endings",
+      "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+      "examples": [
+        {
+          "ko": "피자를 먹습니까?",
+          "th": "คุณกินพิซซ่าไหม",
+          "wordIds": [
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "술을 마십니까?",
+          "th": "คุณดื่มเครื่องดื่มแอลกอฮอล์ไหม",
+          "wordIds": [
+            "s11end-word-59",
+            "s10-11-word-029"
+          ]
+        },
+        {
+          "ko": "한국어 공부합니까?",
+          "th": "คุณเรียนภาษาเกาหลีไหม",
+          "wordIds": [
+            "s11end-word-63",
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "선생님입니까?",
+          "th": "คุณเป็นครูไหม",
+          "wordIds": [
+            "s10-11-word-009"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-intonation-question",
+      "title": "คำถามสุภาพและกันเอง",
+      "topic": "conversation",
+      "explanation": "รูปสุภาพและกันเองใช้รูปคำลงท้ายเหมือนประโยคบอกเล่าได้ แต่ใช้บริบทและน้ำเสียงเป็นคำถาม สไลด์ให้ฝึกยกเสียงท้าย เช่น 먹어요? / 먹어? ในข้อเขียนใช้ ? ช่วยระบุเจตนาถาม",
+      "examples": [
+        {
+          "ko": "피자 먹어요?",
+          "th": "กินพิซซ่าไหม · สุภาพ",
+          "wordIds": []
+        },
+        {
+          "ko": "네가 선생님이야?",
+          "th": "เธอเป็นครูไหม · กันเอง",
+          "wordIds": []
+        },
+        {
+          "ko": "먹어요?",
+          "th": "กินไหม · สุภาพ",
+          "wordIds": []
+        },
+        {
+          "ko": "먹어?",
+          "th": "กินไหม · กันเอง",
+          "wordIds": []
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5–6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "s11end-questions-q1",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "เลือกประโยคคำถามทางการ: คุณกินพิซซ่าไหม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "피자를 먹습니다."
+        },
+        {
+          "id": "o1",
+          "text": "피자를 먹습니까?"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "피자를 먹습니까?",
+      "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+      "requires": [
+        "s11end-formal-question",
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-questions-q2",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "เลือกประโยคคำถามทางการ: คุณดื่มเครื่องดื่มแอลกอฮอล์ไหม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "술을 마십니까?"
+        },
+        {
+          "id": "o1",
+          "text": "술을 마십니다."
+        }
+      ],
+      "answer": "o0",
+      "answerText": "술을 마십니까?",
+      "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+      "requires": [
+        "s11end-formal-question",
+        "s11end-word-59",
+        "s10-11-word-029"
+      ],
+      "wordIds": [
+        "s11end-word-59",
+        "s10-11-word-029"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-questions-q3",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "เลือกประโยคคำถามทางการ: คุณเรียนภาษาเกาหลีไหม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "한국어 공부합니다."
+        },
+        {
+          "id": "o1",
+          "text": "한국어 공부합니까?"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "한국어 공부합니까?",
+      "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+      "requires": [
+        "s11end-formal-question",
+        "s11end-word-63",
+        "s10-11-word-023"
+      ],
+      "wordIds": [
+        "s11end-word-63",
+        "s10-11-word-023"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-questions-q4",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "เลือกประโยคคำถามทางการ: คุณเป็นครูไหม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "선생님입니까?"
+        },
+        {
+          "id": "o1",
+          "text": "선생님입니다."
+        }
+      ],
+      "answer": "o0",
+      "answerText": "선생님입니까?",
+      "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+      "requires": [
+        "s11end-formal-question",
+        "s10-11-word-009"
+      ],
+      "wordIds": [
+        "s10-11-word-009"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-questions-q5",
+      "type": "choice",
+      "topic": "conversation",
+      "prompt": "เลือกคำถามสุภาพ: กินไหม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "먹습니까?"
+        },
+        {
+          "id": "o1",
+          "text": "먹어요?"
+        },
+        {
+          "id": "o2",
+          "text": "먹어?"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "먹어요?",
+      "explanation": "รูปสุภาพและกันเองใช้รูปคำลงท้ายเหมือนประโยคบอกเล่าได้ แต่ใช้บริบทและน้ำเสียงเป็นคำถาม สไลด์ให้ฝึกยกเสียงท้าย เช่น 먹어요? / 먹어? ในข้อเขียนใช้ ? ช่วยระบุเจตนาถาม",
+      "requires": [
+        "s11end-intonation-question",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-questions-q6",
+      "type": "choice",
+      "topic": "conversation",
+      "prompt": "เลือกคำถามกันเอง: กินไหม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "먹어?"
+        },
+        {
+          "id": "o1",
+          "text": "먹어요?"
+        },
+        {
+          "id": "o2",
+          "text": "먹습니까?"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "먹어?",
+      "explanation": "รูปสุภาพและกันเองใช้รูปคำลงท้ายเหมือนประโยคบอกเล่าได้ แต่ใช้บริบทและน้ำเสียงเป็นคำถาม สไลด์ให้ฝึกยกเสียงท้าย เช่น 먹어요? / 먹어? ในข้อเขียนใช้ ? ช่วยระบุเจตนาถาม",
+      "requires": [
+        "s11end-intonation-question",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-questions-q7",
+      "type": "choice",
+      "topic": "conversation",
+      "prompt": "피자 먹어요? ในบริบทที่ถามคู่สนทนา หมายถึงอะไร",
+      "options": [
+        {
+          "id": "o0",
+          "text": "ฉันกินพิซซ่า"
+        },
+        {
+          "id": "o1",
+          "text": "กินพิซซ่าไหม"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "피자 먹어요?",
+      "explanation": "รูปสุภาพและกันเองใช้รูปคำลงท้ายเหมือนประโยคบอกเล่าได้ แต่ใช้บริบทและน้ำเสียงเป็นคำถาม สไลด์ให้ฝึกยกเสียงท้าย เช่น 먹어요? / 먹어? ในข้อเขียนใช้ ? ช่วยระบุเจตนาถาม",
+      "requires": [
+        "s11end-intonation-question",
+        "s10-11-word-016"
+      ],
+      "wordIds": [
+        "s10-11-word-016"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-63-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ภาษาเกาหลี",
+      "wordId": "s11end-word-63",
+      "answerText": "한국어",
+      "explanation": "한국어 — ภาษาเกาหลี",
+      "requires": [
+        "s11end-word-63"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}

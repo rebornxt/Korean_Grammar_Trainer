@@ -283,6 +283,8 @@ function select(label, key, options) {
       onchange: () => {
         stop();
         state.filters[key] = s.value;
+        round = null;
+        editingFilters = true;
         save();
         render();
       },
@@ -292,6 +294,8 @@ function select(label, key, options) {
   s.value = state.filters[key];
   return node("label", {}, label, s);
 }
+let round = null;
+let editingFilters = false;
 function renderLearning() {
   const ready = availableLessons(catalog);
   if (!ready.length) {
@@ -300,13 +304,11 @@ function renderLearning() {
     );
     return;
   }
-  const topics = [
-    ...new Set(ready.flatMap((l) => l.questions.map((q) => q.topic))),
-  ];
-  if (!ready.some((l) => l.id === state.filters.lesson))
-    state.filters.lesson = "all";
+  if (!ready.some(l => l.id === state.filters.lesson)) state.filters.lesson = "all";
+  const selected = ready.filter(l => state.filters.lesson === "all" || l.id === state.filters.lesson);
+  const topics = [...new Set(selected.flatMap(l => l.questions.map(q => q.topic)))];
   if (!topics.includes(state.filters.topic)) state.filters.topic = "all";
-  const rules = ready
+  const rules = selected
     .flatMap((l) => l.rules)
     .filter(
       (r) => state.filters.topic === "all" || r.topic === state.filters.topic,
@@ -332,7 +334,7 @@ function renderLearning() {
         ...rules.map((r) => [r.id, r.title]),
       ]),
     );
-  if (state.view === "practice")
+  if (state.view === "practice" && state.filters.topic === "vocabulary")
     filters.append(
       select("ชุดคำศัพท์", "deck", [
         ["all", "ทุกคำ"],
@@ -342,7 +344,19 @@ function renderLearning() {
         ["review", "เคยตอบแล้ว"],
       ]),
     );
-  $("#view").append(filters);
+  if (state.filters.topic !== "vocabulary") state.filters.deck = "all";
+  filters.append(button("ล้างตัวกรอง", () => {
+    state.filters = { lesson: "all", topic: "all", rule: "all", deck: "all" };
+    round = null; editingFilters = true; render();
+  }));
+  const chooser = node("details", { class: "filter-panel" });
+  if (editingFilters || state.view === "review") chooser.open = true;
+  chooser.append(node("summary", {},
+    `${selected.length === 1 ? selected[0].title : "ทุกบท"} · ${TOPICS[state.filters.topic] || "ทุกหัวข้อ"} · เปลี่ยนชุดฝึก`), filters);
+  if (state.view === "practice") filters.append(button("เริ่มรอบฝึก", () => {
+    editingFilters = false; round = null; render();
+  }, "primary"));
+  $("#view").append(chooser);
   save();
   if (state.view === "review") {
     for (const l of ready.filter(
@@ -390,28 +404,30 @@ function renderLearning() {
     return;
   }
   $("#view").append(node("div", { id: "exercise" }));
+  round = null;
   next();
 }
 function next() {
-  const previous = q?.id;
   stop();
-  revealed = false;
-  answered = false;
-  order = [];
-  const pool = questionPool(catalog, state.filters, state);
-  q =
-    shuffle(pool.filter((x) => pool.length === 1 || x.id !== previous))[0] ||
-    null;
-  if (!q) {
-    $("#exercise").replaceChildren(empty("ไม่มีข้อฝึกในตัวกรองนี้"));
+  revealed = false; answered = false; order = [];
+  if (!round) round = { queue: shuffle(questionPool(catalog, state.filters, state)).slice(0, 10), index: 0, correct: 0, wrong: [] };
+  if (!round.queue.length) {
+    q = null;
+    $("#exercise").replaceChildren(node("section", { class: "empty-plain" },
+      node("h2", {}, "ไม่มีข้อฝึกในตัวกรองนี้"),
+      node("p", {}, "ลองเลือกชุดอื่น หรือล้างตัวกรองเพื่อดูข้อฝึกทั้งหมด"),
+      button("ล้างตัวกรอง", () => { state.filters = {lesson:"all",topic:"all",rule:"all",deck:"all"}; round = null; render(); })));
     return;
   }
+  if (round.index >= round.queue.length) { showRoundSummary(); return; }
+  q = { ...round.queue[round.index] };
   if (q.type === "order") q.displayOrder = shuffle(q.chunks.map((_, i) => i));
   drawQuestion();
 }
 function drawQuestion() {
   const root = $("#exercise");
   root.replaceChildren();
+  root.append(node("p", { class: "round-progress", role: "status" }, `ข้อ ${round.index + 1}/${round.queue.length}`));
   const sc = state.scores[q.topic] || { streak: 0, best: 0 };
   const card = node(
     "section",
@@ -529,17 +545,36 @@ function drawQuestion() {
         button("จำได้", () => answer(true), "primary"),
         button("ยังจำไม่ได้", () => answer(false)),
       );
-    if (answered) actions.append(button("ข้อต่อไป", next, "primary"));
+    if (answered) actions.append(button(round.index + 1 === round.queue.length ? "ดูสรุปผล" : "ข้อต่อไป", () => { round.index++; next(); }, "primary"));
     feedback.append(actions);
     card.append(feedback);
   }
   root.append(card);
 }
+function showRoundSummary() {
+  q = null;
+  const wrong = round.wrong.slice();
+  const card = node("section", { class: "card" },
+    node("h2", {}, "จบรอบฝึกแล้ว"),
+    node("p", {}, `ถูก ${round.correct}/${round.queue.length} ข้อ · ควรทบทวนอีก ${wrong.length} ข้อ`));
+  if (wrong.length) {
+    card.append(node("ul", {}, wrong.map(item => node("li", {}, item.prompt))));
+    card.append(button(`ฝึกข้อที่ผิดอีกครั้ง (${wrong.length} ข้อ)`, () => {
+      round = { queue: shuffle(wrong), index: 0, correct: 0, wrong: [] }; next();
+    }, "primary"));
+  }
+  card.append(node("div", {class:"actions"},
+    button("เริ่มรอบใหม่", () => { round = null; next(); }),
+    button("จบการฝึก", () => view("lessons"))));
+  $("#exercise").replaceChildren(card);
+}
+
 function answer(value) {
   if (answered) return;
   answered = true;
   revealed = true;
   q.result = checkAnswer(q, value);
+  if (q.result) round.correct++; else round.wrong.push(q);
   scoreAnswer(state, q.topic, q.result);
   if (q.type === "recall")
     state.words[q.wordId] = q.result ? "known" : "unknown";

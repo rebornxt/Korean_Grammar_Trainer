@@ -1,0 +1,878 @@
+{
+  "id": "s12-b",
+  "sectionId": "section-12",
+  "title": "12 · ㅂ — เปลี่ยนรูปและคำที่ผันปกติ",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section12.pdf",
+    "locator": "หน้า 1–2",
+    "kind": "learner-recap"
+  },
+  "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+  "words": [
+    {
+      "id": "s12-word-01",
+      "ko": "돕다",
+      "th": "ช่วย",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-02",
+      "ko": "곱다",
+      "th": "งดงาม / สวยงาม",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-03",
+      "ko": "굽다",
+      "th": "ย่าง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-04",
+      "ko": "눕다",
+      "th": "นอนลง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-05",
+      "ko": "덥다",
+      "th": "ร้อน (อากาศ)",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-06",
+      "ko": "고맙다",
+      "th": "ขอบคุณ / รู้สึกขอบคุณ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-07",
+      "ko": "줍다",
+      "th": "เก็บขึ้นมา",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-08",
+      "ko": "잡다",
+      "th": "จับ / คว้า",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-09",
+      "ko": "입다",
+      "th": "สวมใส่เสื้อผ้า",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s12-rule-b-wa",
+      "title": "ㅂ → 와요: 돕다 และ 곱다",
+      "topic": "endings",
+      "explanation": "สำหรับ 돕다 และ 곱다 ในความหมายที่เรียน เมื่อต่อ 아요 ตัว ㅂ เปลี่ยนรูปเป็น 와요: 도와요, 고와요 อย่าใช้สูตรนี้กับทุกคำที่มีสระ ㅗ",
+      "examples": [
+        {
+          "ko": "도와요",
+          "th": "돕다 → 도와요 · ช่วย",
+          "wordIds": [
+            "s12-word-01"
+          ]
+        },
+        {
+          "ko": "고와요",
+          "th": "곱다 → 고와요 · งดงาม / สวยงาม",
+          "wordIds": [
+            "s12-word-02"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1–2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-rule-b-wo",
+      "title": "ㅂ → 워요",
+      "topic": "endings",
+      "explanation": "คำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+      "examples": [
+        {
+          "ko": "구워요",
+          "th": "굽다 → 구워요 · ย่าง",
+          "wordIds": [
+            "s12-word-03"
+          ]
+        },
+        {
+          "ko": "누워요",
+          "th": "눕다 → 누워요 · นอนลง",
+          "wordIds": [
+            "s12-word-04"
+          ]
+        },
+        {
+          "ko": "더워요",
+          "th": "덥다 → 더워요 · ร้อน (อากาศ)",
+          "wordIds": [
+            "s12-word-05"
+          ]
+        },
+        {
+          "ko": "고마워요",
+          "th": "고맙다 → 고마워요 · ขอบคุณ / รู้สึกขอบคุณ",
+          "wordIds": [
+            "s12-word-06"
+          ]
+        },
+        {
+          "ko": "주워요",
+          "th": "줍다 → 주워요 · เก็บขึ้นมา",
+          "wordIds": [
+            "s12-word-07"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1–2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-rule-b-regular",
+      "title": "ㅂ ที่ไม่เปลี่ยน: 잡다 / 입다",
+      "topic": "endings",
+      "explanation": "잡다 และ 입다 ในสไลด์ผันปกติ เก็บตัวสะกด ㅂ ไว้: 잡아요 / 입어요 คำแปลอังกฤษของ 입다 ในสไลด์ซ้ำกับ 잡다 แต่ 입다 ในที่นี้หมายถึงสวมใส่เสื้อผ้า",
+      "examples": [
+        {
+          "ko": "잡아요",
+          "th": "잡다 → 잡아요 · จับ / คว้า",
+          "wordIds": [
+            "s12-word-08"
+          ]
+        },
+        {
+          "ko": "입어요",
+          "th": "입다 → 입어요 · สวมใส่เสื้อผ้า",
+          "wordIds": [
+            "s12-word-09"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1–2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "s12-conjugate-01",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "돕다 · ช่วย\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "도워요"
+        },
+        {
+          "id": "o1",
+          "text": "돕다"
+        },
+        {
+          "id": "o2",
+          "text": "도와요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "도와요",
+      "explanation": "돕다 → 도와요\nสำหรับ 돕다 และ 곱다 ในความหมายที่เรียน เมื่อต่อ 아요 ตัว ㅂ เปลี่ยนรูปเป็น 와요: 도와요, 고와요 อย่าใช้สูตรนี้กับทุกคำที่มีสระ ㅗ",
+      "requires": [
+        "s12-word-01",
+        "s12-rule-b-wa"
+      ],
+      "wordIds": [
+        "s12-word-01"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-01-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ช่วย",
+      "wordId": "s12-word-01",
+      "answerText": "돕다",
+      "explanation": "돕다 — ช่วย",
+      "requires": [
+        "s12-word-01"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-02",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "곱다 · งดงาม / สวยงาม\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "곱다"
+        },
+        {
+          "id": "o1",
+          "text": "고와요"
+        },
+        {
+          "id": "o2",
+          "text": "고워요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "고와요",
+      "explanation": "곱다 → 고와요\nสำหรับ 돕다 และ 곱다 ในความหมายที่เรียน เมื่อต่อ 아요 ตัว ㅂ เปลี่ยนรูปเป็น 와요: 도와요, 고와요 อย่าใช้สูตรนี้กับทุกคำที่มีสระ ㅗ",
+      "requires": [
+        "s12-word-02",
+        "s12-rule-b-wa"
+      ],
+      "wordIds": [
+        "s12-word-02"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-02-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "งดงาม / สวยงาม",
+      "wordId": "s12-word-02",
+      "answerText": "곱다",
+      "explanation": "곱다 — งดงาม / สวยงาม",
+      "requires": [
+        "s12-word-02"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-03",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "굽다 · ย่าง\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "구워요"
+        },
+        {
+          "id": "o1",
+          "text": "굽어요"
+        },
+        {
+          "id": "o2",
+          "text": "굽다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "구워요",
+      "explanation": "굽다 → 구워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+      "requires": [
+        "s12-word-03",
+        "s12-rule-b-wo"
+      ],
+      "wordIds": [
+        "s12-word-03"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-03-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ย่าง",
+      "wordId": "s12-word-03",
+      "answerText": "굽다",
+      "explanation": "굽다 — ย่าง",
+      "requires": [
+        "s12-word-03"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-04",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "눕다 · นอนลง\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "눕어요"
+        },
+        {
+          "id": "o1",
+          "text": "눕다"
+        },
+        {
+          "id": "o2",
+          "text": "누워요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "누워요",
+      "explanation": "눕다 → 누워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+      "requires": [
+        "s12-word-04",
+        "s12-rule-b-wo"
+      ],
+      "wordIds": [
+        "s12-word-04"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-04-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "นอนลง",
+      "wordId": "s12-word-04",
+      "answerText": "눕다",
+      "explanation": "눕다 — นอนลง",
+      "requires": [
+        "s12-word-04"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-05",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "덥다 · ร้อน (อากาศ)\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "덥다"
+        },
+        {
+          "id": "o1",
+          "text": "더워요"
+        },
+        {
+          "id": "o2",
+          "text": "덥어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "더워요",
+      "explanation": "덥다 → 더워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+      "requires": [
+        "s12-word-05",
+        "s12-rule-b-wo"
+      ],
+      "wordIds": [
+        "s12-word-05"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-05-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ร้อน (อากาศ)",
+      "wordId": "s12-word-05",
+      "answerText": "덥다",
+      "explanation": "덥다 — ร้อน (อากาศ)",
+      "requires": [
+        "s12-word-05"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-06",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "고맙다 · ขอบคุณ / รู้สึกขอบคุณ\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "고마워요"
+        },
+        {
+          "id": "o1",
+          "text": "고맙아요"
+        },
+        {
+          "id": "o2",
+          "text": "고맙다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "고마워요",
+      "explanation": "고맙다 → 고마워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+      "requires": [
+        "s12-word-06",
+        "s12-rule-b-wo"
+      ],
+      "wordIds": [
+        "s12-word-06"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-06-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ขอบคุณ / รู้สึกขอบคุณ",
+      "wordId": "s12-word-06",
+      "answerText": "고맙다",
+      "explanation": "고맙다 — ขอบคุณ / รู้สึกขอบคุณ",
+      "requires": [
+        "s12-word-06"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-07",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "줍다 · เก็บขึ้นมา\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "줍어요"
+        },
+        {
+          "id": "o1",
+          "text": "줍다"
+        },
+        {
+          "id": "o2",
+          "text": "주워요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "주워요",
+      "explanation": "줍다 → 주워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+      "requires": [
+        "s12-word-07",
+        "s12-rule-b-wo"
+      ],
+      "wordIds": [
+        "s12-word-07"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-07-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เก็บขึ้นมา",
+      "wordId": "s12-word-07",
+      "answerText": "줍다",
+      "explanation": "줍다 — เก็บขึ้นมา",
+      "requires": [
+        "s12-word-07"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-08",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "잡다 · จับ / คว้า\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "잡다"
+        },
+        {
+          "id": "o1",
+          "text": "잡아요"
+        },
+        {
+          "id": "o2",
+          "text": "자워요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "잡아요",
+      "explanation": "잡다 → 잡아요\n잡다 และ 입다 ในสไลด์ผันปกติ เก็บตัวสะกด ㅂ ไว้: 잡아요 / 입어요 คำแปลอังกฤษของ 입다 ในสไลด์ซ้ำกับ 잡다 แต่ 입다 ในที่นี้หมายถึงสวมใส่เสื้อผ้า",
+      "requires": [
+        "s12-word-08",
+        "s12-rule-b-regular"
+      ],
+      "wordIds": [
+        "s12-word-08"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-08-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "จับ / คว้า",
+      "wordId": "s12-word-08",
+      "answerText": "잡다",
+      "explanation": "잡다 — จับ / คว้า",
+      "requires": [
+        "s12-word-08"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-09",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "입다 · สวมใส่เสื้อผ้า\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "입어요"
+        },
+        {
+          "id": "o1",
+          "text": "이워요"
+        },
+        {
+          "id": "o2",
+          "text": "입다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "입어요",
+      "explanation": "입다 → 입어요\n잡다 และ 입다 ในสไลด์ผันปกติ เก็บตัวสะกด ㅂ ไว้: 잡아요 / 입어요 คำแปลอังกฤษของ 입다 ในสไลด์ซ้ำกับ 잡다 แต่ 입다 ในที่นี้หมายถึงสวมใส่เสื้อผ้า",
+      "requires": [
+        "s12-word-09",
+        "s12-rule-b-regular"
+      ],
+      "wordIds": [
+        "s12-word-09"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-09-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "สวมใส่เสื้อผ้า",
+      "wordId": "s12-word-09",
+      "answerText": "입다",
+      "explanation": "입다 — สวมใส่เสื้อผ้า",
+      "requires": [
+        "s12-word-09"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-pattern-1",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "돕다 — เมื่อต่อ 아요 / 어요 ต้องจัดการ ㅂ อย่างไร?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "เก็บ ㅂ ไว้"
+        },
+        {
+          "id": "o1",
+          "text": "เปลี่ยน ㅂ เป็น 워요"
+        },
+        {
+          "id": "o2",
+          "text": "เปลี่ยน ㅂ เป็น 와요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "도와요",
+      "explanation": "돕다 → 도와요 · เปลี่ยน ㅂ เป็น 와요",
+      "requires": [
+        "s12-word-01",
+        "s12-rule-b-wa"
+      ],
+      "wordIds": [
+        "s12-word-01"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-pattern-2",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "굽다 — เมื่อต่อ 아요 / 어요 ต้องจัดการ ㅂ อย่างไร?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "เก็บ ㅂ ไว้"
+        },
+        {
+          "id": "o1",
+          "text": "เปลี่ยน ㅂ เป็น 워요"
+        },
+        {
+          "id": "o2",
+          "text": "เปลี่ยน ㅂ เป็น 와요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "구워요",
+      "explanation": "굽다 → 구워요 · เปลี่ยน ㅂ เป็น 워요",
+      "requires": [
+        "s12-word-03",
+        "s12-rule-b-wo"
+      ],
+      "wordIds": [
+        "s12-word-03"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-pattern-3",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "잡다 — เมื่อต่อ 아요 / 어요 ต้องจัดการ ㅂ อย่างไร?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "เก็บ ㅂ ไว้"
+        },
+        {
+          "id": "o1",
+          "text": "เปลี่ยน ㅂ เป็น 워요"
+        },
+        {
+          "id": "o2",
+          "text": "เปลี่ยน ㅂ เป็น 와요"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "잡아요",
+      "explanation": "잡다 → 잡아요 · เก็บ ㅂ ไว้",
+      "requires": [
+        "s12-word-08",
+        "s12-rule-b-regular"
+      ],
+      "wordIds": [
+        "s12-word-08"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-pattern-4",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "입다 — เมื่อต่อ 아요 / 어요 ต้องจัดการ ㅂ อย่างไร?",
+      "options": [
+        {
+          "id": "o0",
+          "text": "เก็บ ㅂ ไว้"
+        },
+        {
+          "id": "o1",
+          "text": "เปลี่ยน ㅂ เป็น 워요"
+        },
+        {
+          "id": "o2",
+          "text": "เปลี่ยน ㅂ เป็น 와요"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "입어요",
+      "explanation": "입다 → 입어요 · เก็บ ㅂ ไว้",
+      "requires": [
+        "s12-word-09",
+        "s12-rule-b-regular"
+      ],
+      "wordIds": [
+        "s12-word-09"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}

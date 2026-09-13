@@ -1,0 +1,1111 @@
+{
+  "id": "s11end-negative",
+  "sectionId": "section-11",
+  "title": "11 · ประโยคปฏิเสธ",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section11end.pdf",
+    "locator": "หน้า 4–6",
+    "kind": "learner-recap"
+  },
+  "notes": "เฉพาะเนื้อหาที่ปรากฏใน PDF ไม่อนุมานบทก่อนหน้าหรือบทอนาคต",
+  "words": [
+    {
+      "id": "s11end-word-59",
+      "ko": "술",
+      "th": "เครื่องดื่มแอลกอฮอล์",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s11end-word-60",
+      "ko": "책",
+      "th": "หนังสือ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s11end-word-61",
+      "ko": "좋아하다",
+      "th": "ชอบ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s11end-word-62",
+      "ko": "싫어하다",
+      "th": "ไม่ชอบ / เกลียด",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s11end-an-rule",
+      "title": "안 อยู่หน้ากริยา",
+      "topic": "endings",
+      "explanation": "วาง 안 หน้ากริยา เช่น 안 먹어요 และ 안 마셔요 เพื่อบอกว่าไม่ทำสิ่งนั้น ไม่วาง 안 ต่อท้ายกริยา",
+      "examples": [
+        {
+          "ko": "저는 술을 안 마셔요.",
+          "th": "ฉันไม่ดื่มเครื่องดื่มแอลกอฮอล์",
+          "wordIds": [
+            "s11end-word-59",
+            "s10-11-word-029"
+          ]
+        },
+        {
+          "ko": "저는 책을 안 읽어요.",
+          "th": "ฉันไม่อ่านหนังสือ",
+          "wordIds": [
+            "s11end-word-60",
+            "s10-11-word-025"
+          ]
+        },
+        {
+          "ko": "저는 피자를 안 먹어요.",
+          "th": "ฉันไม่กินพิซซ่า",
+          "wordIds": [
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-hada-rule",
+      "title": "คำนาม + 하다 และตำแหน่ง 안",
+      "topic": "endings",
+      "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+      "examples": [
+        {
+          "ko": "저는 공부 안 해요.",
+          "th": "ฉันไม่เรียน",
+          "wordIds": [
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "저는 청소 안 해요.",
+          "th": "ฉันไม่ทำความสะอาด",
+          "wordIds": [
+            "s10-11-word-051"
+          ]
+        },
+        {
+          "ko": "저는 요리 안 해요.",
+          "th": "ฉันไม่ทำอาหาร",
+          "wordIds": [
+            "s10-11-word-052"
+          ]
+        },
+        {
+          "ko": "안 좋아해요.",
+          "th": "좋아하다 → 안 좋아해요.",
+          "wordIds": [
+            "s11end-word-61"
+          ]
+        },
+        {
+          "ko": "안 싫어해요.",
+          "th": "싫어하다 → 안 싫어해요.",
+          "wordIds": [
+            "s11end-word-62"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-ji-rule",
+      "title": "ฐานกริยา + 지 않다",
+      "topic": "endings",
+      "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้",
+      "examples": [
+        {
+          "ko": "저는 술을 마시지 않아요.",
+          "th": "ฉันไม่ดื่มเครื่องดื่มแอลกอฮอล์",
+          "wordIds": [
+            "s11end-word-59",
+            "s10-11-word-029"
+          ]
+        },
+        {
+          "ko": "저는 책을 읽지 않아요.",
+          "th": "ฉันไม่อ่านหนังสือ",
+          "wordIds": [
+            "s11end-word-60",
+            "s10-11-word-025"
+          ]
+        },
+        {
+          "ko": "저는 피자를 먹지 않아요.",
+          "th": "ฉันไม่กินพิซซ่า",
+          "wordIds": [
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "저는 공부하지 않아요.",
+          "th": "ฉันไม่เรียน",
+          "wordIds": [
+            "s10-11-word-023"
+          ]
+        },
+        {
+          "ko": "저는 빵을 먹지 않아요.",
+          "th": "ฉันไม่กินขนมปัง",
+          "wordIds": [
+            "s11end-word-54",
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "읽지 않습니다",
+          "th": "ไม่อ่าน · ทางการ",
+          "wordIds": [
+            "s10-11-word-025"
+          ]
+        },
+        {
+          "ko": "읽지 않아요",
+          "th": "ไม่อ่าน · สุภาพ",
+          "wordIds": [
+            "s10-11-word-025"
+          ]
+        },
+        {
+          "ko": "읽지 않아",
+          "th": "ไม่อ่าน · กันเอง",
+          "wordIds": [
+            "s10-11-word-025"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4–6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "s11end-negative-q1",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่ดื่มเครื่องดื่มแอลกอฮอล์ — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "술을",
+        "안",
+        "마셔요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 술을 안 마셔요.",
+      "explanation": "วาง 안 หน้ากริยา เช่น 안 먹어요 และ 안 마셔요 เพื่อบอกว่าไม่ทำสิ่งนั้น ไม่วาง 안 ต่อท้ายกริยา ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-an-rule",
+        "s11end-word-59",
+        "s10-11-word-029"
+      ],
+      "wordIds": [
+        "s11end-word-59",
+        "s10-11-word-029"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q2",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่อ่านหนังสือ — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "책을",
+        "안",
+        "읽어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 책을 안 읽어요.",
+      "explanation": "วาง 안 หน้ากริยา เช่น 안 먹어요 และ 안 마셔요 เพื่อบอกว่าไม่ทำสิ่งนั้น ไม่วาง 안 ต่อท้ายกริยา ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-an-rule",
+        "s11end-word-60",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s11end-word-60",
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q3",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่กินพิซซ่า — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "피자를",
+        "안",
+        "먹어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 피자를 안 먹어요.",
+      "explanation": "วาง 안 หน้ากริยา เช่น 안 먹어요 และ 안 마셔요 เพื่อบอกว่าไม่ทำสิ่งนั้น ไม่วาง 안 ต่อท้ายกริยา ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-an-rule",
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q4",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "เลือกตำแหน่ง 안 ตามรูปคำนาม + 하다 ในบทนี้: ฉันไม่เรียน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저는 공부 안 해요."
+        },
+        {
+          "id": "o1",
+          "text": "저는 공부 해요 안."
+        }
+      ],
+      "answer": "o0",
+      "answerText": "저는 공부 안 해요.",
+      "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+      "requires": [
+        "s11end-hada-rule",
+        "s10-11-word-023"
+      ],
+      "wordIds": [
+        "s10-11-word-023"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q5",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่เรียน — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "공부",
+        "안",
+        "해요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 공부 안 해요.",
+      "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요 ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-hada-rule",
+        "s10-11-word-023"
+      ],
+      "wordIds": [
+        "s10-11-word-023"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q6",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "เลือกตำแหน่ง 안 ตามรูปคำนาม + 하다 ในบทนี้: ฉันไม่ทำความสะอาด",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저는 청소 안 해요."
+        },
+        {
+          "id": "o1",
+          "text": "저는 청소 해요 안."
+        }
+      ],
+      "answer": "o0",
+      "answerText": "저는 청소 안 해요.",
+      "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+      "requires": [
+        "s11end-hada-rule",
+        "s10-11-word-051"
+      ],
+      "wordIds": [
+        "s10-11-word-051"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q7",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่ทำความสะอาด — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "청소",
+        "안",
+        "해요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 청소 안 해요.",
+      "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요 ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-hada-rule",
+        "s10-11-word-051"
+      ],
+      "wordIds": [
+        "s10-11-word-051"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q8",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "เลือกตำแหน่ง 안 ตามรูปคำนาม + 하다 ในบทนี้: ฉันไม่ทำอาหาร",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저는 요리 안 해요."
+        },
+        {
+          "id": "o1",
+          "text": "저는 요리 해요 안."
+        }
+      ],
+      "answer": "o0",
+      "answerText": "저는 요리 안 해요.",
+      "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+      "requires": [
+        "s11end-hada-rule",
+        "s10-11-word-052"
+      ],
+      "wordIds": [
+        "s10-11-word-052"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q9",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่ทำอาหาร — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "요리",
+        "안",
+        "해요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 요리 안 해요.",
+      "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요 ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-hada-rule",
+        "s10-11-word-052"
+      ],
+      "wordIds": [
+        "s10-11-word-052"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q10",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "좋아하다 — เลือกรูปปฏิเสธสุภาพแบบ 안 ตามข้อยกเว้นในสไลด์",
+      "options": [
+        {
+          "id": "o0",
+          "text": "안 좋아해요."
+        },
+        {
+          "id": "o1",
+          "text": "좋아 안 해요."
+        }
+      ],
+      "answer": "o0",
+      "answerText": "안 좋아해요.",
+      "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+      "requires": [
+        "s11end-hada-rule",
+        "s11end-word-61"
+      ],
+      "wordIds": [
+        "s11end-word-61"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q11",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "싫어하다 — เลือกรูปปฏิเสธสุภาพแบบ 안 ตามข้อยกเว้นในสไลด์",
+      "options": [
+        {
+          "id": "o0",
+          "text": "싫어 안 해요."
+        },
+        {
+          "id": "o1",
+          "text": "안 싫어해요."
+        }
+      ],
+      "answer": "o1",
+      "answerText": "안 싫어해요.",
+      "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+      "requires": [
+        "s11end-hada-rule",
+        "s11end-word-62"
+      ],
+      "wordIds": [
+        "s11end-word-62"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q12",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่ดื่มเครื่องดื่มแอลกอฮอล์ — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "술을",
+        "마시지",
+        "않아요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 술을 마시지 않아요.",
+      "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-ji-rule",
+        "s11end-word-59",
+        "s10-11-word-029"
+      ],
+      "wordIds": [
+        "s11end-word-59",
+        "s10-11-word-029"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q13",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่อ่านหนังสือ — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "책을",
+        "읽지",
+        "않아요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 책을 읽지 않아요.",
+      "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-ji-rule",
+        "s11end-word-60",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s11end-word-60",
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q14",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่กินพิซซ่า — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "피자를",
+        "먹지",
+        "않아요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 피자를 먹지 않아요.",
+      "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-ji-rule",
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q15",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่เรียน — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "공부하지",
+        "않아요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "answerText": "저는 공부하지 않아요.",
+      "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-ji-rule",
+        "s10-11-word-023"
+      ],
+      "wordIds": [
+        "s10-11-word-023"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q16",
+      "type": "order",
+      "topic": "endings",
+      "prompt": "ฉันไม่กินขนมปัง — เรียงตามตัวอย่างในโน้ต",
+      "chunks": [
+        "저는",
+        "빵을",
+        "먹지",
+        "않아요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "answerText": "저는 빵을 먹지 않아요.",
+      "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+      "requires": [
+        "s11end-ji-rule",
+        "s11end-word-54",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s11end-word-54",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q17",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "읽다 → ไม่อ่าน\nเลือกรูปปฏิเสธแบบ -지 않다 ระดับทางการ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "읽지 않아"
+        },
+        {
+          "id": "o1",
+          "text": "읽지 않습니다"
+        },
+        {
+          "id": "o2",
+          "text": "읽지 않아요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "읽지 않습니다",
+      "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้",
+      "requires": [
+        "s11end-ji-rule",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q18",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "읽다 → ไม่อ่าน\nเลือกรูปปฏิเสธแบบ -지 않다 ระดับสุภาพ",
+      "options": [
+        {
+          "id": "o0",
+          "text": "읽지 않아요"
+        },
+        {
+          "id": "o1",
+          "text": "읽지 않습니다"
+        },
+        {
+          "id": "o2",
+          "text": "읽지 않아"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "읽지 않아요",
+      "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้",
+      "requires": [
+        "s11end-ji-rule",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-negative-q19",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "읽다 → ไม่อ่าน\nเลือกรูปปฏิเสธแบบ -지 않다 ระดับกันเอง",
+      "options": [
+        {
+          "id": "o0",
+          "text": "읽지 않습니다"
+        },
+        {
+          "id": "o1",
+          "text": "읽지 않아요"
+        },
+        {
+          "id": "o2",
+          "text": "읽지 않아"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "읽지 않아",
+      "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้",
+      "requires": [
+        "s11end-ji-rule",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-59-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เครื่องดื่มแอลกอฮอล์",
+      "wordId": "s11end-word-59",
+      "answerText": "술",
+      "explanation": "술 — เครื่องดื่มแอลกอฮอล์",
+      "requires": [
+        "s11end-word-59"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-60-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "หนังสือ",
+      "wordId": "s11end-word-60",
+      "answerText": "책",
+      "explanation": "책 — หนังสือ",
+      "requires": [
+        "s11end-word-60"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-61-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ชอบ",
+      "wordId": "s11end-word-61",
+      "answerText": "좋아하다",
+      "explanation": "좋아하다 — ชอบ",
+      "requires": [
+        "s11end-word-61"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-62-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ไม่ชอบ / เกลียด",
+      "wordId": "s11end-word-62",
+      "answerText": "싫어하다",
+      "explanation": "싫어하다 — ไม่ชอบ / เกลียด",
+      "requires": [
+        "s11end-word-62"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-transform-1",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "저는 술을 안 마셔요.\nเปลี่ยนเป็น -지 않아요 โดยคงความหมายเดิม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저는 술을 마시지 않아요."
+        },
+        {
+          "id": "o1",
+          "text": "저는 술을 마셔요."
+        }
+      ],
+      "answer": "o0",
+      "answerText": "저는 술을 마시지 않아요.",
+      "explanation": "ทั้งสองรูปบอกว่าไม่ทำสิ่งนั้น เปลี่ยนจาก 안 หน้ากริยาเป็นฐานกริยา + 지 않아요 โดยคงระดับสุภาพ",
+      "requires": [
+        "s11end-an-rule",
+        "s11end-ji-rule",
+        "s11end-object-rule"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4–6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-transform-2",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "저는 책을 안 읽어요.\nเปลี่ยนเป็น -지 않아요 โดยคงความหมายเดิม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저는 책을 읽어요."
+        },
+        {
+          "id": "o1",
+          "text": "저는 책을 읽지 않아요."
+        }
+      ],
+      "answer": "o1",
+      "answerText": "저는 책을 읽지 않아요.",
+      "explanation": "ทั้งสองรูปบอกว่าไม่ทำสิ่งนั้น เปลี่ยนจาก 안 หน้ากริยาเป็นฐานกริยา + 지 않아요 โดยคงระดับสุภาพ",
+      "requires": [
+        "s11end-an-rule",
+        "s11end-ji-rule",
+        "s11end-object-rule"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4–6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-transform-3",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "저는 피자를 안 먹어요.\nเปลี่ยนเป็น -지 않아요 โดยคงความหมายเดิม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저는 피자를 먹지 않아요."
+        },
+        {
+          "id": "o1",
+          "text": "저는 피자를 먹어요."
+        }
+      ],
+      "answer": "o0",
+      "answerText": "저는 피자를 먹지 않아요.",
+      "explanation": "ทั้งสองรูปบอกว่าไม่ทำสิ่งนั้น เปลี่ยนจาก 안 หน้ากริยาเป็นฐานกริยา + 지 않아요 โดยคงระดับสุภาพ",
+      "requires": [
+        "s11end-an-rule",
+        "s11end-ji-rule",
+        "s11end-object-rule"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4–6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-transform-4",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "저는 공부 안 해요.\nเปลี่ยนเป็น -지 않아요 โดยคงความหมายเดิม",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저는 공부해요."
+        },
+        {
+          "id": "o1",
+          "text": "저는 공부하지 않아요."
+        }
+      ],
+      "answer": "o1",
+      "answerText": "저는 공부하지 않아요.",
+      "explanation": "ทั้งสองรูปบอกว่าไม่ทำสิ่งนั้น เปลี่ยนจาก 안 หน้ากริยาเป็นฐานกริยา + 지 않아요 โดยคงระดับสุภาพ",
+      "requires": [
+        "s11end-an-rule",
+        "s11end-ji-rule",
+        "s11end-object-rule"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4–6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "id": "s12-h",
+  "sectionId": "section-12",
+  "title": "12 · ㅎ — รูปย่อ",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section12.pdf",
+    "locator": "หน้า 6, 8",
+    "kind": "learner-recap"
+  },
+  "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+  "words": [
+    {
+      "id": "s12-word-40",
+      "ko": "하얗다",
+      "th": "ขาว",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-41",
+      "ko": "저렇다",
+      "th": "เป็นอย่างนั้น",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-42",
+      "ko": "어떻다",
+      "th": "เป็นอย่างไร",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-43",
+      "ko": "노랗다",
+      "th": "เหลือง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-44",
+      "ko": "파랗다",
+      "th": "ฟ้า / น้ำเงิน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s12-word-45",
+      "ko": "이렇다",
+      "th": "เป็นอย่างนี้",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s12-rule-h",
+      "title": "ㅎ: จำรูปย่อของคำในบท",
+      "topic": "endings",
+      "explanation": "คำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+      "examples": [
+        {
+          "ko": "하얘요",
+          "th": "하얗다 → 하얘요 · ขาว",
+          "wordIds": [
+            "s12-word-40"
+          ]
+        },
+        {
+          "ko": "저래요",
+          "th": "저렇다 → 저래요 · เป็นอย่างนั้น",
+          "wordIds": [
+            "s12-word-41"
+          ]
+        },
+        {
+          "ko": "어때요",
+          "th": "어떻다 → 어때요 · เป็นอย่างไร",
+          "wordIds": [
+            "s12-word-42"
+          ]
+        },
+        {
+          "ko": "노래요",
+          "th": "노랗다 → 노래요 · เหลือง",
+          "wordIds": [
+            "s12-word-43"
+          ]
+        },
+        {
+          "ko": "파래요",
+          "th": "파랗다 → 파래요 · ฟ้า / น้ำเงิน",
+          "wordIds": [
+            "s12-word-44"
+          ]
+        },
+        {
+          "ko": "이래요",
+          "th": "이렇다 → 이래요 · เป็นอย่างนี้",
+          "wordIds": [
+            "s12-word-45"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6, 8",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "s12-conjugate-40",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "하얗다 · ขาว\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "하예요"
+        },
+        {
+          "id": "o1",
+          "text": "하얗다"
+        },
+        {
+          "id": "o2",
+          "text": "하얘요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "하얘요",
+      "explanation": "하얗다 → 하얘요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+      "requires": [
+        "s12-word-40",
+        "s12-rule-h"
+      ],
+      "wordIds": [
+        "s12-word-40"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-40-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ขาว",
+      "wordId": "s12-word-40",
+      "answerText": "하얗다",
+      "explanation": "하얗다 — ขาว",
+      "requires": [
+        "s12-word-40"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-41",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "저렇다 · เป็นอย่างนั้น\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "저렇다"
+        },
+        {
+          "id": "o1",
+          "text": "저래요"
+        },
+        {
+          "id": "o2",
+          "text": "저렇어요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "저래요",
+      "explanation": "저렇다 → 저래요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+      "requires": [
+        "s12-word-41",
+        "s12-rule-h"
+      ],
+      "wordIds": [
+        "s12-word-41"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-41-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เป็นอย่างนั้น",
+      "wordId": "s12-word-41",
+      "answerText": "저렇다",
+      "explanation": "저렇다 — เป็นอย่างนั้น",
+      "requires": [
+        "s12-word-41"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-42",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "어떻다 · เป็นอย่างไร\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "어때요"
+        },
+        {
+          "id": "o1",
+          "text": "어떻어요"
+        },
+        {
+          "id": "o2",
+          "text": "어떻다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "어때요",
+      "explanation": "어떻다 → 어때요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+      "requires": [
+        "s12-word-42",
+        "s12-rule-h"
+      ],
+      "wordIds": [
+        "s12-word-42"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-42-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เป็นอย่างไร",
+      "wordId": "s12-word-42",
+      "answerText": "어떻다",
+      "explanation": "어떻다 — เป็นอย่างไร",
+      "requires": [
+        "s12-word-42"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-43",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "노랗다 · เหลือง\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "노랗아요"
+        },
+        {
+          "id": "o1",
+          "text": "노랗다"
+        },
+        {
+          "id": "o2",
+          "text": "노래요"
+        }
+      ],
+      "answer": "o2",
+      "answerText": "노래요",
+      "explanation": "노랗다 → 노래요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+      "requires": [
+        "s12-word-43",
+        "s12-rule-h"
+      ],
+      "wordIds": [
+        "s12-word-43"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-43-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เหลือง",
+      "wordId": "s12-word-43",
+      "answerText": "노랗다",
+      "explanation": "노랗다 — เหลือง",
+      "requires": [
+        "s12-word-43"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-44",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "파랗다 · ฟ้า / น้ำเงิน\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "파랗다"
+        },
+        {
+          "id": "o1",
+          "text": "파래요"
+        },
+        {
+          "id": "o2",
+          "text": "파랗아요"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "파래요",
+      "explanation": "파랗다 → 파래요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+      "requires": [
+        "s12-word-44",
+        "s12-rule-h"
+      ],
+      "wordIds": [
+        "s12-word-44"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-44-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ฟ้า / น้ำเงิน",
+      "wordId": "s12-word-44",
+      "answerText": "파랗다",
+      "explanation": "파랗다 — ฟ้า / น้ำเงิน",
+      "requires": [
+        "s12-word-44"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-conjugate-45",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "이렇다 · เป็นอย่างนี้\nเลือกรูปสุภาพปัจจุบัน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "이래요"
+        },
+        {
+          "id": "o1",
+          "text": "이렇어요"
+        },
+        {
+          "id": "o2",
+          "text": "이렇다"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "이래요",
+      "explanation": "이렇다 → 이래요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+      "requires": [
+        "s12-word-45",
+        "s12-rule-h"
+      ],
+      "wordIds": [
+        "s12-word-45"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s12-word-45-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เป็นอย่างนี้",
+      "wordId": "s12-word-45",
+      "answerText": "이렇다",
+      "explanation": "이렇다 — เป็นอย่างนี้",
+      "requires": [
+        "s12-word-45"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}

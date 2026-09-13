@@ -1,0 +1,442 @@
+{
+  "id": "s11end-objects",
+  "sectionId": "section-11",
+  "title": "11 · คำช่วยกรรม 을 / 를",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section11end.pdf",
+    "locator": "หน้า 1–3",
+    "kind": "learner-recap"
+  },
+  "notes": "เฉพาะเนื้อหาที่ปรากฏใน PDF ไม่อนุมานบทก่อนหน้าหรือบทอนาคต",
+  "words": [
+    {
+      "id": "s11end-word-54",
+      "ko": "빵",
+      "th": "ขนมปัง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s11end-word-55",
+      "ko": "비빔밥",
+      "th": "ข้าวยำเกาหลี",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s11end-word-56",
+      "ko": "바나나",
+      "th": "กล้วย",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s11end-word-57",
+      "ko": "라면",
+      "th": "รามยอน / บะหมี่กึ่งสำเร็จรูป",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s11end-word-58",
+      "ko": "사과",
+      "th": "แอปเปิล",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s11end-object-rule",
+      "title": "เลือก 을 หรือ 를 จากตัวสะกดของคำนาม",
+      "topic": "particles",
+      "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+      "examples": [
+        {
+          "ko": "저는 빵을 먹어요.",
+          "th": "ฉันกินขนมปัง",
+          "wordIds": [
+            "s11end-word-54",
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "저는 비빔밥을 먹어요.",
+          "th": "ฉันกินข้าวยำเกาหลี",
+          "wordIds": [
+            "s11end-word-55",
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "저는 바나나를 먹어요.",
+          "th": "ฉันกินกล้วย",
+          "wordIds": [
+            "s11end-word-56",
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "저는 라면을 먹어요.",
+          "th": "ฉันกินรามยอน",
+          "wordIds": [
+            "s11end-word-57",
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "저는 사과를 먹어요.",
+          "th": "ฉันกินแอปเปิล",
+          "wordIds": [
+            "s11end-word-58",
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "저는 피자를 먹어요.",
+          "th": "ฉันกินพิซซ่า",
+          "wordIds": [
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1–3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "s11end-objects-q1",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "저는 빵__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินขนมปัง",
+      "options": [
+        {
+          "id": "o0",
+          "text": "를"
+        },
+        {
+          "id": "o1",
+          "text": "을"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "저는 빵을 먹어요.",
+      "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+      "requires": [
+        "s11end-object-rule",
+        "s11end-word-54",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s11end-word-54",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-objects-q2",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "저는 비빔밥__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินข้าวยำเกาหลี",
+      "options": [
+        {
+          "id": "o0",
+          "text": "을"
+        },
+        {
+          "id": "o1",
+          "text": "를"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "저는 비빔밥을 먹어요.",
+      "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+      "requires": [
+        "s11end-object-rule",
+        "s11end-word-55",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s11end-word-55",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-objects-q3",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "저는 바나나__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินกล้วย",
+      "options": [
+        {
+          "id": "o0",
+          "text": "을"
+        },
+        {
+          "id": "o1",
+          "text": "를"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "저는 바나나를 먹어요.",
+      "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+      "requires": [
+        "s11end-object-rule",
+        "s11end-word-56",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s11end-word-56",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-objects-q4",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "저는 라면__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินรามยอน",
+      "options": [
+        {
+          "id": "o0",
+          "text": "을"
+        },
+        {
+          "id": "o1",
+          "text": "를"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "저는 라면을 먹어요.",
+      "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+      "requires": [
+        "s11end-object-rule",
+        "s11end-word-57",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s11end-word-57",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-objects-q5",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "저는 사과__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินแอปเปิล",
+      "options": [
+        {
+          "id": "o0",
+          "text": "을"
+        },
+        {
+          "id": "o1",
+          "text": "를"
+        }
+      ],
+      "answer": "o1",
+      "answerText": "저는 사과를 먹어요.",
+      "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+      "requires": [
+        "s11end-object-rule",
+        "s11end-word-58",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s11end-word-58",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-objects-q6",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "저는 피자__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินพิซซ่า",
+      "options": [
+        {
+          "id": "o0",
+          "text": "를"
+        },
+        {
+          "id": "o1",
+          "text": "을"
+        }
+      ],
+      "answer": "o0",
+      "answerText": "저는 피자를 먹어요.",
+      "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+      "requires": [
+        "s11end-object-rule",
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 3",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-54-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ขนมปัง",
+      "wordId": "s11end-word-54",
+      "answerText": "빵",
+      "explanation": "빵 — ขนมปัง",
+      "requires": [
+        "s11end-word-54"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-55-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ข้าวยำเกาหลี",
+      "wordId": "s11end-word-55",
+      "answerText": "비빔밥",
+      "explanation": "비빔밥 — ข้าวยำเกาหลี",
+      "requires": [
+        "s11end-word-55"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-56-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "กล้วย",
+      "wordId": "s11end-word-56",
+      "answerText": "바나나",
+      "explanation": "바나나 — กล้วย",
+      "requires": [
+        "s11end-word-56"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-57-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "รามยอน / บะหมี่กึ่งสำเร็จรูป",
+      "wordId": "s11end-word-57",
+      "answerText": "라면",
+      "explanation": "라면 — รามยอน / บะหมี่กึ่งสำเร็จรูป",
+      "requires": [
+        "s11end-word-57"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s11end-word-58-recall",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "แอปเปิล",
+      "wordId": "s11end-word-58",
+      "answerText": "사과",
+      "explanation": "사과 — แอปเปิล",
+      "requires": [
+        "s11end-word-58"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 2",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}

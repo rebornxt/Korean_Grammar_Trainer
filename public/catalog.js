@@ -488,7 +488,16 @@ export const catalog = {
     "recap-s11-formal",
     "recap-s11-polite-1",
     "recap-s11-polite-2",
-    "recap-s11-polite-casual"
+    "recap-s11-polite-casual",
+    "s11end-objects",
+    "s11end-negative",
+    "s11end-questions",
+    "s12-b",
+    "s12-d",
+    "s12-s",
+    "s12-eu",
+    "s12-reu",
+    "s12-h"
   ],
   "lessons": [
     {
@@ -4979,6 +4988,5676 @@ export const catalog = {
           }
         }
       ]
+    },
+    {
+      "id": "s11end-negative",
+      "sectionId": "section-11",
+      "title": "11 · ประโยคปฏิเสธ",
+      "status": "ready",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 4–6",
+        "kind": "learner-recap"
+      },
+      "notes": "เฉพาะเนื้อหาที่ปรากฏใน PDF ไม่อนุมานบทก่อนหน้าหรือบทอนาคต",
+      "words": [
+        {
+          "id": "s11end-word-59",
+          "ko": "술",
+          "th": "เครื่องดื่มแอลกอฮอล์",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s11end-word-60",
+          "ko": "책",
+          "th": "หนังสือ",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s11end-word-61",
+          "ko": "좋아하다",
+          "th": "ชอบ",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s11end-word-62",
+          "ko": "싫어하다",
+          "th": "ไม่ชอบ / เกลียด",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": "s11end-an-rule",
+          "title": "안 อยู่หน้ากริยา",
+          "topic": "endings",
+          "explanation": "วาง 안 หน้ากริยา เช่น 안 먹어요 และ 안 마셔요 เพื่อบอกว่าไม่ทำสิ่งนั้น ไม่วาง 안 ต่อท้ายกริยา",
+          "examples": [
+            {
+              "ko": "저는 술을 안 마셔요.",
+              "th": "ฉันไม่ดื่มเครื่องดื่มแอลกอฮอล์",
+              "wordIds": [
+                "s11end-word-59",
+                "s10-11-word-029"
+              ]
+            },
+            {
+              "ko": "저는 책을 안 읽어요.",
+              "th": "ฉันไม่อ่านหนังสือ",
+              "wordIds": [
+                "s11end-word-60",
+                "s10-11-word-025"
+              ]
+            },
+            {
+              "ko": "저는 피자를 안 먹어요.",
+              "th": "ฉันไม่กินพิซซ่า",
+              "wordIds": [
+                "s10-11-word-016",
+                "s10-11-word-022"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-hada-rule",
+          "title": "คำนาม + 하다 และตำแหน่ง 안",
+          "topic": "endings",
+          "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+          "examples": [
+            {
+              "ko": "저는 공부 안 해요.",
+              "th": "ฉันไม่เรียน",
+              "wordIds": [
+                "s10-11-word-023"
+              ]
+            },
+            {
+              "ko": "저는 청소 안 해요.",
+              "th": "ฉันไม่ทำความสะอาด",
+              "wordIds": [
+                "s10-11-word-051"
+              ]
+            },
+            {
+              "ko": "저는 요리 안 해요.",
+              "th": "ฉันไม่ทำอาหาร",
+              "wordIds": [
+                "s10-11-word-052"
+              ]
+            },
+            {
+              "ko": "안 좋아해요.",
+              "th": "좋아하다 → 안 좋아해요.",
+              "wordIds": [
+                "s11end-word-61"
+              ]
+            },
+            {
+              "ko": "안 싫어해요.",
+              "th": "싫어하다 → 안 싫어해요.",
+              "wordIds": [
+                "s11end-word-62"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-ji-rule",
+          "title": "ฐานกริยา + 지 않다",
+          "topic": "endings",
+          "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้",
+          "examples": [
+            {
+              "ko": "저는 술을 마시지 않아요.",
+              "th": "ฉันไม่ดื่มเครื่องดื่มแอลกอฮอล์",
+              "wordIds": [
+                "s11end-word-59",
+                "s10-11-word-029"
+              ]
+            },
+            {
+              "ko": "저는 책을 읽지 않아요.",
+              "th": "ฉันไม่อ่านหนังสือ",
+              "wordIds": [
+                "s11end-word-60",
+                "s10-11-word-025"
+              ]
+            },
+            {
+              "ko": "저는 피자를 먹지 않아요.",
+              "th": "ฉันไม่กินพิซซ่า",
+              "wordIds": [
+                "s10-11-word-016",
+                "s10-11-word-022"
+              ]
+            },
+            {
+              "ko": "저는 공부하지 않아요.",
+              "th": "ฉันไม่เรียน",
+              "wordIds": [
+                "s10-11-word-023"
+              ]
+            },
+            {
+              "ko": "저는 빵을 먹지 않아요.",
+              "th": "ฉันไม่กินขนมปัง",
+              "wordIds": [
+                "s11end-word-54",
+                "s10-11-word-022"
+              ]
+            },
+            {
+              "ko": "읽지 않습니다",
+              "th": "ไม่อ่าน · ทางการ",
+              "wordIds": [
+                "s10-11-word-025"
+              ]
+            },
+            {
+              "ko": "읽지 않아요",
+              "th": "ไม่อ่าน · สุภาพ",
+              "wordIds": [
+                "s10-11-word-025"
+              ]
+            },
+            {
+              "ko": "읽지 않아",
+              "th": "ไม่อ่าน · กันเอง",
+              "wordIds": [
+                "s10-11-word-025"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4–6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "s11end-negative-q1",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่ดื่มเครื่องดื่มแอลกอฮอล์ — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "술을",
+            "안",
+            "마셔요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 술을 안 마셔요.",
+          "explanation": "วาง 안 หน้ากริยา เช่น 안 먹어요 และ 안 마셔요 เพื่อบอกว่าไม่ทำสิ่งนั้น ไม่วาง 안 ต่อท้ายกริยา ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-an-rule",
+            "s11end-word-59",
+            "s10-11-word-029"
+          ],
+          "wordIds": [
+            "s11end-word-59",
+            "s10-11-word-029"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q2",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่อ่านหนังสือ — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "책을",
+            "안",
+            "읽어요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 책을 안 읽어요.",
+          "explanation": "วาง 안 หน้ากริยา เช่น 안 먹어요 และ 안 마셔요 เพื่อบอกว่าไม่ทำสิ่งนั้น ไม่วาง 안 ต่อท้ายกริยา ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-an-rule",
+            "s11end-word-60",
+            "s10-11-word-025"
+          ],
+          "wordIds": [
+            "s11end-word-60",
+            "s10-11-word-025"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q3",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่กินพิซซ่า — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "피자를",
+            "안",
+            "먹어요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 피자를 안 먹어요.",
+          "explanation": "วาง 안 หน้ากริยา เช่น 안 먹어요 และ 안 마셔요 เพื่อบอกว่าไม่ทำสิ่งนั้น ไม่วาง 안 ต่อท้ายกริยา ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-an-rule",
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q4",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "เลือกตำแหน่ง 안 ตามรูปคำนาม + 하다 ในบทนี้: ฉันไม่เรียน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "저는 공부 안 해요."
+            },
+            {
+              "id": "o1",
+              "text": "저는 공부 해요 안."
+            }
+          ],
+          "answer": "o0",
+          "answerText": "저는 공부 안 해요.",
+          "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+          "requires": [
+            "s11end-hada-rule",
+            "s10-11-word-023"
+          ],
+          "wordIds": [
+            "s10-11-word-023"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q5",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่เรียน — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "공부",
+            "안",
+            "해요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 공부 안 해요.",
+          "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요 ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-hada-rule",
+            "s10-11-word-023"
+          ],
+          "wordIds": [
+            "s10-11-word-023"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q6",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "เลือกตำแหน่ง 안 ตามรูปคำนาม + 하다 ในบทนี้: ฉันไม่ทำความสะอาด",
+          "options": [
+            {
+              "id": "o0",
+              "text": "저는 청소 안 해요."
+            },
+            {
+              "id": "o1",
+              "text": "저는 청소 해요 안."
+            }
+          ],
+          "answer": "o0",
+          "answerText": "저는 청소 안 해요.",
+          "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+          "requires": [
+            "s11end-hada-rule",
+            "s10-11-word-051"
+          ],
+          "wordIds": [
+            "s10-11-word-051"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q7",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่ทำความสะอาด — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "청소",
+            "안",
+            "해요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 청소 안 해요.",
+          "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요 ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-hada-rule",
+            "s10-11-word-051"
+          ],
+          "wordIds": [
+            "s10-11-word-051"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q8",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "เลือกตำแหน่ง 안 ตามรูปคำนาม + 하다 ในบทนี้: ฉันไม่ทำอาหาร",
+          "options": [
+            {
+              "id": "o0",
+              "text": "저는 요리 안 해요."
+            },
+            {
+              "id": "o1",
+              "text": "저는 요리 해요 안."
+            }
+          ],
+          "answer": "o0",
+          "answerText": "저는 요리 안 해요.",
+          "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+          "requires": [
+            "s11end-hada-rule",
+            "s10-11-word-052"
+          ],
+          "wordIds": [
+            "s10-11-word-052"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q9",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่ทำอาหาร — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "요리",
+            "안",
+            "해요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 요리 안 해요.",
+          "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요 ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-hada-rule",
+            "s10-11-word-052"
+          ],
+          "wordIds": [
+            "s10-11-word-052"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q10",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "좋아하다 — เลือกรูปปฏิเสธสุภาพแบบ 안 ตามข้อยกเว้นในสไลด์",
+          "options": [
+            {
+              "id": "o0",
+              "text": "안 좋아해요."
+            },
+            {
+              "id": "o1",
+              "text": "좋아 안 해요."
+            }
+          ],
+          "answer": "o0",
+          "answerText": "안 좋아해요.",
+          "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+          "requires": [
+            "s11end-hada-rule",
+            "s11end-word-61"
+          ],
+          "wordIds": [
+            "s11end-word-61"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q11",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "싫어하다 — เลือกรูปปฏิเสธสุภาพแบบ 안 ตามข้อยกเว้นในสไลด์",
+          "options": [
+            {
+              "id": "o0",
+              "text": "싫어 안 해요."
+            },
+            {
+              "id": "o1",
+              "text": "안 싫어해요."
+            }
+          ],
+          "answer": "o1",
+          "answerText": "안 싫어해요.",
+          "explanation": "คำในสไลด์ 공부하다, 청소하다, 요리하다 วาง 안 ระหว่างส่วนคำนามกับ 하다 เช่น 공부 안 해요 ส่วน 좋아하다 และ 싫어하다 เป็นข้อยกเว้นของการแยกแบบนี้ ใช้ 안 좋아해요 และ 안 싫어해요",
+          "requires": [
+            "s11end-hada-rule",
+            "s11end-word-62"
+          ],
+          "wordIds": [
+            "s11end-word-62"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q12",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่ดื่มเครื่องดื่มแอลกอฮอล์ — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "술을",
+            "마시지",
+            "않아요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 술을 마시지 않아요.",
+          "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-ji-rule",
+            "s11end-word-59",
+            "s10-11-word-029"
+          ],
+          "wordIds": [
+            "s11end-word-59",
+            "s10-11-word-029"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q13",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่อ่านหนังสือ — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "책을",
+            "읽지",
+            "않아요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 책을 읽지 않아요.",
+          "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-ji-rule",
+            "s11end-word-60",
+            "s10-11-word-025"
+          ],
+          "wordIds": [
+            "s11end-word-60",
+            "s10-11-word-025"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q14",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่กินพิซซ่า — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "피자를",
+            "먹지",
+            "않아요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 피자를 먹지 않아요.",
+          "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-ji-rule",
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q15",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่เรียน — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "공부하지",
+            "않아요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2
+            ]
+          ],
+          "answerText": "저는 공부하지 않아요.",
+          "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-ji-rule",
+            "s10-11-word-023"
+          ],
+          "wordIds": [
+            "s10-11-word-023"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q16",
+          "type": "order",
+          "topic": "endings",
+          "prompt": "ฉันไม่กินขนมปัง — เรียงตามตัวอย่างในโน้ต",
+          "chunks": [
+            "저는",
+            "빵을",
+            "먹지",
+            "않아요."
+          ],
+          "accepted": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "answerText": "저는 빵을 먹지 않아요.",
+          "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้ ข้อนี้ขอลำดับตามตัวอย่าง ไม่ได้ตัดสินลำดับอื่นว่าผิดในทุกบริบท",
+          "requires": [
+            "s11end-ji-rule",
+            "s11end-word-54",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s11end-word-54",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q17",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "읽다 → ไม่อ่าน\nเลือกรูปปฏิเสธแบบ -지 않다 ระดับทางการ",
+          "options": [
+            {
+              "id": "o0",
+              "text": "읽지 않아"
+            },
+            {
+              "id": "o1",
+              "text": "읽지 않습니다"
+            },
+            {
+              "id": "o2",
+              "text": "읽지 않아요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "읽지 않습니다",
+          "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้",
+          "requires": [
+            "s11end-ji-rule",
+            "s10-11-word-025"
+          ],
+          "wordIds": [
+            "s10-11-word-025"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q18",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "읽다 → ไม่อ่าน\nเลือกรูปปฏิเสธแบบ -지 않다 ระดับสุภาพ",
+          "options": [
+            {
+              "id": "o0",
+              "text": "읽지 않아요"
+            },
+            {
+              "id": "o1",
+              "text": "읽지 않습니다"
+            },
+            {
+              "id": "o2",
+              "text": "읽지 않아"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "읽지 않아요",
+          "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้",
+          "requires": [
+            "s11end-ji-rule",
+            "s10-11-word-025"
+          ],
+          "wordIds": [
+            "s10-11-word-025"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-negative-q19",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "읽다 → ไม่อ่าน\nเลือกรูปปฏิเสธแบบ -지 않다 ระดับกันเอง",
+          "options": [
+            {
+              "id": "o0",
+              "text": "읽지 않습니다"
+            },
+            {
+              "id": "o1",
+              "text": "읽지 않아요"
+            },
+            {
+              "id": "o2",
+              "text": "읽지 않아"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "읽지 않아",
+          "explanation": "เอา 다 ออกจากรูปพจนานุกรมแล้วต่อ 지 않다 จากนั้นผัน 않다 ตามระดับภาษา เช่น 읽지 않습니다 (ทางการ), 읽지 않아요 (สุภาพ), 읽지 않아 (กันเอง) มีความหมายปฏิเสธเช่นเดียวกับ 안 ในตัวอย่างชุดนี้",
+          "requires": [
+            "s11end-ji-rule",
+            "s10-11-word-025"
+          ],
+          "wordIds": [
+            "s10-11-word-025"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-59-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เครื่องดื่มแอลกอฮอล์",
+          "wordId": "s11end-word-59",
+          "answerText": "술",
+          "explanation": "술 — เครื่องดื่มแอลกอฮอล์",
+          "requires": [
+            "s11end-word-59"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-60-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "หนังสือ",
+          "wordId": "s11end-word-60",
+          "answerText": "책",
+          "explanation": "책 — หนังสือ",
+          "requires": [
+            "s11end-word-60"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-61-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ชอบ",
+          "wordId": "s11end-word-61",
+          "answerText": "좋아하다",
+          "explanation": "좋아하다 — ชอบ",
+          "requires": [
+            "s11end-word-61"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-62-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ไม่ชอบ / เกลียด",
+          "wordId": "s11end-word-62",
+          "answerText": "싫어하다",
+          "explanation": "싫어하다 — ไม่ชอบ / เกลียด",
+          "requires": [
+            "s11end-word-62"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-transform-1",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "저는 술을 안 마셔요.\nเปลี่ยนเป็น -지 않아요 โดยคงความหมายเดิม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "저는 술을 마시지 않아요."
+            },
+            {
+              "id": "o1",
+              "text": "저는 술을 마셔요."
+            }
+          ],
+          "answer": "o0",
+          "answerText": "저는 술을 마시지 않아요.",
+          "explanation": "ทั้งสองรูปบอกว่าไม่ทำสิ่งนั้น เปลี่ยนจาก 안 หน้ากริยาเป็นฐานกริยา + 지 않아요 โดยคงระดับสุภาพ",
+          "requires": [
+            "s11end-an-rule",
+            "s11end-ji-rule",
+            "s11end-object-rule"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4–6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-transform-2",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "저는 책을 안 읽어요.\nเปลี่ยนเป็น -지 않아요 โดยคงความหมายเดิม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "저는 책을 읽어요."
+            },
+            {
+              "id": "o1",
+              "text": "저는 책을 읽지 않아요."
+            }
+          ],
+          "answer": "o1",
+          "answerText": "저는 책을 읽지 않아요.",
+          "explanation": "ทั้งสองรูปบอกว่าไม่ทำสิ่งนั้น เปลี่ยนจาก 안 หน้ากริยาเป็นฐานกริยา + 지 않아요 โดยคงระดับสุภาพ",
+          "requires": [
+            "s11end-an-rule",
+            "s11end-ji-rule",
+            "s11end-object-rule"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4–6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-transform-3",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "저는 피자를 안 먹어요.\nเปลี่ยนเป็น -지 않아요 โดยคงความหมายเดิม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "저는 피자를 먹지 않아요."
+            },
+            {
+              "id": "o1",
+              "text": "저는 피자를 먹어요."
+            }
+          ],
+          "answer": "o0",
+          "answerText": "저는 피자를 먹지 않아요.",
+          "explanation": "ทั้งสองรูปบอกว่าไม่ทำสิ่งนั้น เปลี่ยนจาก 안 หน้ากริยาเป็นฐานกริยา + 지 않아요 โดยคงระดับสุภาพ",
+          "requires": [
+            "s11end-an-rule",
+            "s11end-ji-rule",
+            "s11end-object-rule"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4–6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-transform-4",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "저는 공부 안 해요.\nเปลี่ยนเป็น -지 않아요 โดยคงความหมายเดิม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "저는 공부해요."
+            },
+            {
+              "id": "o1",
+              "text": "저는 공부하지 않아요."
+            }
+          ],
+          "answer": "o1",
+          "answerText": "저는 공부하지 않아요.",
+          "explanation": "ทั้งสองรูปบอกว่าไม่ทำสิ่งนั้น เปลี่ยนจาก 안 หน้ากริยาเป็นฐานกริยา + 지 않아요 โดยคงระดับสุภาพ",
+          "requires": [
+            "s11end-an-rule",
+            "s11end-ji-rule",
+            "s11end-object-rule"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 4–6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ]
+    },
+    {
+      "id": "s11end-objects",
+      "sectionId": "section-11",
+      "title": "11 · คำช่วยกรรม 을 / 를",
+      "status": "ready",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 1–3",
+        "kind": "learner-recap"
+      },
+      "notes": "เฉพาะเนื้อหาที่ปรากฏใน PDF ไม่อนุมานบทก่อนหน้าหรือบทอนาคต",
+      "words": [
+        {
+          "id": "s11end-word-54",
+          "ko": "빵",
+          "th": "ขนมปัง",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s11end-word-55",
+          "ko": "비빔밥",
+          "th": "ข้าวยำเกาหลี",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s11end-word-56",
+          "ko": "바나나",
+          "th": "กล้วย",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s11end-word-57",
+          "ko": "라면",
+          "th": "รามยอน / บะหมี่กึ่งสำเร็จรูป",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s11end-word-58",
+          "ko": "사과",
+          "th": "แอปเปิล",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": "s11end-object-rule",
+          "title": "เลือก 을 หรือ 를 จากตัวสะกดของคำนาม",
+          "topic": "particles",
+          "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+          "examples": [
+            {
+              "ko": "저는 빵을 먹어요.",
+              "th": "ฉันกินขนมปัง",
+              "wordIds": [
+                "s11end-word-54",
+                "s10-11-word-022"
+              ]
+            },
+            {
+              "ko": "저는 비빔밥을 먹어요.",
+              "th": "ฉันกินข้าวยำเกาหลี",
+              "wordIds": [
+                "s11end-word-55",
+                "s10-11-word-022"
+              ]
+            },
+            {
+              "ko": "저는 바나나를 먹어요.",
+              "th": "ฉันกินกล้วย",
+              "wordIds": [
+                "s11end-word-56",
+                "s10-11-word-022"
+              ]
+            },
+            {
+              "ko": "저는 라면을 먹어요.",
+              "th": "ฉันกินรามยอน",
+              "wordIds": [
+                "s11end-word-57",
+                "s10-11-word-022"
+              ]
+            },
+            {
+              "ko": "저는 사과를 먹어요.",
+              "th": "ฉันกินแอปเปิล",
+              "wordIds": [
+                "s11end-word-58",
+                "s10-11-word-022"
+              ]
+            },
+            {
+              "ko": "저는 피자를 먹어요.",
+              "th": "ฉันกินพิซซ่า",
+              "wordIds": [
+                "s10-11-word-016",
+                "s10-11-word-022"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1–3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "s11end-objects-q1",
+          "type": "choice",
+          "topic": "particles",
+          "prompt": "저는 빵__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินขนมปัง",
+          "options": [
+            {
+              "id": "o0",
+              "text": "를"
+            },
+            {
+              "id": "o1",
+              "text": "을"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "저는 빵을 먹어요.",
+          "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+          "requires": [
+            "s11end-object-rule",
+            "s11end-word-54",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s11end-word-54",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-objects-q2",
+          "type": "choice",
+          "topic": "particles",
+          "prompt": "저는 비빔밥__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินข้าวยำเกาหลี",
+          "options": [
+            {
+              "id": "o0",
+              "text": "을"
+            },
+            {
+              "id": "o1",
+              "text": "를"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "저는 비빔밥을 먹어요.",
+          "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+          "requires": [
+            "s11end-object-rule",
+            "s11end-word-55",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s11end-word-55",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-objects-q3",
+          "type": "choice",
+          "topic": "particles",
+          "prompt": "저는 바나나__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินกล้วย",
+          "options": [
+            {
+              "id": "o0",
+              "text": "을"
+            },
+            {
+              "id": "o1",
+              "text": "를"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "저는 바나나를 먹어요.",
+          "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+          "requires": [
+            "s11end-object-rule",
+            "s11end-word-56",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s11end-word-56",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-objects-q4",
+          "type": "choice",
+          "topic": "particles",
+          "prompt": "저는 라면__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินรามยอน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "을"
+            },
+            {
+              "id": "o1",
+              "text": "를"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "저는 라면을 먹어요.",
+          "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+          "requires": [
+            "s11end-object-rule",
+            "s11end-word-57",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s11end-word-57",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-objects-q5",
+          "type": "choice",
+          "topic": "particles",
+          "prompt": "저는 사과__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินแอปเปิล",
+          "options": [
+            {
+              "id": "o0",
+              "text": "을"
+            },
+            {
+              "id": "o1",
+              "text": "를"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "저는 사과를 먹어요.",
+          "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+          "requires": [
+            "s11end-object-rule",
+            "s11end-word-58",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s11end-word-58",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-objects-q6",
+          "type": "choice",
+          "topic": "particles",
+          "prompt": "저는 피자__ 먹어요.\nเติมคำช่วยกรรม: ฉันกินพิซซ่า",
+          "options": [
+            {
+              "id": "o0",
+              "text": "를"
+            },
+            {
+              "id": "o1",
+              "text": "을"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "저는 피자를 먹어요.",
+          "explanation": "คำนามที่มีตัวสะกดใช้ 을 เช่น 빵을 ส่วนคำนามที่ไม่มีตัวสะกดใช้ 를 เช่น 피자를 เพื่อระบุกรรมของกริยา ในชุดนี้ฝึกเติมคำช่วยตามแบบเต็มของสไลด์ แม้ในการสนทนาจะละได้บางบริบท",
+          "requires": [
+            "s11end-object-rule",
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-54-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ขนมปัง",
+          "wordId": "s11end-word-54",
+          "answerText": "빵",
+          "explanation": "빵 — ขนมปัง",
+          "requires": [
+            "s11end-word-54"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-55-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ข้าวยำเกาหลี",
+          "wordId": "s11end-word-55",
+          "answerText": "비빔밥",
+          "explanation": "비빔밥 — ข้าวยำเกาหลี",
+          "requires": [
+            "s11end-word-55"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-56-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "กล้วย",
+          "wordId": "s11end-word-56",
+          "answerText": "바나나",
+          "explanation": "바나나 — กล้วย",
+          "requires": [
+            "s11end-word-56"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-57-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "รามยอน / บะหมี่กึ่งสำเร็จรูป",
+          "wordId": "s11end-word-57",
+          "answerText": "라면",
+          "explanation": "라면 — รามยอน / บะหมี่กึ่งสำเร็จรูป",
+          "requires": [
+            "s11end-word-57"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-58-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "แอปเปิล",
+          "wordId": "s11end-word-58",
+          "answerText": "사과",
+          "explanation": "사과 — แอปเปิล",
+          "requires": [
+            "s11end-word-58"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ]
+    },
+    {
+      "id": "s11end-questions",
+      "sectionId": "section-11",
+      "title": "11 · ประโยคคำถาม",
+      "status": "ready",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section11end.pdf",
+        "locator": "หน้า 5–6",
+        "kind": "learner-recap"
+      },
+      "notes": "เฉพาะเนื้อหาที่ปรากฏใน PDF ไม่อนุมานบทก่อนหน้าหรือบทอนาคต สไลด์หน้า 5 ใช้ 너가; ปรับเป็น 네가 ตามรูปเขียนมาตรฐาน (NIKL FAQ 5874)",
+      "words": [
+        {
+          "id": "s11end-word-63",
+          "ko": "한국어",
+          "th": "ภาษาเกาหลี",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": "s11end-formal-question",
+          "title": "คำถามทางการ 습니까 / ㅂ니까",
+          "topic": "endings",
+          "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+          "examples": [
+            {
+              "ko": "피자를 먹습니까?",
+              "th": "คุณกินพิซซ่าไหม",
+              "wordIds": [
+                "s10-11-word-016",
+                "s10-11-word-022"
+              ]
+            },
+            {
+              "ko": "술을 마십니까?",
+              "th": "คุณดื่มเครื่องดื่มแอลกอฮอล์ไหม",
+              "wordIds": [
+                "s11end-word-59",
+                "s10-11-word-029"
+              ]
+            },
+            {
+              "ko": "한국어 공부합니까?",
+              "th": "คุณเรียนภาษาเกาหลีไหม",
+              "wordIds": [
+                "s11end-word-63",
+                "s10-11-word-023"
+              ]
+            },
+            {
+              "ko": "선생님입니까?",
+              "th": "คุณเป็นครูไหม",
+              "wordIds": [
+                "s10-11-word-009"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-intonation-question",
+          "title": "คำถามสุภาพและกันเอง",
+          "topic": "conversation",
+          "explanation": "รูปสุภาพและกันเองใช้รูปคำลงท้ายเหมือนประโยคบอกเล่าได้ แต่ใช้บริบทและน้ำเสียงเป็นคำถาม สไลด์ให้ฝึกยกเสียงท้าย เช่น 먹어요? / 먹어? ในข้อเขียนใช้ ? ช่วยระบุเจตนาถาม",
+          "examples": [
+            {
+              "ko": "피자 먹어요?",
+              "th": "กินพิซซ่าไหม · สุภาพ",
+              "wordIds": []
+            },
+            {
+              "ko": "네가 선생님이야?",
+              "th": "เธอเป็นครูไหม · กันเอง",
+              "wordIds": []
+            },
+            {
+              "ko": "먹어요?",
+              "th": "กินไหม · สุภาพ",
+              "wordIds": []
+            },
+            {
+              "ko": "먹어?",
+              "th": "กินไหม · กันเอง",
+              "wordIds": []
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 5–6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "s11end-questions-q1",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "เลือกประโยคคำถามทางการ: คุณกินพิซซ่าไหม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "피자를 먹습니다."
+            },
+            {
+              "id": "o1",
+              "text": "피자를 먹습니까?"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "피자를 먹습니까?",
+          "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+          "requires": [
+            "s11end-formal-question",
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s10-11-word-016",
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-questions-q2",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "เลือกประโยคคำถามทางการ: คุณดื่มเครื่องดื่มแอลกอฮอล์ไหม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "술을 마십니까?"
+            },
+            {
+              "id": "o1",
+              "text": "술을 마십니다."
+            }
+          ],
+          "answer": "o0",
+          "answerText": "술을 마십니까?",
+          "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+          "requires": [
+            "s11end-formal-question",
+            "s11end-word-59",
+            "s10-11-word-029"
+          ],
+          "wordIds": [
+            "s11end-word-59",
+            "s10-11-word-029"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-questions-q3",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "เลือกประโยคคำถามทางการ: คุณเรียนภาษาเกาหลีไหม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "한국어 공부합니다."
+            },
+            {
+              "id": "o1",
+              "text": "한국어 공부합니까?"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "한국어 공부합니까?",
+          "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+          "requires": [
+            "s11end-formal-question",
+            "s11end-word-63",
+            "s10-11-word-023"
+          ],
+          "wordIds": [
+            "s11end-word-63",
+            "s10-11-word-023"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-questions-q4",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "เลือกประโยคคำถามทางการ: คุณเป็นครูไหม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "선생님입니까?"
+            },
+            {
+              "id": "o1",
+              "text": "선생님입니다."
+            }
+          ],
+          "answer": "o0",
+          "answerText": "선생님입니까?",
+          "explanation": "ฐานกริยามีตัวสะกดใช้ 습니까? เช่น 먹습니까? ไม่มีตัวสะกดใช้ ㅂ니까? เช่น 마십니까? และ 공부합니까? คำนามในตัวอย่างใช้ 입니까? เช่น 선생님입니까? ชุดนี้ยังไม่ขยายไปกรณีข้อยกเว้นอื่น",
+          "requires": [
+            "s11end-formal-question",
+            "s10-11-word-009"
+          ],
+          "wordIds": [
+            "s10-11-word-009"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-questions-q5",
+          "type": "choice",
+          "topic": "conversation",
+          "prompt": "เลือกคำถามสุภาพ: กินไหม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "먹습니까?"
+            },
+            {
+              "id": "o1",
+              "text": "먹어요?"
+            },
+            {
+              "id": "o2",
+              "text": "먹어?"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "먹어요?",
+          "explanation": "รูปสุภาพและกันเองใช้รูปคำลงท้ายเหมือนประโยคบอกเล่าได้ แต่ใช้บริบทและน้ำเสียงเป็นคำถาม สไลด์ให้ฝึกยกเสียงท้าย เช่น 먹어요? / 먹어? ในข้อเขียนใช้ ? ช่วยระบุเจตนาถาม",
+          "requires": [
+            "s11end-intonation-question",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-questions-q6",
+          "type": "choice",
+          "topic": "conversation",
+          "prompt": "เลือกคำถามกันเอง: กินไหม",
+          "options": [
+            {
+              "id": "o0",
+              "text": "먹어?"
+            },
+            {
+              "id": "o1",
+              "text": "먹어요?"
+            },
+            {
+              "id": "o2",
+              "text": "먹습니까?"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "먹어?",
+          "explanation": "รูปสุภาพและกันเองใช้รูปคำลงท้ายเหมือนประโยคบอกเล่าได้ แต่ใช้บริบทและน้ำเสียงเป็นคำถาม สไลด์ให้ฝึกยกเสียงท้าย เช่น 먹어요? / 먹어? ในข้อเขียนใช้ ? ช่วยระบุเจตนาถาม",
+          "requires": [
+            "s11end-intonation-question",
+            "s10-11-word-022"
+          ],
+          "wordIds": [
+            "s10-11-word-022"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-questions-q7",
+          "type": "choice",
+          "topic": "conversation",
+          "prompt": "피자 먹어요? ในบริบทที่ถามคู่สนทนา หมายถึงอะไร",
+          "options": [
+            {
+              "id": "o0",
+              "text": "ฉันกินพิซซ่า"
+            },
+            {
+              "id": "o1",
+              "text": "กินพิซซ่าไหม"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "피자 먹어요?",
+          "explanation": "รูปสุภาพและกันเองใช้รูปคำลงท้ายเหมือนประโยคบอกเล่าได้ แต่ใช้บริบทและน้ำเสียงเป็นคำถาม สไลด์ให้ฝึกยกเสียงท้าย เช่น 먹어요? / 먹어? ในข้อเขียนใช้ ? ช่วยระบุเจตนาถาม",
+          "requires": [
+            "s11end-intonation-question",
+            "s10-11-word-016"
+          ],
+          "wordIds": [
+            "s10-11-word-016"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s11end-word-63-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ภาษาเกาหลี",
+          "wordId": "s11end-word-63",
+          "answerText": "한국어",
+          "explanation": "한국어 — ภาษาเกาหลี",
+          "requires": [
+            "s11end-word-63"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section11end.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ]
+    },
+    {
+      "id": "s12-b",
+      "sectionId": "section-12",
+      "title": "12 · ㅂ — เปลี่ยนรูปและคำที่ผันปกติ",
+      "status": "ready",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 1–2",
+        "kind": "learner-recap"
+      },
+      "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+      "words": [
+        {
+          "id": "s12-word-01",
+          "ko": "돕다",
+          "th": "ช่วย",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-02",
+          "ko": "곱다",
+          "th": "งดงาม / สวยงาม",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-03",
+          "ko": "굽다",
+          "th": "ย่าง",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-04",
+          "ko": "눕다",
+          "th": "นอนลง",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-05",
+          "ko": "덥다",
+          "th": "ร้อน (อากาศ)",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-06",
+          "ko": "고맙다",
+          "th": "ขอบคุณ / รู้สึกขอบคุณ",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-07",
+          "ko": "줍다",
+          "th": "เก็บขึ้นมา",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-08",
+          "ko": "잡다",
+          "th": "จับ / คว้า",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-09",
+          "ko": "입다",
+          "th": "สวมใส่เสื้อผ้า",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": "s12-rule-b-wa",
+          "title": "ㅂ → 와요: 돕다 และ 곱다",
+          "topic": "endings",
+          "explanation": "สำหรับ 돕다 และ 곱다 ในความหมายที่เรียน เมื่อต่อ 아요 ตัว ㅂ เปลี่ยนรูปเป็น 와요: 도와요, 고와요 อย่าใช้สูตรนี้กับทุกคำที่มีสระ ㅗ",
+          "examples": [
+            {
+              "ko": "도와요",
+              "th": "돕다 → 도와요 · ช่วย",
+              "wordIds": [
+                "s12-word-01"
+              ]
+            },
+            {
+              "ko": "고와요",
+              "th": "곱다 → 고와요 · งดงาม / สวยงาม",
+              "wordIds": [
+                "s12-word-02"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1–2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-rule-b-wo",
+          "title": "ㅂ → 워요",
+          "topic": "endings",
+          "explanation": "คำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+          "examples": [
+            {
+              "ko": "구워요",
+              "th": "굽다 → 구워요 · ย่าง",
+              "wordIds": [
+                "s12-word-03"
+              ]
+            },
+            {
+              "ko": "누워요",
+              "th": "눕다 → 누워요 · นอนลง",
+              "wordIds": [
+                "s12-word-04"
+              ]
+            },
+            {
+              "ko": "더워요",
+              "th": "덥다 → 더워요 · ร้อน (อากาศ)",
+              "wordIds": [
+                "s12-word-05"
+              ]
+            },
+            {
+              "ko": "고마워요",
+              "th": "고맙다 → 고마워요 · ขอบคุณ / รู้สึกขอบคุณ",
+              "wordIds": [
+                "s12-word-06"
+              ]
+            },
+            {
+              "ko": "주워요",
+              "th": "줍다 → 주워요 · เก็บขึ้นมา",
+              "wordIds": [
+                "s12-word-07"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1–2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-rule-b-regular",
+          "title": "ㅂ ที่ไม่เปลี่ยน: 잡다 / 입다",
+          "topic": "endings",
+          "explanation": "잡다 และ 입다 ในสไลด์ผันปกติ เก็บตัวสะกด ㅂ ไว้: 잡아요 / 입어요 คำแปลอังกฤษของ 입다 ในสไลด์ซ้ำกับ 잡다 แต่ 입다 ในที่นี้หมายถึงสวมใส่เสื้อผ้า",
+          "examples": [
+            {
+              "ko": "잡아요",
+              "th": "잡다 → 잡아요 · จับ / คว้า",
+              "wordIds": [
+                "s12-word-08"
+              ]
+            },
+            {
+              "ko": "입어요",
+              "th": "입다 → 입어요 · สวมใส่เสื้อผ้า",
+              "wordIds": [
+                "s12-word-09"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1–2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "s12-conjugate-01",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "돕다 · ช่วย\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "도워요"
+            },
+            {
+              "id": "o1",
+              "text": "돕다"
+            },
+            {
+              "id": "o2",
+              "text": "도와요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "도와요",
+          "explanation": "돕다 → 도와요\nสำหรับ 돕다 และ 곱다 ในความหมายที่เรียน เมื่อต่อ 아요 ตัว ㅂ เปลี่ยนรูปเป็น 와요: 도와요, 고와요 อย่าใช้สูตรนี้กับทุกคำที่มีสระ ㅗ",
+          "requires": [
+            "s12-word-01",
+            "s12-rule-b-wa"
+          ],
+          "wordIds": [
+            "s12-word-01"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-01-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ช่วย",
+          "wordId": "s12-word-01",
+          "answerText": "돕다",
+          "explanation": "돕다 — ช่วย",
+          "requires": [
+            "s12-word-01"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-02",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "곱다 · งดงาม / สวยงาม\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "곱다"
+            },
+            {
+              "id": "o1",
+              "text": "고와요"
+            },
+            {
+              "id": "o2",
+              "text": "고워요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "고와요",
+          "explanation": "곱다 → 고와요\nสำหรับ 돕다 และ 곱다 ในความหมายที่เรียน เมื่อต่อ 아요 ตัว ㅂ เปลี่ยนรูปเป็น 와요: 도와요, 고와요 อย่าใช้สูตรนี้กับทุกคำที่มีสระ ㅗ",
+          "requires": [
+            "s12-word-02",
+            "s12-rule-b-wa"
+          ],
+          "wordIds": [
+            "s12-word-02"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-02-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "งดงาม / สวยงาม",
+          "wordId": "s12-word-02",
+          "answerText": "곱다",
+          "explanation": "곱다 — งดงาม / สวยงาม",
+          "requires": [
+            "s12-word-02"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-03",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "굽다 · ย่าง\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "구워요"
+            },
+            {
+              "id": "o1",
+              "text": "굽어요"
+            },
+            {
+              "id": "o2",
+              "text": "굽다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "구워요",
+          "explanation": "굽다 → 구워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+          "requires": [
+            "s12-word-03",
+            "s12-rule-b-wo"
+          ],
+          "wordIds": [
+            "s12-word-03"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-03-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ย่าง",
+          "wordId": "s12-word-03",
+          "answerText": "굽다",
+          "explanation": "굽다 — ย่าง",
+          "requires": [
+            "s12-word-03"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-04",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "눕다 · นอนลง\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "눕어요"
+            },
+            {
+              "id": "o1",
+              "text": "눕다"
+            },
+            {
+              "id": "o2",
+              "text": "누워요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "누워요",
+          "explanation": "눕다 → 누워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+          "requires": [
+            "s12-word-04",
+            "s12-rule-b-wo"
+          ],
+          "wordIds": [
+            "s12-word-04"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-04-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "นอนลง",
+          "wordId": "s12-word-04",
+          "answerText": "눕다",
+          "explanation": "눕다 — นอนลง",
+          "requires": [
+            "s12-word-04"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-05",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "덥다 · ร้อน (อากาศ)\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "덥다"
+            },
+            {
+              "id": "o1",
+              "text": "더워요"
+            },
+            {
+              "id": "o2",
+              "text": "덥어요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "더워요",
+          "explanation": "덥다 → 더워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+          "requires": [
+            "s12-word-05",
+            "s12-rule-b-wo"
+          ],
+          "wordIds": [
+            "s12-word-05"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-05-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ร้อน (อากาศ)",
+          "wordId": "s12-word-05",
+          "answerText": "덥다",
+          "explanation": "덥다 — ร้อน (อากาศ)",
+          "requires": [
+            "s12-word-05"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-06",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "고맙다 · ขอบคุณ / รู้สึกขอบคุณ\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "고마워요"
+            },
+            {
+              "id": "o1",
+              "text": "고맙아요"
+            },
+            {
+              "id": "o2",
+              "text": "고맙다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "고마워요",
+          "explanation": "고맙다 → 고마워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+          "requires": [
+            "s12-word-06",
+            "s12-rule-b-wo"
+          ],
+          "wordIds": [
+            "s12-word-06"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-06-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ขอบคุณ / รู้สึกขอบคุณ",
+          "wordId": "s12-word-06",
+          "answerText": "고맙다",
+          "explanation": "고맙다 — ขอบคุณ / รู้สึกขอบคุณ",
+          "requires": [
+            "s12-word-06"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-07",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "줍다 · เก็บขึ้นมา\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "줍어요"
+            },
+            {
+              "id": "o1",
+              "text": "줍다"
+            },
+            {
+              "id": "o2",
+              "text": "주워요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "주워요",
+          "explanation": "줍다 → 주워요\nคำไม่ปกติกลุ่มนี้เปลี่ยน ㅂ เป็น 우 เมื่อต่อ 어요 จึงย่อเป็น 워요 เช่น 굽다 → 구워요 และ 눕다 → 누워요",
+          "requires": [
+            "s12-word-07",
+            "s12-rule-b-wo"
+          ],
+          "wordIds": [
+            "s12-word-07"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-07-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เก็บขึ้นมา",
+          "wordId": "s12-word-07",
+          "answerText": "줍다",
+          "explanation": "줍다 — เก็บขึ้นมา",
+          "requires": [
+            "s12-word-07"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-08",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "잡다 · จับ / คว้า\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "잡다"
+            },
+            {
+              "id": "o1",
+              "text": "잡아요"
+            },
+            {
+              "id": "o2",
+              "text": "자워요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "잡아요",
+          "explanation": "잡다 → 잡아요\n잡다 และ 입다 ในสไลด์ผันปกติ เก็บตัวสะกด ㅂ ไว้: 잡아요 / 입어요 คำแปลอังกฤษของ 입다 ในสไลด์ซ้ำกับ 잡다 แต่ 입다 ในที่นี้หมายถึงสวมใส่เสื้อผ้า",
+          "requires": [
+            "s12-word-08",
+            "s12-rule-b-regular"
+          ],
+          "wordIds": [
+            "s12-word-08"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-08-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "จับ / คว้า",
+          "wordId": "s12-word-08",
+          "answerText": "잡다",
+          "explanation": "잡다 — จับ / คว้า",
+          "requires": [
+            "s12-word-08"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-09",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "입다 · สวมใส่เสื้อผ้า\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "입어요"
+            },
+            {
+              "id": "o1",
+              "text": "이워요"
+            },
+            {
+              "id": "o2",
+              "text": "입다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "입어요",
+          "explanation": "입다 → 입어요\n잡다 และ 입다 ในสไลด์ผันปกติ เก็บตัวสะกด ㅂ ไว้: 잡아요 / 입어요 คำแปลอังกฤษของ 입다 ในสไลด์ซ้ำกับ 잡다 แต่ 입다 ในที่นี้หมายถึงสวมใส่เสื้อผ้า",
+          "requires": [
+            "s12-word-09",
+            "s12-rule-b-regular"
+          ],
+          "wordIds": [
+            "s12-word-09"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-09-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "สวมใส่เสื้อผ้า",
+          "wordId": "s12-word-09",
+          "answerText": "입다",
+          "explanation": "입다 — สวมใส่เสื้อผ้า",
+          "requires": [
+            "s12-word-09"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-pattern-1",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "돕다 — เมื่อต่อ 아요 / 어요 ต้องจัดการ ㅂ อย่างไร?",
+          "options": [
+            {
+              "id": "o0",
+              "text": "เก็บ ㅂ ไว้"
+            },
+            {
+              "id": "o1",
+              "text": "เปลี่ยน ㅂ เป็น 워요"
+            },
+            {
+              "id": "o2",
+              "text": "เปลี่ยน ㅂ เป็น 와요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "도와요",
+          "explanation": "돕다 → 도와요 · เปลี่ยน ㅂ เป็น 와요",
+          "requires": [
+            "s12-word-01",
+            "s12-rule-b-wa"
+          ],
+          "wordIds": [
+            "s12-word-01"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-pattern-2",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "굽다 — เมื่อต่อ 아요 / 어요 ต้องจัดการ ㅂ อย่างไร?",
+          "options": [
+            {
+              "id": "o0",
+              "text": "เก็บ ㅂ ไว้"
+            },
+            {
+              "id": "o1",
+              "text": "เปลี่ยน ㅂ เป็น 워요"
+            },
+            {
+              "id": "o2",
+              "text": "เปลี่ยน ㅂ เป็น 와요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "구워요",
+          "explanation": "굽다 → 구워요 · เปลี่ยน ㅂ เป็น 워요",
+          "requires": [
+            "s12-word-03",
+            "s12-rule-b-wo"
+          ],
+          "wordIds": [
+            "s12-word-03"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-pattern-3",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "잡다 — เมื่อต่อ 아요 / 어요 ต้องจัดการ ㅂ อย่างไร?",
+          "options": [
+            {
+              "id": "o0",
+              "text": "เก็บ ㅂ ไว้"
+            },
+            {
+              "id": "o1",
+              "text": "เปลี่ยน ㅂ เป็น 워요"
+            },
+            {
+              "id": "o2",
+              "text": "เปลี่ยน ㅂ เป็น 와요"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "잡아요",
+          "explanation": "잡다 → 잡아요 · เก็บ ㅂ ไว้",
+          "requires": [
+            "s12-word-08",
+            "s12-rule-b-regular"
+          ],
+          "wordIds": [
+            "s12-word-08"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-pattern-4",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "입다 — เมื่อต่อ 아요 / 어요 ต้องจัดการ ㅂ อย่างไร?",
+          "options": [
+            {
+              "id": "o0",
+              "text": "เก็บ ㅂ ไว้"
+            },
+            {
+              "id": "o1",
+              "text": "เปลี่ยน ㅂ เป็น 워요"
+            },
+            {
+              "id": "o2",
+              "text": "เปลี่ยน ㅂ เป็น 와요"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "입어요",
+          "explanation": "입다 → 입어요 · เก็บ ㅂ ไว้",
+          "requires": [
+            "s12-word-09",
+            "s12-rule-b-regular"
+          ],
+          "wordIds": [
+            "s12-word-09"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 1",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ]
+    },
+    {
+      "id": "s12-d",
+      "sectionId": "section-12",
+      "title": "12 · ㄷ — เปลี่ยนเป็น ㄹ",
+      "status": "ready",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2–3",
+        "kind": "learner-recap"
+      },
+      "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+      "words": [
+        {
+          "id": "s12-word-10",
+          "ko": "걷다",
+          "th": "เดิน",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-11",
+          "ko": "듣다",
+          "th": "ฟัง",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-12",
+          "ko": "묻다",
+          "th": "ถาม",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-13",
+          "ko": "싣다",
+          "th": "บรรทุก / ขนขึ้นรถ",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-14",
+          "ko": "깨닫다",
+          "th": "ตระหนัก / เข้าใจขึ้นมา",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": "s12-rule-d",
+          "title": "ㄷ → ㄹ ก่อน 아요 / 어요",
+          "topic": "endings",
+          "explanation": "คำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+          "examples": [
+            {
+              "ko": "걸어요",
+              "th": "걷다 → 걸어요 · เดิน",
+              "wordIds": [
+                "s12-word-10"
+              ]
+            },
+            {
+              "ko": "들어요",
+              "th": "듣다 → 들어요 · ฟัง",
+              "wordIds": [
+                "s12-word-11"
+              ]
+            },
+            {
+              "ko": "물어요",
+              "th": "묻다 → 물어요 · ถาม",
+              "wordIds": [
+                "s12-word-12"
+              ]
+            },
+            {
+              "ko": "실어요",
+              "th": "싣다 → 실어요 · บรรทุก / ขนขึ้นรถ",
+              "wordIds": [
+                "s12-word-13"
+              ]
+            },
+            {
+              "ko": "깨달아요",
+              "th": "깨닫다 → 깨달아요 · ตระหนัก / เข้าใจขึ้นมา",
+              "wordIds": [
+                "s12-word-14"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2–3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "s12-conjugate-10",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "걷다 · เดิน\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "걷어요"
+            },
+            {
+              "id": "o1",
+              "text": "걷다"
+            },
+            {
+              "id": "o2",
+              "text": "걸어요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "걸어요",
+          "explanation": "걷다 → 걸어요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+          "requires": [
+            "s12-word-10",
+            "s12-rule-d"
+          ],
+          "wordIds": [
+            "s12-word-10"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-10-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เดิน",
+          "wordId": "s12-word-10",
+          "answerText": "걷다",
+          "explanation": "걷다 — เดิน",
+          "requires": [
+            "s12-word-10"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-11",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "듣다 · ฟัง\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "듣다"
+            },
+            {
+              "id": "o1",
+              "text": "들어요"
+            },
+            {
+              "id": "o2",
+              "text": "듣어요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "들어요",
+          "explanation": "듣다 → 들어요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+          "requires": [
+            "s12-word-11",
+            "s12-rule-d"
+          ],
+          "wordIds": [
+            "s12-word-11"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-11-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ฟัง",
+          "wordId": "s12-word-11",
+          "answerText": "듣다",
+          "explanation": "듣다 — ฟัง",
+          "requires": [
+            "s12-word-11"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-12",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "묻다 · ถาม\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "물어요"
+            },
+            {
+              "id": "o1",
+              "text": "묻어요"
+            },
+            {
+              "id": "o2",
+              "text": "묻다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "물어요",
+          "explanation": "묻다 → 물어요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+          "requires": [
+            "s12-word-12",
+            "s12-rule-d"
+          ],
+          "wordIds": [
+            "s12-word-12"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-12-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ถาม",
+          "wordId": "s12-word-12",
+          "answerText": "묻다",
+          "explanation": "묻다 — ถาม",
+          "requires": [
+            "s12-word-12"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-13",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "싣다 · บรรทุก / ขนขึ้นรถ\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "싣어요"
+            },
+            {
+              "id": "o1",
+              "text": "싣다"
+            },
+            {
+              "id": "o2",
+              "text": "실어요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "실어요",
+          "explanation": "싣다 → 실어요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+          "requires": [
+            "s12-word-13",
+            "s12-rule-d"
+          ],
+          "wordIds": [
+            "s12-word-13"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-13-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "บรรทุก / ขนขึ้นรถ",
+          "wordId": "s12-word-13",
+          "answerText": "싣다",
+          "explanation": "싣다 — บรรทุก / ขนขึ้นรถ",
+          "requires": [
+            "s12-word-13"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-14",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "깨닫다 · ตระหนัก / เข้าใจขึ้นมา\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "깨닫다"
+            },
+            {
+              "id": "o1",
+              "text": "깨달아요"
+            },
+            {
+              "id": "o2",
+              "text": "깨닫아요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "깨달아요",
+          "explanation": "깨닫다 → 깨달아요\nคำในกลุ่มที่เรียนนี้เปลี่ยน ㄷ เป็น ㄹ แล้วต่อ 아요 หรือ 어요 เช่น 걷다 → 걸어요 และ 듣다 → 들어요 ต้องดูรูปตั้งต้นและความหมาย: 들어요 ของ 듣다 หมายถึงฟัง ต่างจาก 들다 (ยก) ที่เรียนก่อนหน้า",
+          "requires": [
+            "s12-word-14",
+            "s12-rule-d"
+          ],
+          "wordIds": [
+            "s12-word-14"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-14-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ตระหนัก / เข้าใจขึ้นมา",
+          "wordId": "s12-word-14",
+          "answerText": "깨닫다",
+          "explanation": "깨닫다 — ตระหนัก / เข้าใจขึ้นมา",
+          "requires": [
+            "s12-word-14"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ]
+    },
+    {
+      "id": "s12-eu",
+      "sectionId": "section-12",
+      "title": "12 · ㅡ — เลือก 아요 / 어요",
+      "status": "ready",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 3–5, 7–8",
+        "kind": "learner-recap"
+      },
+      "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+      "words": [
+        {
+          "id": "s12-word-21",
+          "ko": "끄다",
+          "th": "ปิดเครื่อง / ปิดไฟ",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-22",
+          "ko": "크다",
+          "th": "ใหญ่",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-23",
+          "ko": "뜨다",
+          "th": "ลืมตา",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-24",
+          "ko": "쓰다",
+          "th": "ใช้ / เขียน",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-25",
+          "ko": "아프다",
+          "th": "เจ็บ / ป่วย",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-26",
+          "ko": "모으다",
+          "th": "รวบรวม / เก็บสะสม",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-27",
+          "ko": "바쁘다",
+          "th": "ยุ่ง",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-28",
+          "ko": "잠그다",
+          "th": "ล็อก",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-29",
+          "ko": "배고프다",
+          "th": "หิว",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-30",
+          "ko": "예쁘다",
+          "th": "สวย / น่ารัก",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-31",
+          "ko": "기쁘다",
+          "th": "ดีใจ",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-32",
+          "ko": "애쓰다",
+          "th": "พยายามอย่างมาก",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-33",
+          "ko": "슬프다",
+          "th": "เศร้า",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": "s12-rule-eu-one",
+          "title": "ㅡ ฐานพยางค์เดียว → 어요",
+          "topic": "endings",
+          "explanation": "ตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+          "examples": [
+            {
+              "ko": "꺼요",
+              "th": "끄다 → 꺼요 · ปิดเครื่อง / ปิดไฟ",
+              "wordIds": [
+                "s12-word-21"
+              ]
+            },
+            {
+              "ko": "커요",
+              "th": "크다 → 커요 · ใหญ่",
+              "wordIds": [
+                "s12-word-22"
+              ]
+            },
+            {
+              "ko": "떠요",
+              "th": "뜨다 → 떠요 · ลืมตา",
+              "wordIds": [
+                "s12-word-23"
+              ]
+            },
+            {
+              "ko": "써요",
+              "th": "쓰다 → 써요 · ใช้ / เขียน",
+              "wordIds": [
+                "s12-word-24"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3–5, 7–8",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-rule-eu-a",
+          "title": "ㅡ หลายพยางค์: ก่อนหน้าเป็น ㅏ / ㅗ",
+          "topic": "endings",
+          "explanation": "ตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+          "examples": [
+            {
+              "ko": "아파요",
+              "th": "아프다 → 아파요 · เจ็บ / ป่วย",
+              "wordIds": [
+                "s12-word-25"
+              ]
+            },
+            {
+              "ko": "모아요",
+              "th": "모으다 → 모아요 · รวบรวม / เก็บสะสม",
+              "wordIds": [
+                "s12-word-26"
+              ]
+            },
+            {
+              "ko": "바빠요",
+              "th": "바쁘다 → 바빠요 · ยุ่ง",
+              "wordIds": [
+                "s12-word-27"
+              ]
+            },
+            {
+              "ko": "잠가요",
+              "th": "잠그다 → 잠가요 · ล็อก",
+              "wordIds": [
+                "s12-word-28"
+              ]
+            },
+            {
+              "ko": "배고파요",
+              "th": "배고프다 → 배고파요 · หิว",
+              "wordIds": [
+                "s12-word-29"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3–5, 7–8",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-rule-eu-eo",
+          "title": "ㅡ หลายพยางค์: ก่อนหน้าเป็นสระอื่น",
+          "topic": "endings",
+          "explanation": "ตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+          "examples": [
+            {
+              "ko": "예뻐요",
+              "th": "예쁘다 → 예뻐요 · สวย / น่ารัก",
+              "wordIds": [
+                "s12-word-30"
+              ]
+            },
+            {
+              "ko": "기뻐요",
+              "th": "기쁘다 → 기뻐요 · ดีใจ",
+              "wordIds": [
+                "s12-word-31"
+              ]
+            },
+            {
+              "ko": "애써요",
+              "th": "애쓰다 → 애써요 · พยายามอย่างมาก",
+              "wordIds": [
+                "s12-word-32"
+              ]
+            },
+            {
+              "ko": "슬퍼요",
+              "th": "슬프다 → 슬퍼요 · เศร้า",
+              "wordIds": [
+                "s12-word-33"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3–5, 7–8",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "s12-conjugate-21",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "끄다 · ปิดเครื่อง / ปิดไฟ\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "꺼요"
+            },
+            {
+              "id": "o1",
+              "text": "끄어요"
+            },
+            {
+              "id": "o2",
+              "text": "끄다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "꺼요",
+          "explanation": "끄다 → 꺼요\nตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+          "requires": [
+            "s12-word-21",
+            "s12-rule-eu-one"
+          ],
+          "wordIds": [
+            "s12-word-21"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-21-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ปิดเครื่อง / ปิดไฟ",
+          "wordId": "s12-word-21",
+          "answerText": "끄다",
+          "explanation": "끄다 — ปิดเครื่อง / ปิดไฟ",
+          "requires": [
+            "s12-word-21"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-22",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "크다 · ใหญ่\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "크어요"
+            },
+            {
+              "id": "o1",
+              "text": "크다"
+            },
+            {
+              "id": "o2",
+              "text": "커요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "커요",
+          "explanation": "크다 → 커요\nตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+          "requires": [
+            "s12-word-22",
+            "s12-rule-eu-one"
+          ],
+          "wordIds": [
+            "s12-word-22"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-22-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ใหญ่",
+          "wordId": "s12-word-22",
+          "answerText": "크다",
+          "explanation": "크다 — ใหญ่",
+          "requires": [
+            "s12-word-22"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-23",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "뜨다 · ลืมตา\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "뜨다"
+            },
+            {
+              "id": "o1",
+              "text": "떠요"
+            },
+            {
+              "id": "o2",
+              "text": "뜨어요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "떠요",
+          "explanation": "뜨다 → 떠요\nตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+          "requires": [
+            "s12-word-23",
+            "s12-rule-eu-one"
+          ],
+          "wordIds": [
+            "s12-word-23"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-23-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ลืมตา",
+          "wordId": "s12-word-23",
+          "answerText": "뜨다",
+          "explanation": "뜨다 — ลืมตา",
+          "requires": [
+            "s12-word-23"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-24",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "쓰다 · ใช้ / เขียน\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "써요"
+            },
+            {
+              "id": "o1",
+              "text": "쓰어요"
+            },
+            {
+              "id": "o2",
+              "text": "쓰다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "써요",
+          "explanation": "쓰다 → 써요\nตัดสระ ㅡ ของฐานที่มีพยางค์เดียวแล้วเติม 어요 รวมเป็นรูป 써요, 꺼요, 커요, 떠요 ตามตัวอย่าง",
+          "requires": [
+            "s12-word-24",
+            "s12-rule-eu-one"
+          ],
+          "wordIds": [
+            "s12-word-24"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-24-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ใช้ / เขียน",
+          "wordId": "s12-word-24",
+          "answerText": "쓰다",
+          "explanation": "쓰다 — ใช้ / เขียน",
+          "requires": [
+            "s12-word-24"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-25",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "아프다 · เจ็บ / ป่วย\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "아퍼요"
+            },
+            {
+              "id": "o1",
+              "text": "아프다"
+            },
+            {
+              "id": "o2",
+              "text": "아파요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "아파요",
+          "explanation": "아프다 → 아파요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+          "requires": [
+            "s12-word-25",
+            "s12-rule-eu-a"
+          ],
+          "wordIds": [
+            "s12-word-25"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-25-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เจ็บ / ป่วย",
+          "wordId": "s12-word-25",
+          "answerText": "아프다",
+          "explanation": "아프다 — เจ็บ / ป่วย",
+          "requires": [
+            "s12-word-25"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-26",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "모으다 · รวบรวม / เก็บสะสม\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "모으다"
+            },
+            {
+              "id": "o1",
+              "text": "모아요"
+            },
+            {
+              "id": "o2",
+              "text": "모어요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "모아요",
+          "explanation": "모으다 → 모아요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+          "requires": [
+            "s12-word-26",
+            "s12-rule-eu-a"
+          ],
+          "wordIds": [
+            "s12-word-26"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-26-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "รวบรวม / เก็บสะสม",
+          "wordId": "s12-word-26",
+          "answerText": "모으다",
+          "explanation": "모으다 — รวบรวม / เก็บสะสม",
+          "requires": [
+            "s12-word-26"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-27",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "바쁘다 · ยุ่ง\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "바빠요"
+            },
+            {
+              "id": "o1",
+              "text": "바뻐요"
+            },
+            {
+              "id": "o2",
+              "text": "바쁘다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "바빠요",
+          "explanation": "바쁘다 → 바빠요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+          "requires": [
+            "s12-word-27",
+            "s12-rule-eu-a"
+          ],
+          "wordIds": [
+            "s12-word-27"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-27-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ยุ่ง",
+          "wordId": "s12-word-27",
+          "answerText": "바쁘다",
+          "explanation": "바쁘다 — ยุ่ง",
+          "requires": [
+            "s12-word-27"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-28",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "잠그다 · ล็อก\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "잠거요"
+            },
+            {
+              "id": "o1",
+              "text": "잠그다"
+            },
+            {
+              "id": "o2",
+              "text": "잠가요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "잠가요",
+          "explanation": "잠그다 → 잠가요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+          "requires": [
+            "s12-word-28",
+            "s12-rule-eu-a"
+          ],
+          "wordIds": [
+            "s12-word-28"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-28-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ล็อก",
+          "wordId": "s12-word-28",
+          "answerText": "잠그다",
+          "explanation": "잠그다 — ล็อก",
+          "requires": [
+            "s12-word-28"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-29",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "배고프다 · หิว\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "배고프다"
+            },
+            {
+              "id": "o1",
+              "text": "배고파요"
+            },
+            {
+              "id": "o2",
+              "text": "배고퍼요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "배고파요",
+          "explanation": "배고프다 → 배고파요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าเป็น ㅏ หรือ ㅗ ให้ใช้ 아요 เช่น 아프다 → 아파요 และ 모으다 → 모아요",
+          "requires": [
+            "s12-word-29",
+            "s12-rule-eu-a"
+          ],
+          "wordIds": [
+            "s12-word-29"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-29-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "หิว",
+          "wordId": "s12-word-29",
+          "answerText": "배고프다",
+          "explanation": "배고프다 — หิว",
+          "requires": [
+            "s12-word-29"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 4",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-30",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "예쁘다 · สวย / น่ารัก\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "예뻐요"
+            },
+            {
+              "id": "o1",
+              "text": "예빠요"
+            },
+            {
+              "id": "o2",
+              "text": "예쁘다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "예뻐요",
+          "explanation": "예쁘다 → 예뻐요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+          "requires": [
+            "s12-word-30",
+            "s12-rule-eu-eo"
+          ],
+          "wordIds": [
+            "s12-word-30"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-30-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "สวย / น่ารัก",
+          "wordId": "s12-word-30",
+          "answerText": "예쁘다",
+          "explanation": "예쁘다 — สวย / น่ารัก",
+          "requires": [
+            "s12-word-30"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-31",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "기쁘다 · ดีใจ\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "기빠요"
+            },
+            {
+              "id": "o1",
+              "text": "기쁘다"
+            },
+            {
+              "id": "o2",
+              "text": "기뻐요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "기뻐요",
+          "explanation": "기쁘다 → 기뻐요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+          "requires": [
+            "s12-word-31",
+            "s12-rule-eu-eo"
+          ],
+          "wordIds": [
+            "s12-word-31"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-31-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ดีใจ",
+          "wordId": "s12-word-31",
+          "answerText": "기쁘다",
+          "explanation": "기쁘다 — ดีใจ",
+          "requires": [
+            "s12-word-31"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-32",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "애쓰다 · พยายามอย่างมาก\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "애쓰다"
+            },
+            {
+              "id": "o1",
+              "text": "애써요"
+            },
+            {
+              "id": "o2",
+              "text": "애싸요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "애써요",
+          "explanation": "애쓰다 → 애써요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+          "requires": [
+            "s12-word-32",
+            "s12-rule-eu-eo"
+          ],
+          "wordIds": [
+            "s12-word-32"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-32-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "พยายามอย่างมาก",
+          "wordId": "s12-word-32",
+          "answerText": "애쓰다",
+          "explanation": "애쓰다 — พยายามอย่างมาก",
+          "requires": [
+            "s12-word-32"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-33",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "슬프다 · เศร้า\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "슬퍼요"
+            },
+            {
+              "id": "o1",
+              "text": "슬파요"
+            },
+            {
+              "id": "o2",
+              "text": "슬프다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "슬퍼요",
+          "explanation": "슬프다 → 슬퍼요\nตัด ㅡ แล้วดูสระของพยางค์ก่อนหน้า ถ้าไม่ใช่ ㅏ หรือ ㅗ ให้ใช้ 어요 เช่น 예쁘다 → 예뻐요 และ 슬프다 → 슬퍼요",
+          "requires": [
+            "s12-word-33",
+            "s12-rule-eu-eo"
+          ],
+          "wordIds": [
+            "s12-word-33"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-33-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เศร้า",
+          "wordId": "s12-word-33",
+          "answerText": "슬프다",
+          "explanation": "슬프다 — เศร้า",
+          "requires": [
+            "s12-word-33"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ]
+    },
+    {
+      "id": "s12-h",
+      "sectionId": "section-12",
+      "title": "12 · ㅎ — รูปย่อ",
+      "status": "ready",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 6, 8",
+        "kind": "learner-recap"
+      },
+      "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+      "words": [
+        {
+          "id": "s12-word-40",
+          "ko": "하얗다",
+          "th": "ขาว",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-41",
+          "ko": "저렇다",
+          "th": "เป็นอย่างนั้น",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-42",
+          "ko": "어떻다",
+          "th": "เป็นอย่างไร",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-43",
+          "ko": "노랗다",
+          "th": "เหลือง",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-44",
+          "ko": "파랗다",
+          "th": "ฟ้า / น้ำเงิน",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-45",
+          "ko": "이렇다",
+          "th": "เป็นอย่างนี้",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": "s12-rule-h",
+          "title": "ㅎ: จำรูปย่อของคำในบท",
+          "topic": "endings",
+          "explanation": "คำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+          "examples": [
+            {
+              "ko": "하얘요",
+              "th": "하얗다 → 하얘요 · ขาว",
+              "wordIds": [
+                "s12-word-40"
+              ]
+            },
+            {
+              "ko": "저래요",
+              "th": "저렇다 → 저래요 · เป็นอย่างนั้น",
+              "wordIds": [
+                "s12-word-41"
+              ]
+            },
+            {
+              "ko": "어때요",
+              "th": "어떻다 → 어때요 · เป็นอย่างไร",
+              "wordIds": [
+                "s12-word-42"
+              ]
+            },
+            {
+              "ko": "노래요",
+              "th": "노랗다 → 노래요 · เหลือง",
+              "wordIds": [
+                "s12-word-43"
+              ]
+            },
+            {
+              "ko": "파래요",
+              "th": "파랗다 → 파래요 · ฟ้า / น้ำเงิน",
+              "wordIds": [
+                "s12-word-44"
+              ]
+            },
+            {
+              "ko": "이래요",
+              "th": "이렇다 → 이래요 · เป็นอย่างนี้",
+              "wordIds": [
+                "s12-word-45"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6, 8",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "s12-conjugate-40",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "하얗다 · ขาว\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "하예요"
+            },
+            {
+              "id": "o1",
+              "text": "하얗다"
+            },
+            {
+              "id": "o2",
+              "text": "하얘요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "하얘요",
+          "explanation": "하얗다 → 하얘요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+          "requires": [
+            "s12-word-40",
+            "s12-rule-h"
+          ],
+          "wordIds": [
+            "s12-word-40"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-40-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ขาว",
+          "wordId": "s12-word-40",
+          "answerText": "하얗다",
+          "explanation": "하얗다 — ขาว",
+          "requires": [
+            "s12-word-40"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-41",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "저렇다 · เป็นอย่างนั้น\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "저렇다"
+            },
+            {
+              "id": "o1",
+              "text": "저래요"
+            },
+            {
+              "id": "o2",
+              "text": "저렇어요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "저래요",
+          "explanation": "저렇다 → 저래요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+          "requires": [
+            "s12-word-41",
+            "s12-rule-h"
+          ],
+          "wordIds": [
+            "s12-word-41"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-41-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เป็นอย่างนั้น",
+          "wordId": "s12-word-41",
+          "answerText": "저렇다",
+          "explanation": "저렇다 — เป็นอย่างนั้น",
+          "requires": [
+            "s12-word-41"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-42",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "어떻다 · เป็นอย่างไร\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "어때요"
+            },
+            {
+              "id": "o1",
+              "text": "어떻어요"
+            },
+            {
+              "id": "o2",
+              "text": "어떻다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "어때요",
+          "explanation": "어떻다 → 어때요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+          "requires": [
+            "s12-word-42",
+            "s12-rule-h"
+          ],
+          "wordIds": [
+            "s12-word-42"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-42-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เป็นอย่างไร",
+          "wordId": "s12-word-42",
+          "answerText": "어떻다",
+          "explanation": "어떻다 — เป็นอย่างไร",
+          "requires": [
+            "s12-word-42"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-43",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "노랗다 · เหลือง\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "노랗아요"
+            },
+            {
+              "id": "o1",
+              "text": "노랗다"
+            },
+            {
+              "id": "o2",
+              "text": "노래요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "노래요",
+          "explanation": "노랗다 → 노래요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+          "requires": [
+            "s12-word-43",
+            "s12-rule-h"
+          ],
+          "wordIds": [
+            "s12-word-43"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-43-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เหลือง",
+          "wordId": "s12-word-43",
+          "answerText": "노랗다",
+          "explanation": "노랗다 — เหลือง",
+          "requires": [
+            "s12-word-43"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-44",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "파랗다 · ฟ้า / น้ำเงิน\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "파랗다"
+            },
+            {
+              "id": "o1",
+              "text": "파래요"
+            },
+            {
+              "id": "o2",
+              "text": "파랗아요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "파래요",
+          "explanation": "파랗다 → 파래요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+          "requires": [
+            "s12-word-44",
+            "s12-rule-h"
+          ],
+          "wordIds": [
+            "s12-word-44"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-44-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ฟ้า / น้ำเงิน",
+          "wordId": "s12-word-44",
+          "answerText": "파랗다",
+          "explanation": "파랗다 — ฟ้า / น้ำเงิน",
+          "requires": [
+            "s12-word-44"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-45",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "이렇다 · เป็นอย่างนี้\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "이래요"
+            },
+            {
+              "id": "o1",
+              "text": "이렇어요"
+            },
+            {
+              "id": "o2",
+              "text": "이렇다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "이래요",
+          "explanation": "이렇다 → 이래요\nคำกลุ่ม ㅎ ในบทนี้ตัด ㅎ พร้อมเปลี่ยนสระ เช่น 노랗다 → 노래요, 이렇다 → 이래요 และ 하얗다 → 하얘요 รูป 하예요 ในสไลด์คลาดเคลื่อน ควรจำคู่รูปคำ ไม่ใช้กฎ “เติม ㅣ요” กับทุกคำที่ลงท้าย ㅎ",
+          "requires": [
+            "s12-word-45",
+            "s12-rule-h"
+          ],
+          "wordIds": [
+            "s12-word-45"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-45-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เป็นอย่างนี้",
+          "wordId": "s12-word-45",
+          "answerText": "이렇다",
+          "explanation": "이렇다 — เป็นอย่างนี้",
+          "requires": [
+            "s12-word-45"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 6",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ]
+    },
+    {
+      "id": "s12-reu",
+      "sectionId": "section-12",
+      "title": "12 · 르 — เพิ่ม ㄹ",
+      "status": "ready",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 5–6, 8",
+        "kind": "learner-recap"
+      },
+      "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+      "words": [
+        {
+          "id": "s12-word-34",
+          "ko": "모르다",
+          "th": "ไม่รู้",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-35",
+          "ko": "고르다",
+          "th": "เลือก",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-36",
+          "ko": "나르다",
+          "th": "ขน / หอบหิ้ว",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-37",
+          "ko": "구르다",
+          "th": "กลิ้ง",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-38",
+          "ko": "누르다",
+          "th": "กด",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-39",
+          "ko": "기르다",
+          "th": "เลี้ยงดู / ปลูกเลี้ยง",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": "s12-rule-reu",
+          "title": "르: เพิ่ม ㄹ แล้วเลือก 라요 / 러요",
+          "topic": "endings",
+          "explanation": "คำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+          "examples": [
+            {
+              "ko": "몰라요",
+              "th": "모르다 → 몰라요 · ไม่รู้",
+              "wordIds": [
+                "s12-word-34"
+              ]
+            },
+            {
+              "ko": "골라요",
+              "th": "고르다 → 골라요 · เลือก",
+              "wordIds": [
+                "s12-word-35"
+              ]
+            },
+            {
+              "ko": "날라요",
+              "th": "나르다 → 날라요 · ขน / หอบหิ้ว",
+              "wordIds": [
+                "s12-word-36"
+              ]
+            },
+            {
+              "ko": "굴러요",
+              "th": "구르다 → 굴러요 · กลิ้ง",
+              "wordIds": [
+                "s12-word-37"
+              ]
+            },
+            {
+              "ko": "눌러요",
+              "th": "누르다 → 눌러요 · กด",
+              "wordIds": [
+                "s12-word-38"
+              ]
+            },
+            {
+              "ko": "길러요",
+              "th": "기르다 → 길러요 · เลี้ยงดู / ปลูกเลี้ยง",
+              "wordIds": [
+                "s12-word-39"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5–6, 8",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "s12-conjugate-34",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "모르다 · ไม่รู้\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "모라요"
+            },
+            {
+              "id": "o1",
+              "text": "모르다"
+            },
+            {
+              "id": "o2",
+              "text": "몰라요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "몰라요",
+          "explanation": "모르다 → 몰라요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+          "requires": [
+            "s12-word-34",
+            "s12-rule-reu"
+          ],
+          "wordIds": [
+            "s12-word-34"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-34-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ไม่รู้",
+          "wordId": "s12-word-34",
+          "answerText": "모르다",
+          "explanation": "모르다 — ไม่รู้",
+          "requires": [
+            "s12-word-34"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-35",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "고르다 · เลือก\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "고르다"
+            },
+            {
+              "id": "o1",
+              "text": "골라요"
+            },
+            {
+              "id": "o2",
+              "text": "고라요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "골라요",
+          "explanation": "고르다 → 골라요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+          "requires": [
+            "s12-word-35",
+            "s12-rule-reu"
+          ],
+          "wordIds": [
+            "s12-word-35"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-35-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เลือก",
+          "wordId": "s12-word-35",
+          "answerText": "고르다",
+          "explanation": "고르다 — เลือก",
+          "requires": [
+            "s12-word-35"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-36",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "나르다 · ขน / หอบหิ้ว\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "날라요"
+            },
+            {
+              "id": "o1",
+              "text": "나라요"
+            },
+            {
+              "id": "o2",
+              "text": "나르다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "날라요",
+          "explanation": "나르다 → 날라요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+          "requires": [
+            "s12-word-36",
+            "s12-rule-reu"
+          ],
+          "wordIds": [
+            "s12-word-36"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-36-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ขน / หอบหิ้ว",
+          "wordId": "s12-word-36",
+          "answerText": "나르다",
+          "explanation": "나르다 — ขน / หอบหิ้ว",
+          "requires": [
+            "s12-word-36"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-37",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "구르다 · กลิ้ง\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "구러요"
+            },
+            {
+              "id": "o1",
+              "text": "구르다"
+            },
+            {
+              "id": "o2",
+              "text": "굴러요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "굴러요",
+          "explanation": "구르다 → 굴러요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+          "requires": [
+            "s12-word-37",
+            "s12-rule-reu"
+          ],
+          "wordIds": [
+            "s12-word-37"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-37-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "กลิ้ง",
+          "wordId": "s12-word-37",
+          "answerText": "구르다",
+          "explanation": "구르다 — กลิ้ง",
+          "requires": [
+            "s12-word-37"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-38",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "누르다 · กด\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "누르다"
+            },
+            {
+              "id": "o1",
+              "text": "눌러요"
+            },
+            {
+              "id": "o2",
+              "text": "누러요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "눌러요",
+          "explanation": "누르다 → 눌러요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+          "requires": [
+            "s12-word-38",
+            "s12-rule-reu"
+          ],
+          "wordIds": [
+            "s12-word-38"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-38-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "กด",
+          "wordId": "s12-word-38",
+          "answerText": "누르다",
+          "explanation": "누르다 — กด",
+          "requires": [
+            "s12-word-38"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-39",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "기르다 · เลี้ยงดู / ปลูกเลี้ยง\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "길러요"
+            },
+            {
+              "id": "o1",
+              "text": "기러요"
+            },
+            {
+              "id": "o2",
+              "text": "기르다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "길러요",
+          "explanation": "기르다 → 길러요\nคำกลุ่ม 르 ที่เรียนนี้ตัด ㅡ และเพิ่ม ㄹ เป็นตัวสะกดของพยางค์ก่อนหน้า ถ้าสระก่อนหน้าเป็น ㅏ / ㅗ ใช้ 라요 เช่น 모르다 → 몰라요; สระอื่นใช้ 러요 เช่น 기르다 → 길러요",
+          "requires": [
+            "s12-word-39",
+            "s12-rule-reu"
+          ],
+          "wordIds": [
+            "s12-word-39"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-39-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เลี้ยงดู / ปลูกเลี้ยง",
+          "wordId": "s12-word-39",
+          "answerText": "기르다",
+          "explanation": "기르다 — เลี้ยงดู / ปลูกเลี้ยง",
+          "requires": [
+            "s12-word-39"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 5",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ]
+    },
+    {
+      "id": "s12-s",
+      "sectionId": "section-12",
+      "title": "12 · ㅅ — ตัดตัวสะกด",
+      "status": "ready",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section12.pdf",
+        "locator": "หน้า 2–3",
+        "kind": "learner-recap"
+      },
+      "notes": "คำและความหมายเฉพาะที่ปรากฏใน PDF; รูปพจนานุกรมบางคำสร้างกลับจากรูปผันในสไลด์; คำอธิบายไทยและโจทย์เรียบเรียงเพิ่ม ไม่อนุมานทุกคำที่มีตัวลงท้ายเดียวกันว่าเป็นคำไม่ปกติ",
+      "words": [
+        {
+          "id": "s12-word-15",
+          "ko": "짓다",
+          "th": "สร้าง",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-16",
+          "ko": "긋다",
+          "th": "ขีดเส้น",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-17",
+          "ko": "잇다",
+          "th": "เชื่อมต่อ",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-18",
+          "ko": "붓다",
+          "th": "เท (ของเหลว)",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-19",
+          "ko": "젓다",
+          "th": "คนให้เข้ากัน",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        },
+        {
+          "id": "s12-word-20",
+          "ko": "낫다",
+          "th": "หายป่วย / อาการดีขึ้น",
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          }
+        }
+      ],
+      "rules": [
+        {
+          "id": "s12-rule-s",
+          "title": "ตัด ㅅ ก่อน 아요 / 어요",
+          "topic": "endings",
+          "explanation": "คำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+          "examples": [
+            {
+              "ko": "지어요",
+              "th": "짓다 → 지어요 · สร้าง",
+              "wordIds": [
+                "s12-word-15"
+              ]
+            },
+            {
+              "ko": "그어요",
+              "th": "긋다 → 그어요 · ขีดเส้น",
+              "wordIds": [
+                "s12-word-16"
+              ]
+            },
+            {
+              "ko": "이어요",
+              "th": "잇다 → 이어요 · เชื่อมต่อ",
+              "wordIds": [
+                "s12-word-17"
+              ]
+            },
+            {
+              "ko": "부어요",
+              "th": "붓다 → 부어요 · เท (ของเหลว)",
+              "wordIds": [
+                "s12-word-18"
+              ]
+            },
+            {
+              "ko": "저어요",
+              "th": "젓다 → 저어요 · คนให้เข้ากัน",
+              "wordIds": [
+                "s12-word-19"
+              ]
+            },
+            {
+              "ko": "나아요",
+              "th": "낫다 → 나아요 · หายป่วย / อาการดีขึ้น",
+              "wordIds": [
+                "s12-word-20"
+              ]
+            }
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2–3",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "s12-conjugate-15",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "짓다 · สร้าง\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "지어요"
+            },
+            {
+              "id": "o1",
+              "text": "짓어요"
+            },
+            {
+              "id": "o2",
+              "text": "짓다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "지어요",
+          "explanation": "짓다 → 지어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+          "requires": [
+            "s12-word-15",
+            "s12-rule-s"
+          ],
+          "wordIds": [
+            "s12-word-15"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-15-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "สร้าง",
+          "wordId": "s12-word-15",
+          "answerText": "짓다",
+          "explanation": "짓다 — สร้าง",
+          "requires": [
+            "s12-word-15"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-16",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "긋다 · ขีดเส้น\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "긋어요"
+            },
+            {
+              "id": "o1",
+              "text": "긋다"
+            },
+            {
+              "id": "o2",
+              "text": "그어요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "그어요",
+          "explanation": "긋다 → 그어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+          "requires": [
+            "s12-word-16",
+            "s12-rule-s"
+          ],
+          "wordIds": [
+            "s12-word-16"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-16-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "ขีดเส้น",
+          "wordId": "s12-word-16",
+          "answerText": "긋다",
+          "explanation": "긋다 — ขีดเส้น",
+          "requires": [
+            "s12-word-16"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-17",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "잇다 · เชื่อมต่อ\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "잇다"
+            },
+            {
+              "id": "o1",
+              "text": "이어요"
+            },
+            {
+              "id": "o2",
+              "text": "잇어요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "이어요",
+          "explanation": "잇다 → 이어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+          "requires": [
+            "s12-word-17",
+            "s12-rule-s"
+          ],
+          "wordIds": [
+            "s12-word-17"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-17-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เชื่อมต่อ",
+          "wordId": "s12-word-17",
+          "answerText": "잇다",
+          "explanation": "잇다 — เชื่อมต่อ",
+          "requires": [
+            "s12-word-17"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-18",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "붓다 · เท (ของเหลว)\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "부어요"
+            },
+            {
+              "id": "o1",
+              "text": "붓어요"
+            },
+            {
+              "id": "o2",
+              "text": "붓다"
+            }
+          ],
+          "answer": "o0",
+          "answerText": "부어요",
+          "explanation": "붓다 → 부어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+          "requires": [
+            "s12-word-18",
+            "s12-rule-s"
+          ],
+          "wordIds": [
+            "s12-word-18"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-18-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "เท (ของเหลว)",
+          "wordId": "s12-word-18",
+          "answerText": "붓다",
+          "explanation": "붓다 — เท (ของเหลว)",
+          "requires": [
+            "s12-word-18"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-19",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "젓다 · คนให้เข้ากัน\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "젓어요"
+            },
+            {
+              "id": "o1",
+              "text": "젓다"
+            },
+            {
+              "id": "o2",
+              "text": "저어요"
+            }
+          ],
+          "answer": "o2",
+          "answerText": "저어요",
+          "explanation": "젓다 → 저어요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+          "requires": [
+            "s12-word-19",
+            "s12-rule-s"
+          ],
+          "wordIds": [
+            "s12-word-19"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-19-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "คนให้เข้ากัน",
+          "wordId": "s12-word-19",
+          "answerText": "젓다",
+          "explanation": "젓다 — คนให้เข้ากัน",
+          "requires": [
+            "s12-word-19"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-conjugate-20",
+          "type": "choice",
+          "topic": "endings",
+          "prompt": "낫다 · หายป่วย / อาการดีขึ้น\nเลือกรูปสุภาพปัจจุบัน",
+          "options": [
+            {
+              "id": "o0",
+              "text": "낫다"
+            },
+            {
+              "id": "o1",
+              "text": "나아요"
+            },
+            {
+              "id": "o2",
+              "text": "낫아요"
+            }
+          ],
+          "answer": "o1",
+          "answerText": "나아요",
+          "explanation": "낫다 → 나아요\nคำในกลุ่มนี้ตัด ㅅ แล้วต่อ 아요 หรือ 어요 โดยคงสระที่ตามมา เช่น 짓다 → 지어요 และ 젓다 → 저어요 ระวัง 낫다 (หายป่วย) → 나아요 ไม่ใช่ 나요; สไลด์สะกดจุดนี้คลาดเคลื่อน",
+          "requires": [
+            "s12-word-20",
+            "s12-rule-s"
+          ],
+          "wordIds": [
+            "s12-word-20"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        },
+        {
+          "id": "s12-word-20-recall",
+          "type": "recall",
+          "topic": "vocabulary",
+          "prompt": "หายป่วย / อาการดีขึ้น",
+          "wordId": "s12-word-20",
+          "answerText": "낫다",
+          "explanation": "낫다 — หายป่วย / อาการดีขึ้น",
+          "requires": [
+            "s12-word-20"
+          ],
+          "source": {
+            "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+            "label": "Udemy korean recap_Section12.pdf",
+            "locator": "หน้า 2",
+            "kind": "learner-recap"
+          },
+          "added": true
+        }
+      ]
     }
   ],
   "audio": [
@@ -5007,6 +10686,38 @@ export const catalog = {
       "file": "audio/7dc6bcc1b8311e10759829ce325445c45f6c3d481597013f6ef7dcaa6c6fa1e9.mp3"
     },
     {
+      "text": "걷다",
+      "file": "audio/c23a5558b5ba3b7bcd019e85619f49550be38fe774c6cc0df6e981e7a6b6e439.mp3"
+    },
+    {
+      "text": "걸어요",
+      "file": "audio/a8426800b1bd866abb23c8bbdcdb9fa63f4c5d3e612cd2645143ed00702c3f28.mp3"
+    },
+    {
+      "text": "고르다",
+      "file": "audio/79d5bf287a2d5c69f28a4c5bd4e02ffb2a069a6900c2115753f7053a84cf671a.mp3"
+    },
+    {
+      "text": "고마워요",
+      "file": "audio/acbd5bc0090e4d26b8f9bf721b38b930d54e1d27a6e6292148ec18c7e65f625b.mp3"
+    },
+    {
+      "text": "고맙다",
+      "file": "audio/8ca4ac274299521d84ee32eacf1941fc4a81cc1fbce67e8905d255a683adaaf6.mp3"
+    },
+    {
+      "text": "고와요",
+      "file": "audio/40e2071466775b8b66273780a5688c25d87651c6fe1f9b9ceed8a3cdcd40e4b8.mp3"
+    },
+    {
+      "text": "골라요",
+      "file": "audio/d4909ecb26e411d2bbab300c6e8ae62373969035803a7c5472492bd7b3ae77f0.mp3"
+    },
+    {
+      "text": "곱다",
+      "file": "audio/09c9e8a1d4ada4c3a05763ff61a22f167b6a698b4f1080a0a8b4fbe69333257c.mp3"
+    },
+    {
       "text": "공부하다",
       "file": "audio/22018b19387cdb5352334cbd9621655c861dc8e5a1a2fdaa0420f81aa82a8d8d.mp3"
     },
@@ -5021,6 +10732,22 @@ export const catalog = {
     {
       "text": "공부해요",
       "file": "audio/03da2fd9f76dff2f56953dabc2bd6bcce066cf6265f1dcadfbe691f17b9e3c1a.mp3"
+    },
+    {
+      "text": "구르다",
+      "file": "audio/e0ea0475761503fbe2576d4f9e5d217c3526fd99b66bb5e191cae248ccbd5adf.mp3"
+    },
+    {
+      "text": "구워요",
+      "file": "audio/278690599d97f15fac13cf0da97278123e67f2e8399237942260f2d0e7446ed3.mp3"
+    },
+    {
+      "text": "굴러요",
+      "file": "audio/290bb8db9e72ab8c5caaf60eb8a9fa059b987ae1fa2ff1c907bf3ef72bff8a7f.mp3"
+    },
+    {
+      "text": "굽다",
+      "file": "audio/41cbb3140698c919618fa02033ca232c9514e00849a481ed42af2c4de611af45.mp3"
     },
     {
       "text": "그 가방들",
@@ -5067,6 +10794,46 @@ export const catalog = {
       "file": "audio/fa7fab30724ee571bcde9116dde17cc3e3980085c529e063474ff5ae94636e9f.mp3"
     },
     {
+      "text": "그어요",
+      "file": "audio/16bbd79e7bb35f376f2f1b01f6dfbadcdd9819a783dd66e41dfb219a156ed4f8.mp3"
+    },
+    {
+      "text": "긋다",
+      "file": "audio/5d9dc924744ba72d197f834840f1318a793a289949af19176eca355d8801dcf8.mp3"
+    },
+    {
+      "text": "기르다",
+      "file": "audio/631ec8f978036ca378b9b3c7052291b6ed54cf04feea5be5b2f40995be141648.mp3"
+    },
+    {
+      "text": "기뻐요",
+      "file": "audio/0d0a57c38322e7cc1f2535c88b013a23db54923e8ae98ef154f0bcb3eb8b881d.mp3"
+    },
+    {
+      "text": "기쁘다",
+      "file": "audio/544e6f2d9747074aa845804f3231077af7c818eadcfba861c51ab4bd1ba251e3.mp3"
+    },
+    {
+      "text": "길러요",
+      "file": "audio/ad0fa50d5191e3a37ff9bb530c061a150f310a16aea2b3b7b36632e1e30406ed.mp3"
+    },
+    {
+      "text": "깨닫다",
+      "file": "audio/ccbe652f1147c2a939861ce07fa3d5af35ed2f9c1d1cf7a516d8a98da041e757.mp3"
+    },
+    {
+      "text": "깨달아요",
+      "file": "audio/5416ae0885efa50732a0e4d707dd4abbb16330916074faffbf59f4d101eb8e1a.mp3"
+    },
+    {
+      "text": "꺼요",
+      "file": "audio/c5a7e35a04d9301c63f5ecfb5fe3771be130efcf484ae0b1f54f9ba9dadf1b06.mp3"
+    },
+    {
+      "text": "끄다",
+      "file": "audio/4e5c191de716aa949a6c049416f98430eb77853a70d8fd460d49779d822e4575.mp3"
+    },
+    {
       "text": "끝나다",
       "file": "audio/d45a47d7d33fc27c0b6835a5e1ab716f068d6f508e0d2ba980e2a0646d770846.mp3"
     },
@@ -5081,6 +10848,22 @@ export const catalog = {
     {
       "text": "나는 선생님이야.",
       "file": "audio/9d3b017f7d65c7d73641a8a95f6a830f7145840681162921c799d2e972546fa7.mp3"
+    },
+    {
+      "text": "나르다",
+      "file": "audio/4f05b4a5d79e480a52651e933542ebb1a15d09843a861b4b1a7ba071f1b184c5.mp3"
+    },
+    {
+      "text": "나아요",
+      "file": "audio/bcd8722490b86336f2a36cbe926da6dadbb7f3b54ec74a23d7bddb36c1bdfc6d.mp3"
+    },
+    {
+      "text": "날라요",
+      "file": "audio/b18f6b16df68273ee8c7d922174c09786c60fabbaab047af6833e2147f90aaa6.mp3"
+    },
+    {
+      "text": "낫다",
+      "file": "audio/6fdf8cca424ffd18b88c0ea54dbe625d535802ee660cbcab555da3e6677b79d4.mp3"
     },
     {
       "text": "내가",
@@ -5111,6 +10894,18 @@ export const catalog = {
       "file": "audio/4680141df7aedaab19fa515217aabca81c1f1b9555b14bf0b36e2efde474ff8d.mp3"
     },
     {
+      "text": "네가 선생님이야?",
+      "file": "audio/621132dce91bb956c89efa36995f836bb4f303301a4385f8c22f1631f9a27aba.mp3"
+    },
+    {
+      "text": "노랗다",
+      "file": "audio/fde5bc89b626110407ea80420c6519d27ab0d9197040c3648a9daec529ed57b7.mp3"
+    },
+    {
+      "text": "노래요",
+      "file": "audio/95cdc25bda55a67b3fee08db91ebe334135102e1d74898b071d35a9039dc8e51.mp3"
+    },
+    {
       "text": "놓다",
       "file": "audio/aae035632d940125fc61a56d0cecaf002cb468ca3fdb56c0921635157701f56b.mp3"
     },
@@ -5123,8 +10918,44 @@ export const catalog = {
       "file": "audio/012494beea44f18814ab1860b420835e6fd8fc1088387370fd49b1c786340508.mp3"
     },
     {
+      "text": "누르다",
+      "file": "audio/21b3b02c8bc19b7bcdeaf56f8bb9cb0c7388d83cff44a231c6ac38014898a90f.mp3"
+    },
+    {
+      "text": "누워요",
+      "file": "audio/a9c9719dc0e1a6d1bdaf8a617cf5b602ce47107c5d403736466b402f9c0758fd.mp3"
+    },
+    {
+      "text": "눌러요",
+      "file": "audio/50d7e04a65f1eef86e27746b3a7e9c7ff5b6e8b886240d599215f65c06c8915b.mp3"
+    },
+    {
+      "text": "눕다",
+      "file": "audio/d4332bfbe8a48d74c97bcb9bbfa82235a952da0e984787ea22040b6850bc7bff.mp3"
+    },
+    {
       "text": "당신",
       "file": "audio/c35a31836790f4b49f3c8148ea8d87a1257e72b47c775b2fc14f7004164de3fb.mp3"
+    },
+    {
+      "text": "더워요",
+      "file": "audio/57973e1edf3798c6aaaf975c02fa9eb328039abfdba519632fb570ddb2fa2d76.mp3"
+    },
+    {
+      "text": "덥다",
+      "file": "audio/ee49926fd16fcecaf46c0050438a75631ae1811c49f84704feb8d25f6e9409c2.mp3"
+    },
+    {
+      "text": "도와요",
+      "file": "audio/6cb825596f92a6025d1cee652144c593b67e56880de90b303be2dc20530ae5b2.mp3"
+    },
+    {
+      "text": "돕다",
+      "file": "audio/7089593289ea54b0e70b722785eb2720022176c14d95cf3db29c9cb5c8a5c76f.mp3"
+    },
+    {
+      "text": "듣다",
+      "file": "audio/ef6bca61ba7a21f13479264400674467671e3681020495a90320e4b4e5455f9c.mp3"
     },
     {
       "text": "들다",
@@ -5137,6 +10968,18 @@ export const catalog = {
     {
       "text": "듭니다",
       "file": "audio/164a16f0b998e25b2f2a29ae1b24a68f735a1be14e12918048601c7c1366c6d0.mp3"
+    },
+    {
+      "text": "떠요",
+      "file": "audio/dd84e913b3c4a76b85736980d7cff61fb2b55536c51fb90b43f93e9fb263fa60.mp3"
+    },
+    {
+      "text": "뜨다",
+      "file": "audio/f69f40e13c2daaecdfe70e5600b195d54a733ce82ba4ff5367485c8ef31fa478.mp3"
+    },
+    {
+      "text": "라면",
+      "file": "audio/a0b068fe28837c9776f03ae8daa3bbaf34c00013736db6704f05e29dfc519e9e.mp3"
     },
     {
       "text": "마셔",
@@ -5183,8 +11026,60 @@ export const catalog = {
       "file": "audio/fd2c27bda7028e1218ef8d125ca522b738c09f615e54a7fc84cb41643919cea3.mp3"
     },
     {
+      "text": "먹어?",
+      "file": "audio/f27d33be202f73feefd2dbed3c0dfbb2cb61bd3035b32221acddfd03c70a02ea.mp3"
+    },
+    {
       "text": "먹어요",
       "file": "audio/4ef46f26300fd51b419b56bc241e54932f6214ed4d1a74f1c0808eabc65f4902.mp3"
+    },
+    {
+      "text": "먹어요?",
+      "file": "audio/3ec7b21b9894eef4f4ec4aa39ba702c40fa1781decccaa8e02d5fb6c5d65b008.mp3"
+    },
+    {
+      "text": "모르다",
+      "file": "audio/8fb5dc56da9cf68011d036f9d09d9188351648cd77f233d533124d69ecbb27da.mp3"
+    },
+    {
+      "text": "모아요",
+      "file": "audio/af08e1ca76260eb0484dbc120bdaa00413ad7802bc39f13adad5f616db979d37.mp3"
+    },
+    {
+      "text": "모으다",
+      "file": "audio/202daa9d08b4ef80d85a8d7a82cd50fa1faace3b548e92cbbdd74e58907bc8c5.mp3"
+    },
+    {
+      "text": "몰라요",
+      "file": "audio/125b79449561357013eec18646e73b0d3f563a4c8492fa378132f9ae71a230ba.mp3"
+    },
+    {
+      "text": "묻다",
+      "file": "audio/062b2f3ababc47529f2079cdac1961513349b8568fdc838f74ab68c01715841b.mp3"
+    },
+    {
+      "text": "물어요",
+      "file": "audio/b7982140dbe701426f3fe81d29e9f0187fade328d477471db9633285b0dca4fe.mp3"
+    },
+    {
+      "text": "바나나",
+      "file": "audio/13c932935eb0c224f7cfceddc5fc14fbabfb082db4889565a5e2ea149bf0d121.mp3"
+    },
+    {
+      "text": "바빠요",
+      "file": "audio/1d41d3bb5ea989df4e6debdf8fd60677b14770f6441781fded860e157661c230.mp3"
+    },
+    {
+      "text": "바쁘다",
+      "file": "audio/0f2779e08814d76d3bf510c07f46616c05cf54d627aaf3371ef7041b3aa31c4d.mp3"
+    },
+    {
+      "text": "배고파요",
+      "file": "audio/ac5e4abd572f1eea93b34bf67f0bf1397aad3113a924e7095c0a972b441e2f99.mp3"
+    },
+    {
+      "text": "배고프다",
+      "file": "audio/ea2183c18948cd0bfd2cf76569ce82fa1ee6e6745d7eb209c0c64ef445e25299.mp3"
     },
     {
       "text": "배우다",
@@ -5211,6 +11106,26 @@ export const catalog = {
       "file": "audio/112144f382a81d86543f4765fe337e00e600410fd157ac9a6072c4dd67d6ddcc.mp3"
     },
     {
+      "text": "부어요",
+      "file": "audio/279ee067b3bc9ea32a38ae907ec5cf5216e6239d95c6c0856132862a774e436b.mp3"
+    },
+    {
+      "text": "붓다",
+      "file": "audio/ceeecabc3c2ed166d8082d2de723d82e75f4b392896dce07cfe68b7e470fc7bb.mp3"
+    },
+    {
+      "text": "비빔밥",
+      "file": "audio/a5fefc49414f140ff0f4a76437b1e234990b65c458abc5d17e196962455a79e3.mp3"
+    },
+    {
+      "text": "빵",
+      "file": "audio/f77ee88edfe311a854e9c1fe8d63dd0e6690f8b120ccfa3e6772586c2811bc0f.mp3"
+    },
+    {
+      "text": "사과",
+      "file": "audio/b387dc5df2fde35662770212493cc36b00c17e24f1a8c05c32bcbab5114144ca.mp3"
+    },
+    {
       "text": "서다",
       "file": "audio/dd7d3f428ef49433e5547db2b959d97083fdd76d8cc2a1fccaf2d40002a833eb.mp3"
     },
@@ -5231,6 +11146,10 @@ export const catalog = {
       "file": "audio/d68537e636ccc7a62cd58df3b0ed4218d8689fb2447c24d8213fe618fa4f7fbe.mp3"
     },
     {
+      "text": "선생님입니까?",
+      "file": "audio/96925939425f7cea5dc9fb499f1dbbe6a22f95bb34e90763c8d2e428470b49a7.mp3"
+    },
+    {
       "text": "세다",
       "file": "audio/e905f08819d36a54732ddcd47bc280a9f898d570316cda601828b706c550411a.mp3"
     },
@@ -5247,12 +11166,44 @@ export const catalog = {
       "file": "audio/ba0b48ebc306c20d881172210864ad655c2c79b0f2e017b582762ad4b4ba322c.mp3"
     },
     {
+      "text": "술",
+      "file": "audio/52bd1a739e138253ded04c9175b1c47d081fdee1e1bdd8e7ed0d39a5292d1603.mp3"
+    },
+    {
+      "text": "술을 마십니까?",
+      "file": "audio/3a11206f404969cd34ad431fe85e9ddef5c045ad0cc345c89f4506d99cb258af.mp3"
+    },
+    {
       "text": "쉬다",
       "file": "audio/2b431709419a4c7865d3a14fb6f6a98174ba886c22c6128d31a0ec5e301c89fc.mp3"
     },
     {
       "text": "쉽니다",
       "file": "audio/72bc8e49c4c6e84b4aac03c100d09f37f29ea755492c8795a8898e7bb77fc1e5.mp3"
+    },
+    {
+      "text": "슬퍼요",
+      "file": "audio/c24f866fb4db4a1c6cab83c01aaf66c8efa3ea2eb28b4fed2e68683c28892d8e.mp3"
+    },
+    {
+      "text": "슬프다",
+      "file": "audio/79376bf9ee032630793be37921a6680ea5e189458fcd488793fb5cc655e57d12.mp3"
+    },
+    {
+      "text": "싣다",
+      "file": "audio/9e38326a970c9866cf010a67a21fb82c1f28e78f813dbc153aa7459d1a1f4e5a.mp3"
+    },
+    {
+      "text": "실어요",
+      "file": "audio/f7ef115531e2f4be97ca192bdd311940b228ad2365062d3203580ae2124e4342.mp3"
+    },
+    {
+      "text": "싫어하다",
+      "file": "audio/e847c4bef92893f0b6a8bd263d119018befd7cd459db1b54c19751a24c4b8e4f.mp3"
+    },
+    {
+      "text": "써요",
+      "file": "audio/c550917a469abaf19ecd9a66a9baa9a7fc9fdbe0bd45e3dfe22be1e9bc915e76.mp3"
     },
     {
       "text": "쏘다",
@@ -5263,8 +11214,52 @@ export const catalog = {
       "file": "audio/80e4d6ae6dcbba375c6cab6812d0ed3509599ae094898bcc429e633fab9d9441.mp3"
     },
     {
+      "text": "쓰다",
+      "file": "audio/1ca56b615e7c55693f7cd51f6ee3a3d526e0ed03b57a434ceb5f3e8b1ac74f41.mp3"
+    },
+    {
       "text": "아이",
       "file": "audio/9d1e304d08f5b9396625f567069a88625e94f7932df14d227c4f8631828606fd.mp3"
+    },
+    {
+      "text": "아파요",
+      "file": "audio/d8ab386d459d3a9f1416de8bc46f54ca77c27d94aca19abdc27069c5408bc126.mp3"
+    },
+    {
+      "text": "아프다",
+      "file": "audio/a8bdea095db99af3ce64c6baf80078548a7ff36444d70f7d1aa449484021dd47.mp3"
+    },
+    {
+      "text": "안 싫어해요.",
+      "file": "audio/8dda996994d66ba5226abb582e043225f5c5e0b838da519bfdc236fde23e514c.mp3"
+    },
+    {
+      "text": "안 좋아해요.",
+      "file": "audio/4c9f673f84b1181b9c8267518f130f110f18409e88b98c93e2dad9b4d218dc37.mp3"
+    },
+    {
+      "text": "애써요",
+      "file": "audio/8a7f08ea0e0ffedd60150f633fdce8c08d94c18545e021f7609dc2b05a9cd444.mp3"
+    },
+    {
+      "text": "애쓰다",
+      "file": "audio/8397774b91f494e5bebbe278eec740bac31312dd7af56d148da731ff3750435b.mp3"
+    },
+    {
+      "text": "어때요",
+      "file": "audio/a536b8c207a11ca4836579940d67fe09fe3bc0eecaf9fa9ed1183e8d726b8fca.mp3"
+    },
+    {
+      "text": "어떻다",
+      "file": "audio/88884e22e2cd7b11cbb55d14846a608eaa0343a94320ce6f00780eca93b49cc0.mp3"
+    },
+    {
+      "text": "예뻐요",
+      "file": "audio/84d69fbe749e078f2198dca170b1c87d9a3f702e021c743eb1317ccc1403aaf7.mp3"
+    },
+    {
+      "text": "예쁘다",
+      "file": "audio/915fa44ec0bdc902c86d6e8d2fbd2c6972424f244bead4832330e2e2c6759373.mp3"
     },
     {
       "text": "오다",
@@ -5299,6 +11294,18 @@ export const catalog = {
       "file": "audio/6b34acace1733dc3f980d5a3e58f751b7ee4aa5ec61babdc2fac7a7116e64d50.mp3"
     },
     {
+      "text": "이래요",
+      "file": "audio/7315ec07b5b45b516c2a12b178e23b4e39dc4f9e25fe5008c85ad79b11018887.mp3"
+    },
+    {
+      "text": "이렇다",
+      "file": "audio/69065ddf560c0ee5e5ad925384b2f99a1daa60324dafaf93892b6a258a4b7ffd.mp3"
+    },
+    {
+      "text": "이어요",
+      "file": "audio/d42dc9476491705d8c3ead8acbaa9e2fb3814ba09a078e2ec5b4762a7242d685.mp3"
+    },
+    {
       "text": "읽다",
       "file": "audio/5ad6ad8d0c4567750154b4e333687cb1b260bd5cf74fb9efc7bf9c996af1bbfd.mp3"
     },
@@ -5311,6 +11318,30 @@ export const catalog = {
       "file": "audio/2da175d49132c6e7e84f8796f809a8711bafbcb05f1fc8e545a5a55fdd7ed5d7.mp3"
     },
     {
+      "text": "읽지 않습니다",
+      "file": "audio/58f7373c9f1e7c42e512d0f8217ff995282c037afd0a573f0de4e8d10cef48d2.mp3"
+    },
+    {
+      "text": "읽지 않아",
+      "file": "audio/42180214a32e24abf72df127c5bb6a170b9c8d75239bd8e203d8f70884a076a8.mp3"
+    },
+    {
+      "text": "읽지 않아요",
+      "file": "audio/e37a4d7a6c5e3f70e2b2eca0761258ba0d360865b4c8aa25abe42ab6d3b1a79a.mp3"
+    },
+    {
+      "text": "입다",
+      "file": "audio/8435619fd906e7163c450fffef694a3715f498a019f5edf6a856158e28b42767.mp3"
+    },
+    {
+      "text": "입어요",
+      "file": "audio/64e70b3c64781145a4f058e7aa397082c1af6d2d98078ea845e58e48f105e7dd.mp3"
+    },
+    {
+      "text": "잇다",
+      "file": "audio/b39962c38cd5bc09322bfcbc537a42a51eaff8c40f0af69c6700dc3e031bee9f.mp3"
+    },
+    {
       "text": "자다",
       "file": "audio/031c82ad4b16b49521ef69da4a4562d095e50a780a9990bd685c5831c349c82f.mp3"
     },
@@ -5319,16 +11350,112 @@ export const catalog = {
       "file": "audio/d3d498d05bbce9bc9882b687df35124dc93c2a6010a881d7a7e84a6ca364ff53.mp3"
     },
     {
+      "text": "잠가요",
+      "file": "audio/1882d3f1bcf26e9a8696589495040e6cee03a2fd00cdc609cec885765f3bbff4.mp3"
+    },
+    {
+      "text": "잠그다",
+      "file": "audio/f90e81dbf0998a965b0d79faa9f906623703dd82106695134331dce18ca7e9da.mp3"
+    },
+    {
       "text": "잡니다",
       "file": "audio/c97efb4cec0e8dd5d0efb40e63cbc74a8e84100abb4d882e4c385f144d7d1946.mp3"
+    },
+    {
+      "text": "잡다",
+      "file": "audio/8d47afa3196c269ea7611659ce924f1fcb4ae3cf25740d0689eb6669b858c923.mp3"
+    },
+    {
+      "text": "잡아요",
+      "file": "audio/586090aed7c9245b3c2ab1ccb21355e9a885e31a3657bac257a26874d80609f1.mp3"
     },
     {
       "text": "저",
       "file": "audio/b7ca6fc59cb256ce308a136fab72e5a2e470eba75f89338c5f54b1ddde635e03.mp3"
     },
     {
+      "text": "저는 공부 안 해요.",
+      "file": "audio/3d59cf495bf6ba902c42c0c0111f27942f058fc6f88883a1d5e511356374287a.mp3"
+    },
+    {
+      "text": "저는 공부하지 않아요.",
+      "file": "audio/aebe34b3bca6c2e833e3b4dfcf5a31520a4838562ddc22aeddb56d6d5c761a45.mp3"
+    },
+    {
+      "text": "저는 라면을 먹어요.",
+      "file": "audio/a59a905b9de0447aff9ccbcb857810c8fb3d2d533b33c5696b33050154884de9.mp3"
+    },
+    {
+      "text": "저는 바나나를 먹어요.",
+      "file": "audio/cde42eaeab4a4740a3d1f0af9c5a9396af5eb6083272d2199102211b5dea368a.mp3"
+    },
+    {
+      "text": "저는 비빔밥을 먹어요.",
+      "file": "audio/90966602ba3ef92ca27720f81d31bf049aa8821246f8ac5a00d82aa4f0e4df60.mp3"
+    },
+    {
+      "text": "저는 빵을 먹어요.",
+      "file": "audio/3fe41879381edc6a050e7511e95f0f5fc2ca1b08f637a3f24c659364e039352d.mp3"
+    },
+    {
+      "text": "저는 빵을 먹지 않아요.",
+      "file": "audio/916fb8e8279f0ae499d2ab36dd4f541b319a03bd3c6a8bbecfe8887c3d6827c8.mp3"
+    },
+    {
+      "text": "저는 사과를 먹어요.",
+      "file": "audio/416ad5a5dd112d0ba4ebcc73ea23d9cc35238a57f7fc6c8f64460affac7b34f1.mp3"
+    },
+    {
       "text": "저는 선생님입니다.",
       "file": "audio/791e234e07243f9fa15f03322157bdade99775e1f12d008efde85ff42cc4aeb0.mp3"
+    },
+    {
+      "text": "저는 술을 마시지 않아요.",
+      "file": "audio/1e946edefeebb55466e63df3c52e59c91f1a3a68791c1f45bb8be6173c3b51ab.mp3"
+    },
+    {
+      "text": "저는 술을 안 마셔요.",
+      "file": "audio/9536a0ea4a84837bef8fb14b06285380c82d631ea3e59413db7a17a689e7ba20.mp3"
+    },
+    {
+      "text": "저는 요리 안 해요.",
+      "file": "audio/aab96040f03b41523fdc557f323c7794fb56247909ed488a1dcb8e2e94f0edd2.mp3"
+    },
+    {
+      "text": "저는 책을 안 읽어요.",
+      "file": "audio/8cf9a11c4344493b40daf01f79ef892dfd97c4652282b3756ebf95f0961d6bd9.mp3"
+    },
+    {
+      "text": "저는 책을 읽지 않아요.",
+      "file": "audio/486f683224eb096b8679ab571adacdb841cefc46e703b11fd242aad54f8c5447.mp3"
+    },
+    {
+      "text": "저는 청소 안 해요.",
+      "file": "audio/4311de382c3867009cdec87a7a0f267075739a852e9b43803281a2c94b96a173.mp3"
+    },
+    {
+      "text": "저는 피자를 먹어요.",
+      "file": "audio/286ebc9adf27368e30b20c674ba045b891a105aa220ab5373d7d2a8efd59ecc7.mp3"
+    },
+    {
+      "text": "저는 피자를 먹지 않아요.",
+      "file": "audio/7a698a6aee228b453662ecf93b1d0d85665fd83b9348464cb608a7ff798aafa5.mp3"
+    },
+    {
+      "text": "저는 피자를 안 먹어요.",
+      "file": "audio/99cdb0dce711e68151ded47e2f714ac3fc483a623af272ccdc72fe993243470f.mp3"
+    },
+    {
+      "text": "저래요",
+      "file": "audio/db7c4127b2451e9ef528e8060705191a5a1ccd4a7c5525fb93b2796d6b4b4d1e.mp3"
+    },
+    {
+      "text": "저렇다",
+      "file": "audio/d0ebc34b6852a9bae47f97ff36b16989d58403b4e30780c0ea3a3a4bf3948873.mp3"
+    },
+    {
+      "text": "저어요",
+      "file": "audio/a8f9acdb409c4d7fb2230519236d7b6c1ae65c8e214a6d225b9cb01b4d2af863.mp3"
     },
     {
       "text": "저희",
@@ -5339,6 +11466,10 @@ export const catalog = {
       "file": "audio/3e94e35dcec1c32bfcf9858d4ca0d5c1d8e7811d8e5098a6ee9cabb8350ddcc9.mp3"
     },
     {
+      "text": "젓다",
+      "file": "audio/235135d31190f420cf4da093c0bc95748db63cb169893a539d3f33b230bf0368.mp3"
+    },
+    {
       "text": "제가",
       "file": "audio/48c210babc7c705e5e4e164b1c4a401eda74c73731a1a17483f57fbc071e5b41.mp3"
     },
@@ -5347,12 +11478,28 @@ export const catalog = {
       "file": "audio/0c4c579bfd781bbd174554083f0b1324833009e34ee2dbcbcc41cd9697db6bac.mp3"
     },
     {
+      "text": "좋아하다",
+      "file": "audio/106cffc25d755d9c2cd6ce0d6e8ad621890f0004a17370669e537a419a66a330.mp3"
+    },
+    {
       "text": "주다",
       "file": "audio/a5e0e5306cc1108f5557db06b248f9fb00d6cec8fd8eefe054fe11ad95e88f25.mp3"
     },
     {
+      "text": "주워요",
+      "file": "audio/365a9f880d588b71fc3f1df962eaed504410f5c251e4cd638287cc61a6d1883a.mp3"
+    },
+    {
+      "text": "줍다",
+      "file": "audio/bf8df925c0147c56902ec53e8563f487fddc3353b69c501fa8712b12b1923930.mp3"
+    },
+    {
       "text": "줘요",
       "file": "audio/ee9bf48ee0559e93a38c6a92212e40c46cee6c78f97914f5e304459c8feeda8a.mp3"
+    },
+    {
+      "text": "지어요",
+      "file": "audio/1852cf5902e94447267218fd24023620e55b1112fab82d1a65f455d1d0106f42.mp3"
     },
     {
       "text": "지우다",
@@ -5367,12 +11514,20 @@ export const catalog = {
       "file": "audio/44d32a7db26147c09d5ff81fd15a383cc2acceb99f6986d29ba2e253aee7a1b6.mp3"
     },
     {
+      "text": "짓다",
+      "file": "audio/998302922704cc57506c93e03d1e26cb1372d5d0278d2e3fc012200126b55cf6.mp3"
+    },
+    {
       "text": "찾다",
       "file": "audio/aa370ee5d2afc36773537b5e4f774fba060802ddaaf853d3d9875ca7be53c08c.mp3"
     },
     {
       "text": "찾아요",
       "file": "audio/3fb6b203daa596722f4f5517c573ba4a736f3851034626c8a01f5f88fc56274c.mp3"
+    },
+    {
+      "text": "책",
+      "file": "audio/327d34fcdf2b4a0a3daaf0ad761057e1a6b3dc6e15cd4bec7b13613fd6af0b66.mp3"
     },
     {
       "text": "청소하다",
@@ -5395,6 +11550,10 @@ export const catalog = {
       "file": "audio/c44b6355f720e541c6a1f1af1fec8339fb3970317647206ac323d1e356ae2881.mp3"
     },
     {
+      "text": "커요",
+      "file": "audio/97a9f4b27bd2417a3a7b5135f4e1ee826fbd64e3b4b9f6bc956f85de8f3dcd29.mp3"
+    },
+    {
       "text": "켜다",
       "file": "audio/d5fe408db8474be64826465e3dd7c9f61c3c4a7ae27ffe072e2d00cff2765b0b.mp3"
     },
@@ -5403,12 +11562,24 @@ export const catalog = {
       "file": "audio/100d89f5dfc2b9b4a621c3c3b24e7ebdc8440297c2139fcf8c795b27fc048810.mp3"
     },
     {
+      "text": "크다",
+      "file": "audio/572ae9f1fbbd23b79c01c24f80fe69556b5c181bed815313a7ac620c4d906163.mp3"
+    },
+    {
       "text": "키우다",
       "file": "audio/acf51de9bf36156dea7d91a32f07907ad52bca555d5b63e82c329e7c51aea497.mp3"
     },
     {
       "text": "키워요",
       "file": "audio/a7b172800381d36a62c81f007a1315f234fe9c4428dc75ceea89a21e8e879df9.mp3"
+    },
+    {
+      "text": "파랗다",
+      "file": "audio/77bece600939e9cc89d664aed83f48f362db6a9472579bd0656b95586b78b628.mp3"
+    },
+    {
+      "text": "파래요",
+      "file": "audio/9fe84b9740d8b8b946f51516936edb9046757e55538aed69b72401b4bcbb4683.mp3"
     },
     {
       "text": "팔다",
@@ -5431,9 +11602,33 @@ export const catalog = {
       "file": "audio/65e9948f5b765f1d5bf5032b1c7fd5a8896e68cdef607e7b8d779f1393f51015.mp3"
     },
     {
+      "text": "피자 먹어요?",
+      "file": "audio/740821bae86afa1f021432b58dd1f5ee508b9c36e386984d01503f7136aaa6c8.mp3"
+    },
+    {
+      "text": "피자를 먹습니까?",
+      "file": "audio/050553d4e9fdedcbf0fd9432efbd61894a2d119823b09ed577f98cfa624a457c.mp3"
+    },
+    {
+      "text": "하얗다",
+      "file": "audio/43d14774209e1e38ccda2064e8de9984b2685b5f92d373357b2a2264591a2236.mp3"
+    },
+    {
+      "text": "하얘요",
+      "file": "audio/2c8abd6cc31864224d385a910ffc2cdda86cef052b0f5639c0364c9e3564ba78.mp3"
+    },
+    {
       "text": "학생",
       "file": "audio/9de5d026d5a9854f32c0eb98e757fc2f79cef4d81c0339de290c8e6782ad5215.mp3"
+    },
+    {
+      "text": "한국어",
+      "file": "audio/4f6cd96196b6e162f03a8d220673597b980d8e102874ca923b0a47055209bb7c.mp3"
+    },
+    {
+      "text": "한국어 공부합니까?",
+      "file": "audio/ae569731b916d08889274028a1f8488625dc8acbd422f2ecd2b6b702216d6c3f.mp3"
     }
   ],
-  "version": "c7fa1fba3d28"
+  "version": "26ed84668e75"
 };
