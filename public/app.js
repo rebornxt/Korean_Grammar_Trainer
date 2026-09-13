@@ -1,4 +1,5 @@
 import { catalog } from "./catalog.js";
+import { conjugationEntries } from "./conjugator.js";
 import {
   STORAGE_KEY,
   TOPICS,
@@ -37,6 +38,10 @@ let state = freshState(),
   pendingImport = null;
 let registration = null;
 const player = new AudioPlayer(catalog.audio);
+const labEntries = conjugationEntries(catalog);
+let labGroup = "all",
+  labWordId = null,
+  labFormId = null;
 function notice(text) {
   $("#notice").textContent = text;
   $("#notice").hidden = !text;
@@ -117,6 +122,7 @@ function render() {
   });
   $("#view").replaceChildren();
   if (state.view === "lessons") renderLessons();
+  else if (state.view === "conjugator") renderConjugator();
   else renderLearning();
 }
 function empty(title = "ยังไม่มีเนื้อหาสำหรับฝึก") {
@@ -275,6 +281,186 @@ function renderLessons() {
     ),
   );
 }
+
+function labStep(number, label, ...content) {
+  return node(
+    "div",
+    { class: "lab-step", style: `--step:${number}` },
+    node("span", { class: "lab-step-number" }, String(number).padStart(2, "0")),
+    node(
+      "div",
+      { class: "lab-step-content" },
+      node("span", { class: "lab-step-label" }, label),
+      node("div", { class: "lab-step-ko", lang: "ko" }, content),
+    ),
+  );
+}
+
+function renderConjugator() {
+  if (!labEntries.length) {
+    $("#view").append(empty("ยังไม่มีคำสำหรับเครื่องผันกริยา"));
+    return;
+  }
+  const groups = [
+    ["all", "ทั้งหมด"],
+    ["basic", "กฎพื้นฐาน"],
+    ["changing", "กฎเปลี่ยนรูป"],
+  ];
+  const pool = labEntries.filter(
+    (entry) => labGroup === "all" || entry.group === labGroup,
+  );
+  if (!pool.some((entry) => entry.id === labWordId))
+    labWordId =
+      (labGroup === "all" && pool.find((entry) => entry.group === "changing"))
+        ?.id || pool[0].id;
+  const entry = pool.find((item) => item.id === labWordId);
+  if (!entry.forms.some((form) => form.id === labFormId))
+    labFormId = entry.forms[0].id;
+  const form = entry.forms.find((item) => item.id === labFormId);
+
+  const intro = node(
+    "section",
+    { class: "lab-intro" },
+    node(
+      "div",
+      {},
+      node("p", { class: "eyebrow" }, "PRESENT TENSE · CONJUGATION LAB"),
+      node("h1", {}, "ผันกริยาทีละขั้น"),
+      node(
+        "p",
+        {},
+        "เลือกจากคำที่เรียนแล้ว ดูว่าตัดและเปลี่ยนตรงไหนก่อนเป็นรูปที่ใช้จริง",
+      ),
+    ),
+    node("span", { class: "lab-count" }, `${labEntries.length} คำ`),
+  );
+
+  const groupButtons = node(
+    "div",
+    { class: "lab-groups", "aria-label": "กรองกฎการผัน" },
+    groups.map(([id, label]) => {
+      const control = button(label, () => {
+        stop();
+        labGroup = id;
+        labWordId = null;
+        labFormId = null;
+        render();
+      });
+      control.setAttribute("aria-pressed", String(labGroup === id));
+      return control;
+    }),
+  );
+  const verbSelect = node(
+    "select",
+    {
+      "aria-label": "เลือกคำที่เรียนแล้ว",
+      onchange: (event) => {
+        stop();
+        labWordId = event.target.value;
+        labFormId = null;
+        render();
+      },
+    },
+    pool.map((item) =>
+      node("option", { value: item.id }, `${item.dictionary} · ${item.meaning}`),
+    ),
+  );
+  verbSelect.value = entry.id;
+  const controls = node(
+    "section",
+    { class: "lab-controls" },
+    groupButtons,
+    node(
+      "label",
+      { class: "lab-select" },
+      node("span", {}, "คำที่เรียนแล้ว"),
+      verbSelect,
+    ),
+    button("สุ่มคำ", () => {
+      stop();
+      const others = pool.filter((item) => item.id !== entry.id);
+      labWordId = (others[Math.floor(Math.random() * others.length)] || entry).id;
+      labFormId = null;
+      render();
+    }),
+  );
+
+  const formTabs = node(
+    "div",
+    { class: "lab-form-tabs", "aria-label": "เลือกระดับภาษา" },
+    entry.forms.map((item) => {
+      const control = button(`${item.label} · ${item.hint}`, () => {
+        stop();
+        labFormId = item.id;
+        render();
+      });
+      control.setAttribute("aria-pressed", String(item.id === form.id));
+      return control;
+    }),
+  );
+  const detail = node(
+    "section",
+    { class: "lab-card" },
+    node(
+      "header",
+      { class: "lab-card-head" },
+      node(
+        "div",
+        {},
+        node("span", { class: "lab-rule-kind" }, form.lessonTitle),
+        node("h2", {}, form.ruleTitle),
+        node("p", {}, entry.meaning),
+      ),
+      node("span", { class: "lab-level" }, `${form.label} · ${form.hint}`),
+    ),
+    labStep(1, "คำในพจนานุกรม", speech(entry.dictionary)),
+    labStep(
+      2,
+      "ตัด 다 → ได้ก้านกริยา",
+      node("span", {}, form.stem),
+      node("del", {}, "다"),
+    ),
+    labStep(
+      3,
+      "ใช้กฎของคำนี้",
+      node("span", {}, form.stem),
+      node("span", { class: "lab-arrow", "aria-hidden": "true" }, "→"),
+      speech(form.answer),
+    ),
+    node(
+      "div",
+      { class: "lab-result" },
+      node("span", {}, "รูปที่ใช้"),
+      node("div", { class: "ko" }, speech(form.answer)),
+      node("small", {}, "แตะคำเกาหลีเพื่อฟังเสียง"),
+    ),
+    node(
+      "div",
+      { class: "lab-explanation" },
+      node("h3", {}, "ทำไมจึงผันแบบนี้"),
+      node("p", {}, form.explanation),
+    ),
+    node(
+      "div",
+      { class: "lab-footer" },
+      source(form.source),
+      button("ฝึกกฎนี้", () => {
+        state.filters = {
+          lesson: form.lessonId,
+          topic: "endings",
+          rule: form.ruleId,
+          deck: "all",
+        };
+        round = null;
+        editingFilters = false;
+        view("practice");
+      }, "primary"),
+    ),
+  );
+
+  $("#view").append(intro, controls, formTabs, detail);
+}
+
 function select(label, key, options) {
   const s = node(
     "select",

@@ -35,3 +35,9 @@ Read all eight PDF pages visually. Added six explicitly learned groups (ㅂ, ㄷ
 Corrections: 낫다 → 나아요 (slides show 나요 and one 나다 label); 하얗다 → 하얘요 (slides show 하예요 / one 하얗다 typo); 입다 means wear clothes, not grab. NIKL references: https://korean.go.kr/front/mcfaq/mcfaqView.do?mcfaq_seq=5890 ; https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=73274 ; https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=75774 . Source PDF remains outside repository under ../private/worksheets.
 
 22 automated tests pass, including corrected forms, regular exceptions, lesson scope, reachable prerequisites and no answer-revealing prompt audio. Production build 26ed84668e75 verifies all 242 clips. Earlier build attempted before synthesis finished correctly rejected missing audio; rebuilding after completion passes.
+
+## เครื่องผันกริยา — 2026-09-13
+
+นำแนวคิดลำดับขั้นจากไฟล์ `ผันกริยาเกาหลี-standalone.html` มาเขียนใหม่ในโครงแอพเดิม โดยไม่เผยแพร่ runtime และฟอนต์ที่ฝังในไฟล์ต้นฉบับขนาด 5.3 MB หน้าใหม่ดึงเฉพาะคำ กฎ รูปผัน แหล่งอ้างอิง และเสียงจากบทที่มีสถานะพร้อมทบทวน จึงเพิ่มตามบทเรียนในอนาคตโดยอัตโนมัติ ปัจจุบันมี 77 คำ กรองกฎพื้นฐาน/กฎเปลี่ยนรูป สลับระดับภาษาที่เคยเรียน สุ่มคำ และเปิดแบบฝึกของกฎเดียวกันได้
+
+ตรวจ UI จริงบนเดสก์ท็อปและ viewport 390 × 844: เลือกคำ เปลี่ยนจากรูปสุภาพเป็นทางการ และเปิดแบบฝึกที่กรองตรงบท/กฎสำเร็จ สถานะออฟไลน์รวมเสียงยังครบ โมดูลใหม่รวมอยู่ในรายการไฟล์ของ service worker และ 23 automated tests ผ่าน

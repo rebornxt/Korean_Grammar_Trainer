@@ -1,6 +1,6 @@
 # 한국어 · Korean review
 
-A Thai-language personal review app for the Udemy course **The Complete Korean Course for Beginners | 10 courses in 1!** Static HTML/CSS/JavaScript, no application dependencies or runtime API calls. The learner is restarting, already reads Hangul, and will report newly completed lectures. The shipping corpus now contains the learner’s Section 10–11 recap; future content is added only after a learning report.
+A Thai-language personal review app for the Udemy course **The Complete Korean Course for Beginners | 10 courses in 1!** Static HTML/CSS/JavaScript, no application dependencies or runtime API calls. The learner is restarting, already reads Hangul, and will report newly completed lectures. The shipping corpus contains the learner’s Section 10–12 recap; future content is added only after a learning report.
 
 ## Run
 
@@ -29,6 +29,8 @@ Open the app online and wait for **พร้อมใช้ออฟไลน์
 - `tools/`: content validation, release building, local Azure generation and a safe preview server.
 - `tests/`: synthetic fixtures and behavioral tests; never included in the website.
 
+The **ผันกริยา** page is generated from ready lessons at runtime. It shows only dictionary forms and conjugations that already have a validated exercise, rule, stable word ID and source in the shipping corpus. Selecting **ฝึกกฎนี้** opens the existing practice mode with the matching lesson and rule filter, so results continue to use the same score store.
+
 See [CONTENT.md](CONTENT.md) for the exact incremental authoring workflow and data fields. Use stable Udemy lecture IDs in lesson identifiers when available; visible lecture numbers are source locators, not permanent IDs. The section map records the 82 observed headings, not 733 fabricated lecture records.
 
 ## Audio
@@ -52,6 +54,6 @@ References used for the implementation: [Azure text-to-speech REST API](https://
 
 ## Verification
 
-`npm test` covers lesson/prerequisite gating, all answer types, backup validation, persistent IDs, recall decks, audio shortcut/playback, publish isolation and missing audio, plus repository-subpath caching, ranged MP3 responses, interrupted updates, quota errors, checksum mismatch and repair.
+`npm test` covers lesson/prerequisite gating, all answer types, backup validation, persistent IDs, recall decks, conjugation-lab scoping, audio shortcut/playback, publish isolation and missing audio, plus repository-subpath caching, ranged MP3 responses, interrupted updates, quota errors, checksum mismatch and repair.
 
-The first batch contains 7 recap units, 53 vocabulary entries, 22 rules, 123 exercises and 113 unique audio clips from the learner's Section 10–11 PDF. Only the covered topics are marked learned; this does not complete every lecture in either section. Test fixtures must stay in `tests/` or ignored `.cache/`. Physical iOS/Android installation and GitHub-hosted delivery should also be checked after a real repository is connected.
+The current release contains 16 recap units, 108 vocabulary entries, 263 exercises and 242 unique audio clips from the learner's Section 10–12 PDFs. Only the covered topics are marked learned; this does not complete every lecture in those sections. Test fixtures must stay in `tests/` or ignored `.cache/`. Physical iOS/Android installation should also be checked after publishing a new release.

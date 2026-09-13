@@ -51,6 +51,7 @@ export async function build(root = ROOT) {
     "style.css",
     "app.js",
     "core.js",
+    "conjugator.js",
     "manifest.webmanifest",
     "icon.svg",
     "icon-192.png",

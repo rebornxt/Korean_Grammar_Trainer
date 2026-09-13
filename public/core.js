@@ -31,7 +31,7 @@ export function validateState(s) {
   if (
     !record(s) ||
     s.schemaVersion !== 1 ||
-    !["lessons", "practice", "review"].includes(s.view) ||
+    !["lessons", "practice", "conjugator", "review"].includes(s.view) ||
     !record(s.filters) ||
     !record(s.scores) ||
     !record(s.words)
