@@ -36,6 +36,14 @@ Corrections: 낫다 → 나아요 (slides show 나요 and one 나다 label); 하
 
 22 automated tests pass, including corrected forms, regular exceptions, lesson scope, reachable prerequisites and no answer-revealing prompt audio. Production build 26ed84668e75 verifies all 242 clips. Earlier build attempted before synthesis finished correctly rejected missing audio; rebuilding after completion passes.
 
+## Section 13 — 2026-09-14
+
+Read all 19 pages of `Udemy korean recap_Section13_1.pdf` and all 3 pages across the two vocabulary worksheets visually. Added two explicitly learned sentence-formulation units: `~아요` (pages 1–10) and `~어요` (pages 11–19). The update adds 57 unique vocabulary entries and 155 exercises: 57 recall cards, 22 direct conjugation choices, 20 object-particle choices, and 56 sentence-order exercises. Twelve order exercises are marked `added: true` because they mix learned subjects, objects, and verbs beyond the source examples; every other exercise retains the source page. Duplicate `책` in the second worksheet is stored once.
+
+Generated 122 new `ko-KR-SunHiNeural` clips at -10% from 782 Korean characters. The shipping manifest now contains 364/364 clips, with no missing or malformed MP3 files. Azure Portal showed resource `Omlar` on the F0 Free tier and approximately 336.77k synthesized characters over the preceding 30 days before this generation; the chart showed activity only in September. Against the 500k monthly F0 allowance, the estimated post-generation balance is approximately 162.45k characters. Azure Monitor rounds the displayed figure and can report new synthesis with a delay.
+
+25 automated tests pass, including Section 13 publication, all three interaction types, explicit conjugations, source sentences, mix-and-match flags, audio inventory, offline caching, updates, and existing progress preservation. Production build `94e8984676c2` contains 18 learned/ready units, 165 words, 418 exercises, and 364 clips. Browser verification confirmed the two lesson cards, `펴다 → 펴요` in the conjugation lab, sentence ordering and answer reveal, clickable review audio, the `S` shortcut, and the complete offline status without console errors.
+
 ## เครื่องผันกริยา — 2026-09-13
 
 นำแนวคิดลำดับขั้นจากไฟล์ `ผันกริยาเกาหลี-standalone.html` มาเขียนใหม่ในโครงแอพเดิม โดยไม่เผยแพร่ runtime และฟอนต์ที่ฝังในไฟล์ต้นฉบับขนาด 5.3 MB หน้าใหม่ดึงเฉพาะคำ กฎ รูปผัน แหล่งอ้างอิง และเสียงจากบทที่มีสถานะพร้อมทบทวน จึงเพิ่มตามบทเรียนในอนาคตโดยอัตโนมัติ ปัจจุบันมี 77 คำ กรองกฎพื้นฐาน/กฎเปลี่ยนรูป สลับระดับภาษาที่เคยเรียน สุ่มคำ และเปิดแบบฝึกของกฎเดียวกันได้

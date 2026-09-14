@@ -1,6 +1,6 @@
 # 한국어 · Korean review
 
-A Thai-language personal review app for the Udemy course **The Complete Korean Course for Beginners | 10 courses in 1!** Static HTML/CSS/JavaScript, no application dependencies or runtime API calls. The learner is restarting, already reads Hangul, and will report newly completed lectures. The shipping corpus contains the learner’s Section 10–12 recap; future content is added only after a learning report.
+A Thai-language personal review app for the Udemy course **The Complete Korean Course for Beginners | 10 courses in 1!** Static HTML/CSS/JavaScript, no application dependencies or runtime API calls. The learner is restarting, already reads Hangul, and will report newly completed lectures. The shipping corpus contains the learner’s Section 10–13 recap; future content is added only after a learning report.
 
 ## Run
 
@@ -41,6 +41,7 @@ npm run audio:voices                # list Korean voices from configured region
 node tools/audio.mjs --sample       # three voice samples, outside the app
 node tools/audio.mjs --generate --limit 3
 node tools/audio.mjs --generate
+node tools/audio.mjs --generate --delay-ms 3100  # safe pace for an F0 resource
 npm run build
 ```
 
@@ -56,4 +57,4 @@ References used for the implementation: [Azure text-to-speech REST API](https://
 
 `npm test` covers lesson/prerequisite gating, all answer types, backup validation, persistent IDs, recall decks, conjugation-lab scoping, audio shortcut/playback, publish isolation and missing audio, plus repository-subpath caching, ranged MP3 responses, interrupted updates, quota errors, checksum mismatch and repair.
 
-The current release contains 16 recap units, 108 vocabulary entries, 263 exercises and 242 unique audio clips from the learner's Section 10–12 PDFs. Only the covered topics are marked learned; this does not complete every lecture in those sections. Test fixtures must stay in `tests/` or ignored `.cache/`. Physical iOS/Android installation should also be checked after publishing a new release.
+The current release contains 18 recap units, 165 vocabulary entries, 418 exercises and 364 unique audio clips from the learner's Section 10–13 PDFs. Only the covered topics are marked learned; this does not complete every lecture in those sections. Test fixtures must stay in `tests/` or ignored `.cache/`. Physical iOS/Android installation should also be checked after publishing a new release.

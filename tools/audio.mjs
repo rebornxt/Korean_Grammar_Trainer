@@ -10,6 +10,10 @@ import {
 } from "./lib.mjs";
 const args = process.argv.slice(2),
   c = validateContent(await loadContent());
+const delayIndex = args.indexOf("--delay-ms");
+const delayMs = delayIndex >= 0 ? Number(args[delayIndex + 1]) : 0;
+if (!Number.isInteger(delayMs) || delayMs < 0)
+  throw Error("--delay-ms must be a non-negative integer");
 async function exists(p) {
   try {
     return (await stat(p)).size > 100;
@@ -154,6 +158,8 @@ try {
         await writeFile(path + ".tmp", bytes);
         await rename(path + ".tmp", path);
         console.log(`${i + 1}/${items.length}: ${path}`);
+        if (delayMs && i < items.length - 1)
+          await new Promise((resolveDelay) => setTimeout(resolveDelay, delayMs));
       }
       if (sample)
         await writeFile(
@@ -168,7 +174,7 @@ try {
     }
   } else
     console.log(
-      "Usage: node tools/audio.mjs --check | --voices | --sample | --generate [--limit N]",
+      "Usage: node tools/audio.mjs --check | --voices | --sample | --generate [--limit N] [--delay-ms N]",
     );
 } catch (e) {
   console.error(e.message);

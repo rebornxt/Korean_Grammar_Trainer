@@ -16,7 +16,9 @@
     "s12-s",
     "s12-eu",
     "s12-reu",
-    "s12-h"
+    "s12-h",
+    "s13-sentence-ayo",
+    "s13-sentence-eoyo"
   ],
-  "note": "Only the seven topics documented in learner-supplied Udemy korean recap_Section10_11.pdf; not completion of all Section 10/11 lectures or earlier sections. Hangul reading already known. Added only topics documented in Section11end PDF. Section12 PDF: six documented conjugation groups only."
+  "note": "Only the topics documented in learner-supplied recap files are marked learned; this does not imply completion of every Udemy lecture. Hangul reading already known. Section 13 adds the documented ~아요/~어요 sentence-formulation lessons and their two vocabulary worksheets."
 }

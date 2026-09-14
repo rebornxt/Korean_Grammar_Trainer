@@ -1,0 +1,2906 @@
+{
+  "id": "s13-sentence-eoyo",
+  "sectionId": "section-13",
+  "title": "13 · สร้างประโยคด้วย ~어요",
+  "status": "ready",
+  "source": {
+    "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+    "label": "Udemy korean recap_Section13_1.pdf",
+    "locator": "หน้า 11–19",
+    "kind": "learner-recap"
+  },
+  "notes": "ถอดเนื้อหาจาก recap และ worksheet คำศัพท์ Lesson 2; ตัด 책 ที่ซ้ำในรายการคำศัพท์หนึ่งรายการ แบบฝึกที่มี added: true เป็นชุดผสมคำที่เขียนเพิ่มจากคำและกฎที่เรียนแล้ว",
+  "words": [
+    {
+      "id": "s13b-word-01",
+      "ko": "불",
+      "th": "ไฟ / แสงไฟ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-02",
+      "ko": "영어",
+      "th": "ภาษาอังกฤษ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-03",
+      "ko": "돈",
+      "th": "เงิน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-04",
+      "ko": "강아지",
+      "th": "ลูกสุนัข",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-05",
+      "ko": "형",
+      "th": "พี่ชาย (ผู้ชายใช้เรียก)",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-06",
+      "ko": "사진",
+      "th": "รูปถ่าย",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-07",
+      "ko": "찍다",
+      "th": "ถ่าย (รูป)",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-08",
+      "ko": "무게",
+      "th": "น้ำหนัก",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-09",
+      "ko": "재다",
+      "th": "วัด",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-10",
+      "ko": "삼촌",
+      "th": "ลุง / น้า / อา",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-11",
+      "ko": "선물",
+      "th": "ของขวัญ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-12",
+      "ko": "펴다",
+      "th": "เปิด / กาง (หนังสือ)",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-13",
+      "ko": "고양이",
+      "th": "แมว",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-14",
+      "ko": "아이들",
+      "th": "เด็ก ๆ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-15",
+      "ko": "오빠",
+      "th": "พี่ชาย (ผู้หญิงใช้เรียก)",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-16",
+      "ko": "신문",
+      "th": "หนังสือพิมพ์",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-17",
+      "ko": "종이",
+      "th": "กระดาษ",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-18",
+      "ko": "졸업사진",
+      "th": "รูปถ่ายวันจบการศึกษา",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-19",
+      "ko": "키",
+      "th": "ส่วนสูง",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-20",
+      "ko": "편지",
+      "th": "จดหมาย",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-21",
+      "ko": "중국어",
+      "th": "ภาษาจีน",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-22",
+      "ko": "라이터",
+      "th": "ไฟแช็ก",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-word-23",
+      "ko": "열다",
+      "th": "เปิด",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-word-24",
+      "ko": "냉장고",
+      "th": "ตู้เย็น",
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 17",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "rules": [
+    {
+      "id": "s13b-rule-batchim-eo",
+      "title": "สระอื่น + 받침: เติม 어요",
+      "topic": "endings",
+      "explanation": "เมื่อรากคำมีตัวสะกดและสระสุดท้ายไม่ใช่ ㅏ หรือ ㅗ ให้เติม 어요 เช่น 먹다 → 먹어요, 열다 → 열어요 และ 찍다 → 찍어요",
+      "examples": [
+        {
+          "ko": "먹어요",
+          "th": "먹다 → 먹어요 · กิน",
+          "wordIds": [
+            "s10-11-word-022"
+          ]
+        },
+        {
+          "ko": "열어요",
+          "th": "열다 → 열어요 · เปิด",
+          "wordIds": [
+            "s13b-word-23"
+          ]
+        },
+        {
+          "ko": "찍어요",
+          "th": "찍다 → 찍어요 · ถ่าย (รูป)",
+          "wordIds": [
+            "s13b-word-07"
+          ]
+        },
+        {
+          "ko": "읽어요",
+          "th": "읽다 → 읽어요 · อ่าน",
+          "wordIds": [
+            "s10-11-word-025"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-rule-open-eo",
+      "title": "ㅐ / ㅓ / ㅕ ไม่มี 받침: เติม 요",
+      "topic": "endings",
+      "explanation": "เมื่อรากคำลงท้ายด้วย ㅐ, ㅓ หรือ ㅕ และไม่มีตัวสะกด เสียง 어 มีอยู่ในพยางค์แล้ว จึงเติมเพียง 요 เช่น 켜다 → 켜요, 세다 → 세요",
+      "examples": [
+        {
+          "ko": "켜요",
+          "th": "켜다 → 켜요 · เปิดไฟ",
+          "wordIds": [
+            "s10-11-word-042"
+          ]
+        },
+        {
+          "ko": "세요",
+          "th": "세다 → 세요 · นับ",
+          "wordIds": [
+            "s10-11-word-040"
+          ]
+        },
+        {
+          "ko": "재요",
+          "th": "재다 → 재요 · วัด",
+          "wordIds": [
+            "s13b-word-09"
+          ]
+        },
+        {
+          "ko": "펴요",
+          "th": "펴다 → 펴요 · เปิด / กาง",
+          "wordIds": [
+            "s13b-word-12"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-rule-u-contract",
+      "title": "ㅜ ไม่มี 받침: รวมเป็น ㅝ요",
+      "topic": "endings",
+      "explanation": "ถ้ารากคำลงท้ายด้วย ㅜ และไม่มีตัวสะกด เมื่อต่อ 어요 จะรวม ㅜ + ㅓ เป็น ㅝ เช่น 주다 → 줘요 และ 배우다 → 배워요",
+      "examples": [
+        {
+          "ko": "줘요",
+          "th": "주다 → 줘요 · ให้",
+          "wordIds": [
+            "s10-11-word-047"
+          ]
+        },
+        {
+          "ko": "배워요",
+          "th": "배우다 → 배워요 · เรียน",
+          "wordIds": [
+            "s10-11-word-045"
+          ]
+        },
+        {
+          "ko": "키워요",
+          "th": "키우다 → 키워요 · เลี้ยง",
+          "wordIds": [
+            "s10-11-word-044"
+          ]
+        }
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "s13b-recall-01",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ไฟ / แสงไฟ",
+      "answerText": "불",
+      "explanation": "불 แปลว่า ไฟ / แสงไฟ",
+      "wordId": "s13b-word-01",
+      "requires": [
+        "s13b-word-01"
+      ],
+      "wordIds": [
+        "s13b-word-01"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-02",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ภาษาอังกฤษ",
+      "answerText": "영어",
+      "explanation": "영어 แปลว่า ภาษาอังกฤษ",
+      "wordId": "s13b-word-02",
+      "requires": [
+        "s13b-word-02"
+      ],
+      "wordIds": [
+        "s13b-word-02"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-03",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เงิน",
+      "answerText": "돈",
+      "explanation": "돈 แปลว่า เงิน",
+      "wordId": "s13b-word-03",
+      "requires": [
+        "s13b-word-03"
+      ],
+      "wordIds": [
+        "s13b-word-03"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-04",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ลูกสุนัข",
+      "answerText": "강아지",
+      "explanation": "강아지 แปลว่า ลูกสุนัข",
+      "wordId": "s13b-word-04",
+      "requires": [
+        "s13b-word-04"
+      ],
+      "wordIds": [
+        "s13b-word-04"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-05",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "พี่ชาย (ผู้ชายใช้เรียก)",
+      "answerText": "형",
+      "explanation": "형 แปลว่า พี่ชาย (ผู้ชายใช้เรียก)",
+      "wordId": "s13b-word-05",
+      "requires": [
+        "s13b-word-05"
+      ],
+      "wordIds": [
+        "s13b-word-05"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-06",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "รูปถ่าย",
+      "answerText": "사진",
+      "explanation": "사진 แปลว่า รูปถ่าย",
+      "wordId": "s13b-word-06",
+      "requires": [
+        "s13b-word-06"
+      ],
+      "wordIds": [
+        "s13b-word-06"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-07",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ถ่าย (รูป)",
+      "answerText": "찍다",
+      "explanation": "찍다 แปลว่า ถ่าย (รูป)",
+      "wordId": "s13b-word-07",
+      "requires": [
+        "s13b-word-07"
+      ],
+      "wordIds": [
+        "s13b-word-07"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-08",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "น้ำหนัก",
+      "answerText": "무게",
+      "explanation": "무게 แปลว่า น้ำหนัก",
+      "wordId": "s13b-word-08",
+      "requires": [
+        "s13b-word-08"
+      ],
+      "wordIds": [
+        "s13b-word-08"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-09",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "วัด",
+      "answerText": "재다",
+      "explanation": "재다 แปลว่า วัด",
+      "wordId": "s13b-word-09",
+      "requires": [
+        "s13b-word-09"
+      ],
+      "wordIds": [
+        "s13b-word-09"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-10",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ลุง / น้า / อา",
+      "answerText": "삼촌",
+      "explanation": "삼촌 แปลว่า ลุง / น้า / อา",
+      "wordId": "s13b-word-10",
+      "requires": [
+        "s13b-word-10"
+      ],
+      "wordIds": [
+        "s13b-word-10"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-11",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ของขวัญ",
+      "answerText": "선물",
+      "explanation": "선물 แปลว่า ของขวัญ",
+      "wordId": "s13b-word-11",
+      "requires": [
+        "s13b-word-11"
+      ],
+      "wordIds": [
+        "s13b-word-11"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-12",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เปิด / กาง (หนังสือ)",
+      "answerText": "펴다",
+      "explanation": "펴다 แปลว่า เปิด / กาง (หนังสือ)",
+      "wordId": "s13b-word-12",
+      "requires": [
+        "s13b-word-12"
+      ],
+      "wordIds": [
+        "s13b-word-12"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-13",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "แมว",
+      "answerText": "고양이",
+      "explanation": "고양이 แปลว่า แมว",
+      "wordId": "s13b-word-13",
+      "requires": [
+        "s13b-word-13"
+      ],
+      "wordIds": [
+        "s13b-word-13"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-14",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เด็ก ๆ",
+      "answerText": "아이들",
+      "explanation": "아이들 แปลว่า เด็ก ๆ",
+      "wordId": "s13b-word-14",
+      "requires": [
+        "s13b-word-14"
+      ],
+      "wordIds": [
+        "s13b-word-14"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-15",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "พี่ชาย (ผู้หญิงใช้เรียก)",
+      "answerText": "오빠",
+      "explanation": "오빠 แปลว่า พี่ชาย (ผู้หญิงใช้เรียก)",
+      "wordId": "s13b-word-15",
+      "requires": [
+        "s13b-word-15"
+      ],
+      "wordIds": [
+        "s13b-word-15"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-16",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "หนังสือพิมพ์",
+      "answerText": "신문",
+      "explanation": "신문 แปลว่า หนังสือพิมพ์",
+      "wordId": "s13b-word-16",
+      "requires": [
+        "s13b-word-16"
+      ],
+      "wordIds": [
+        "s13b-word-16"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-17",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "กระดาษ",
+      "answerText": "종이",
+      "explanation": "종이 แปลว่า กระดาษ",
+      "wordId": "s13b-word-17",
+      "requires": [
+        "s13b-word-17"
+      ],
+      "wordIds": [
+        "s13b-word-17"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-18",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "รูปถ่ายวันจบการศึกษา",
+      "answerText": "졸업사진",
+      "explanation": "졸업사진 แปลว่า รูปถ่ายวันจบการศึกษา",
+      "wordId": "s13b-word-18",
+      "requires": [
+        "s13b-word-18"
+      ],
+      "wordIds": [
+        "s13b-word-18"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-19",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ส่วนสูง",
+      "answerText": "키",
+      "explanation": "키 แปลว่า ส่วนสูง",
+      "wordId": "s13b-word-19",
+      "requires": [
+        "s13b-word-19"
+      ],
+      "wordIds": [
+        "s13b-word-19"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-20",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "จดหมาย",
+      "answerText": "편지",
+      "explanation": "편지 แปลว่า จดหมาย",
+      "wordId": "s13b-word-20",
+      "requires": [
+        "s13b-word-20"
+      ],
+      "wordIds": [
+        "s13b-word-20"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-21",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ภาษาจีน",
+      "answerText": "중국어",
+      "explanation": "중국어 แปลว่า ภาษาจีน",
+      "wordId": "s13b-word-21",
+      "requires": [
+        "s13b-word-21"
+      ],
+      "wordIds": [
+        "s13b-word-21"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-22",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ไฟแช็ก",
+      "answerText": "라이터",
+      "explanation": "라이터 แปลว่า ไฟแช็ก",
+      "wordId": "s13b-word-22",
+      "requires": [
+        "s13b-word-22"
+      ],
+      "wordIds": [
+        "s13b-word-22"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Sentence+Practice+Lesson+2+WS.pdf",
+        "locator": "หน้า 1",
+        "kind": "course-worksheet"
+      }
+    },
+    {
+      "id": "s13b-recall-23",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "เปิด",
+      "answerText": "열다",
+      "explanation": "열다 แปลว่า เปิด",
+      "wordId": "s13b-word-23",
+      "requires": [
+        "s13b-word-23"
+      ],
+      "wordIds": [
+        "s13b-word-23"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-recall-24",
+      "type": "recall",
+      "topic": "vocabulary",
+      "prompt": "ตู้เย็น",
+      "answerText": "냉장고",
+      "explanation": "냉장고 แปลว่า ตู้เย็น",
+      "wordId": "s13b-word-24",
+      "requires": [
+        "s13b-word-24"
+      ],
+      "wordIds": [
+        "s13b-word-24"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 17",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-01",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "열다 · เปิด\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "열어요"
+        },
+        {
+          "id": "formal",
+          "text": "엽니다"
+        },
+        {
+          "id": "casual",
+          "text": "열어"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "열어요",
+      "explanation": "열다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 열어요",
+      "requires": [
+        "s13b-word-23",
+        "s13b-rule-batchim-eo"
+      ],
+      "wordIds": [
+        "s13b-word-23"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-02",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "먹다 · กิน\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "먹어요"
+        },
+        {
+          "id": "formal",
+          "text": "먹습니다"
+        },
+        {
+          "id": "casual",
+          "text": "먹어"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "먹어요",
+      "explanation": "먹다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 먹어요",
+      "requires": [
+        "s10-11-word-022",
+        "s13b-rule-batchim-eo"
+      ],
+      "wordIds": [
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-03",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "켜다 · เปิดไฟหรือเปิดเครื่อง\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "켜요"
+        },
+        {
+          "id": "formal",
+          "text": "켭니다"
+        },
+        {
+          "id": "casual",
+          "text": "켜"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "켜요",
+      "explanation": "켜다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 켜요",
+      "requires": [
+        "s10-11-word-042",
+        "s13b-rule-open-eo"
+      ],
+      "wordIds": [
+        "s10-11-word-042"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-04",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "배우다 · เรียนรู้\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "배워요"
+        },
+        {
+          "id": "formal",
+          "text": "배웁니다"
+        },
+        {
+          "id": "casual",
+          "text": "배워"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "배워요",
+      "explanation": "배우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 배워요",
+      "requires": [
+        "s10-11-word-045",
+        "s13b-rule-u-contract"
+      ],
+      "wordIds": [
+        "s10-11-word-045"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-05",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "세다 · นับ — ความหมายในตัวอย่างนี้\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "세요"
+        },
+        {
+          "id": "formal",
+          "text": "셉니다"
+        },
+        {
+          "id": "casual",
+          "text": "세"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "세요",
+      "explanation": "세다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 세요",
+      "requires": [
+        "s10-11-word-040",
+        "s13b-rule-open-eo"
+      ],
+      "wordIds": [
+        "s10-11-word-040"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-06",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "키우다 · เลี้ยง / ทำให้เติบโต\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "키워요"
+        },
+        {
+          "id": "formal",
+          "text": "키웁니다"
+        },
+        {
+          "id": "casual",
+          "text": "키워"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "키워요",
+      "explanation": "키우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 키워요",
+      "requires": [
+        "s10-11-word-044",
+        "s13b-rule-u-contract"
+      ],
+      "wordIds": [
+        "s10-11-word-044"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-07",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "찍다 · ถ่าย (รูป)\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "찍어요"
+        },
+        {
+          "id": "formal",
+          "text": "찍습니다"
+        },
+        {
+          "id": "casual",
+          "text": "찍어"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "찍어요",
+      "explanation": "찍다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 찍어요",
+      "requires": [
+        "s13b-word-07",
+        "s13b-rule-batchim-eo"
+      ],
+      "wordIds": [
+        "s13b-word-07"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-08",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "재다 · วัด\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "재요"
+        },
+        {
+          "id": "formal",
+          "text": "잽니다"
+        },
+        {
+          "id": "casual",
+          "text": "재"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "재요",
+      "explanation": "재다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 재요",
+      "requires": [
+        "s13b-word-09",
+        "s13b-rule-open-eo"
+      ],
+      "wordIds": [
+        "s13b-word-09"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-09",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "읽다 · อ่าน\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "읽어요"
+        },
+        {
+          "id": "formal",
+          "text": "읽습니다"
+        },
+        {
+          "id": "casual",
+          "text": "읽어"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "읽어요",
+      "explanation": "읽다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 읽어요",
+      "requires": [
+        "s10-11-word-025",
+        "s13b-rule-batchim-eo"
+      ],
+      "wordIds": [
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-10",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "주다 · ให้\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "줘요"
+        },
+        {
+          "id": "formal",
+          "text": "줍니다"
+        },
+        {
+          "id": "casual",
+          "text": "줘"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "줘요",
+      "explanation": "주다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 줘요",
+      "requires": [
+        "s10-11-word-047",
+        "s13b-rule-u-contract"
+      ],
+      "wordIds": [
+        "s10-11-word-047"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-conj-11",
+      "type": "choice",
+      "topic": "endings",
+      "prompt": "펴다 · เปิด / กาง (หนังสือ)\nเลือกรูปสุภาพปัจจุบันที่ใช้ในประโยค",
+      "options": [
+        {
+          "id": "polite",
+          "text": "펴요"
+        },
+        {
+          "id": "formal",
+          "text": "폅니다"
+        },
+        {
+          "id": "casual",
+          "text": "펴"
+        }
+      ],
+      "answer": "polite",
+      "answerText": "펴요",
+      "explanation": "펴다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 펴요",
+      "requires": [
+        "s13b-word-12",
+        "s13b-rule-open-eo"
+      ],
+      "wordIds": [
+        "s13b-word-12"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-01",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 저는 문__ 열어요.",
+      "translation": "ฉันเปิดประตู",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "eul",
+      "answerText": "저는 문을 열어요.",
+      "explanation": "문 ลงท้ายด้วย 받침 จึงใช้ 을 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s10-11-word-001",
+        "s13a-word-11",
+        "s13b-word-23"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s13a-word-11",
+        "s13b-word-23"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-02",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 학생들은 빵__ 먹어요.",
+      "translation": "นักเรียนกินขนมปัง",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "eul",
+      "answerText": "학생들은 빵을 먹어요.",
+      "explanation": "빵 ลงท้ายด้วย 받침 จึงใช้ 을 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s10-11-word-019",
+        "s11end-word-54",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-019",
+        "s11end-word-54",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-03",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 저는 불__ 켜요.",
+      "translation": "ฉันเปิดไฟ",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "eul",
+      "answerText": "저는 불을 켜요.",
+      "explanation": "불 ลงท้ายด้วย 받침 จึงใช้ 을 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s10-11-word-001",
+        "s13b-word-01",
+        "s10-11-word-042"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s13b-word-01",
+        "s10-11-word-042"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-04",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 민수는 영어__ 배워요.",
+      "translation": "มินซูเรียนภาษาอังกฤษ",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "reul",
+      "answerText": "민수는 영어를 배워요.",
+      "explanation": "영어 ไม่มี 받침 จึงใช้ 를 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s13b-word-02",
+        "s10-11-word-045"
+      ],
+      "wordIds": [
+        "s13b-word-02",
+        "s10-11-word-045"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-05",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 종업원은 돈__ 세요.",
+      "translation": "พนักงานนับเงิน",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "eul",
+      "answerText": "종업원은 돈을 세요.",
+      "explanation": "돈 ลงท้ายด้วย 받침 จึงใช้ 을 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s13a-word-25",
+        "s13b-word-03",
+        "s10-11-word-040"
+      ],
+      "wordIds": [
+        "s13a-word-25",
+        "s13b-word-03",
+        "s10-11-word-040"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-06",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 선생님은 강아지__ 키워요.",
+      "translation": "คุณครูเลี้ยงลูกสุนัข",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "reul",
+      "answerText": "선생님은 강아지를 키워요.",
+      "explanation": "강아지 ไม่มี 받침 จึงใช้ 를 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s10-11-word-009",
+        "s13b-word-04",
+        "s10-11-word-044"
+      ],
+      "wordIds": [
+        "s10-11-word-009",
+        "s13b-word-04",
+        "s10-11-word-044"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-07",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 형은 사진__ 찍어요.",
+      "translation": "พี่ชายถ่ายรูป",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "eul",
+      "answerText": "형은 사진을 찍어요.",
+      "explanation": "사진 ลงท้ายด้วย 받침 จึงใช้ 을 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s13b-word-05",
+        "s13b-word-06",
+        "s13b-word-07"
+      ],
+      "wordIds": [
+        "s13b-word-05",
+        "s13b-word-06",
+        "s13b-word-07"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-08",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 저는 무게__ 재요.",
+      "translation": "ฉันวัดน้ำหนัก",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "reul",
+      "answerText": "저는 무게를 재요.",
+      "explanation": "무게 ไม่มี 받침 จึงใช้ 를 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s10-11-word-001",
+        "s13b-word-08",
+        "s13b-word-09"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s13b-word-08",
+        "s13b-word-09"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-09",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 언니는 책__ 읽어요.",
+      "translation": "พี่สาวอ่านหนังสือ",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "eul",
+      "answerText": "언니는 책을 읽어요.",
+      "explanation": "책 ลงท้ายด้วย 받침 จึงใช้ 을 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s13a-word-23",
+        "s11end-word-60",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s13a-word-23",
+        "s11end-word-60",
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-particle-10",
+      "type": "choice",
+      "topic": "particles",
+      "prompt": "เลือกคำช่วยกรรม: 삼촌은 선물__ 줘요.",
+      "translation": "คุณอาให้ของขวัญ",
+      "options": [
+        {
+          "id": "eul",
+          "text": "을"
+        },
+        {
+          "id": "reul",
+          "text": "를"
+        }
+      ],
+      "answer": "eul",
+      "answerText": "삼촌은 선물을 줘요.",
+      "explanation": "선물 ลงท้ายด้วย 받침 จึงใช้ 을 แล้ววางกริยาไว้ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s13b-word-10",
+        "s13b-word-11",
+        "s10-11-word-047"
+      ],
+      "wordIds": [
+        "s13b-word-10",
+        "s13b-word-11",
+        "s10-11-word-047"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14–16",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-01",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: ฉันเปิดประตู",
+      "translation": "ฉันเปิดประตู",
+      "chunks": [
+        "저는",
+        "문을",
+        "열어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "저는 문을 열어요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 문을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s10-11-word-001",
+        "s13a-word-11",
+        "s13b-word-23"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s13a-word-11",
+        "s13b-word-23"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-02",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: นักเรียนกินขนมปัง",
+      "translation": "นักเรียนกินขนมปัง",
+      "chunks": [
+        "학생들은",
+        "빵을",
+        "먹어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "학생들은 빵을 먹어요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 빵을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s10-11-word-019",
+        "s11end-word-54",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s10-11-word-019",
+        "s11end-word-54",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-03",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: ฉันเปิดไฟ",
+      "translation": "ฉันเปิดไฟ",
+      "chunks": [
+        "저는",
+        "불을",
+        "켜요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "저는 불을 켜요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 불을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s10-11-word-001",
+        "s13b-word-01",
+        "s10-11-word-042"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s13b-word-01",
+        "s10-11-word-042"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 12",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-04",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: มินซูเรียนภาษาอังกฤษ",
+      "translation": "มินซูเรียนภาษาอังกฤษ",
+      "chunks": [
+        "민수는",
+        "영어를",
+        "배워요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "민수는 영어를 배워요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 영어를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s13b-word-02",
+        "s10-11-word-045"
+      ],
+      "wordIds": [
+        "s13b-word-02",
+        "s10-11-word-045"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 12",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-05",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: พนักงานนับเงิน",
+      "translation": "พนักงานนับเงิน",
+      "chunks": [
+        "종업원은",
+        "돈을",
+        "세요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "종업원은 돈을 세요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 돈을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s13a-word-25",
+        "s13b-word-03",
+        "s10-11-word-040"
+      ],
+      "wordIds": [
+        "s13a-word-25",
+        "s13b-word-03",
+        "s10-11-word-040"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 12",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-06",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: คุณครูเลี้ยงลูกสุนัข",
+      "translation": "คุณครูเลี้ยงลูกสุนัข",
+      "chunks": [
+        "선생님은",
+        "강아지를",
+        "키워요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "선생님은 강아지를 키워요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 강아지를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s10-11-word-009",
+        "s13b-word-04",
+        "s10-11-word-044"
+      ],
+      "wordIds": [
+        "s10-11-word-009",
+        "s13b-word-04",
+        "s10-11-word-044"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 12",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-07",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: พี่ชายถ่ายรูป",
+      "translation": "พี่ชายถ่ายรูป",
+      "chunks": [
+        "형은",
+        "사진을",
+        "찍어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "형은 사진을 찍어요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 사진을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s13b-word-05",
+        "s13b-word-06",
+        "s13b-word-07"
+      ],
+      "wordIds": [
+        "s13b-word-05",
+        "s13b-word-06",
+        "s13b-word-07"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 13",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-08",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: ฉันวัดน้ำหนัก",
+      "translation": "ฉันวัดน้ำหนัก",
+      "chunks": [
+        "저는",
+        "무게를",
+        "재요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "저는 무게를 재요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 무게를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s10-11-word-001",
+        "s13b-word-08",
+        "s13b-word-09"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s13b-word-08",
+        "s13b-word-09"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 13",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-09",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: พี่สาวอ่านหนังสือ",
+      "translation": "พี่สาวอ่านหนังสือ",
+      "chunks": [
+        "언니는",
+        "책을",
+        "읽어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "언니는 책을 읽어요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 책을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s13a-word-23",
+        "s11end-word-60",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s13a-word-23",
+        "s11end-word-60",
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 13",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-10",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: คุณอาให้ของขวัญ",
+      "translation": "คุณอาให้ของขวัญ",
+      "chunks": [
+        "삼촌은",
+        "선물을",
+        "줘요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "삼촌은 선물을 줘요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 선물을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s13b-word-10",
+        "s13b-word-11",
+        "s10-11-word-047"
+      ],
+      "wordIds": [
+        "s13b-word-10",
+        "s13b-word-11",
+        "s10-11-word-047"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 13",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-11",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: คุณครูเปิดหนังสือ",
+      "translation": "คุณครูเปิดหนังสือ",
+      "chunks": [
+        "선생님은",
+        "책을",
+        "펴요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "선생님은 책을 펴요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 책을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s10-11-word-009",
+        "s11end-word-60",
+        "s13b-word-12"
+      ],
+      "wordIds": [
+        "s10-11-word-009",
+        "s11end-word-60",
+        "s13b-word-12"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 14",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-12",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: พ่อเปิดตู้เย็น",
+      "translation": "พ่อเปิดตู้เย็น",
+      "chunks": [
+        "아빠는",
+        "냉장고를",
+        "열어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "아빠는 냉장고를 열어요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 냉장고를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s13a-word-29",
+        "s13b-word-24",
+        "s13b-word-23"
+      ],
+      "wordIds": [
+        "s13a-word-29",
+        "s13b-word-24",
+        "s13b-word-23"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 17",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-13",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: จินซูเลี้ยงแมว",
+      "translation": "จินซูเลี้ยงแมว",
+      "chunks": [
+        "진수는",
+        "고양이를",
+        "키워요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "진수는 고양이를 키워요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 고양이를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s13b-word-13",
+        "s10-11-word-044"
+      ],
+      "wordIds": [
+        "s13b-word-13",
+        "s10-11-word-044"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 17",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-14",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: เด็ก ๆ กินพิซซ่า",
+      "translation": "เด็ก ๆ กินพิซซ่า",
+      "chunks": [
+        "아이들은",
+        "피자를",
+        "먹어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "아이들은 피자를 먹어요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 피자를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s13b-word-14",
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "wordIds": [
+        "s13b-word-14",
+        "s10-11-word-016",
+        "s10-11-word-022"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 17",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-15",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: พ่อให้เงิน",
+      "translation": "พ่อให้เงิน",
+      "chunks": [
+        "아빠는",
+        "돈을",
+        "줘요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "아빠는 돈을 줘요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 돈을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s13a-word-29",
+        "s13b-word-03",
+        "s10-11-word-047"
+      ],
+      "wordIds": [
+        "s13a-word-29",
+        "s13b-word-03",
+        "s10-11-word-047"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 18",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-16",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: พี่ชายเปิดหนังสือพิมพ์",
+      "translation": "พี่ชายเปิดหนังสือพิมพ์",
+      "chunks": [
+        "오빠는",
+        "신문을",
+        "펴요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "오빠는 신문을 펴요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 신문을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s13b-word-15",
+        "s13b-word-16",
+        "s13b-word-12"
+      ],
+      "wordIds": [
+        "s13b-word-15",
+        "s13b-word-16",
+        "s13b-word-12"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 18",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-17",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: คุณอานับกระดาษ",
+      "translation": "คุณอานับกระดาษ",
+      "chunks": [
+        "삼촌은",
+        "종이를",
+        "세요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "삼촌은 종이를 세요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 종이를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s13b-word-10",
+        "s13b-word-17",
+        "s10-11-word-040"
+      ],
+      "wordIds": [
+        "s13b-word-10",
+        "s13b-word-17",
+        "s10-11-word-040"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 18",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-18",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: ฉันถ่ายรูปวันจบการศึกษา",
+      "translation": "ฉันถ่ายรูปวันจบการศึกษา",
+      "chunks": [
+        "저는",
+        "졸업사진을",
+        "찍어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "저는 졸업사진을 찍어요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 졸업사진을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s10-11-word-001",
+        "s13b-word-18",
+        "s13b-word-07"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s13b-word-18",
+        "s13b-word-07"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 18",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-19",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: ซูจีวัดส่วนสูง",
+      "translation": "ซูจีวัดส่วนสูง",
+      "chunks": [
+        "수지는",
+        "키를",
+        "재요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "수지는 키를 재요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 키를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s13b-word-19",
+        "s13b-word-09"
+      ],
+      "wordIds": [
+        "s13b-word-19",
+        "s13b-word-09"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 19",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-20",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: แม่อ่านจดหมาย",
+      "translation": "แม่อ่านจดหมาย",
+      "chunks": [
+        "엄마는",
+        "편지를",
+        "읽어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "엄마는 편지를 읽어요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 편지를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s13a-word-10",
+        "s13b-word-20",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s13a-word-10",
+        "s13b-word-20",
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 19",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-21",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: ฉันเรียนภาษาจีน",
+      "translation": "ฉันเรียนภาษาจีน",
+      "chunks": [
+        "저는",
+        "중국어를",
+        "배워요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "저는 중국어를 배워요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 중국어를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s10-11-word-001",
+        "s13b-word-21",
+        "s10-11-word-045"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s13b-word-21",
+        "s10-11-word-045"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 19",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-source-22",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: มีนาเปิดไฟแช็ก",
+      "translation": "มีนาเปิดไฟแช็ก",
+      "chunks": [
+        "미나는",
+        "라이터를",
+        "켜요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "미나는 라이터를 켜요.",
+      "explanation": "ตามแบบฝึก วางประธาน + 라이터를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s13b-word-22",
+        "s10-11-word-042"
+      ],
+      "wordIds": [
+        "s13b-word-22",
+        "s10-11-word-042"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 19",
+        "kind": "learner-recap"
+      }
+    },
+    {
+      "id": "s13b-order-mix-01",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: ฉันถ่ายรูป",
+      "translation": "ฉันถ่ายรูป",
+      "chunks": [
+        "저는",
+        "사진을",
+        "찍어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "저는 사진을 찍어요.",
+      "explanation": "แบบฝึกผสมคำที่เรียนแล้ว ใช้ประธาน + 사진을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s10-11-word-001",
+        "s13b-word-06",
+        "s13b-word-07"
+      ],
+      "wordIds": [
+        "s10-11-word-001",
+        "s13b-word-06",
+        "s13b-word-07"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11 และไฟล์คำศัพท์ · แบบฝึกผสมที่เขียนเพิ่ม",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s13b-order-mix-02",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: แม่เปิดหนังสือ",
+      "translation": "แม่เปิดหนังสือ",
+      "chunks": [
+        "엄마는",
+        "책을",
+        "펴요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "엄마는 책을 펴요.",
+      "explanation": "แบบฝึกผสมคำที่เรียนแล้ว ใช้ประธาน + 책을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s13a-word-10",
+        "s11end-word-60",
+        "s13b-word-12"
+      ],
+      "wordIds": [
+        "s13a-word-10",
+        "s11end-word-60",
+        "s13b-word-12"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11 และไฟล์คำศัพท์ · แบบฝึกผสมที่เขียนเพิ่ม",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s13b-order-mix-03",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: พี่ชายอ่านหนังสือพิมพ์",
+      "translation": "พี่ชายอ่านหนังสือพิมพ์",
+      "chunks": [
+        "형은",
+        "신문을",
+        "읽어요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "형은 신문을 읽어요.",
+      "explanation": "แบบฝึกผสมคำที่เรียนแล้ว ใช้ประธาน + 신문을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-batchim-eo",
+        "s13b-word-05",
+        "s13b-word-16",
+        "s10-11-word-025"
+      ],
+      "wordIds": [
+        "s13b-word-05",
+        "s13b-word-16",
+        "s10-11-word-025"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11 และไฟล์คำศัพท์ · แบบฝึกผสมที่เขียนเพิ่ม",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s13b-order-mix-04",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: มินซูนับเงิน",
+      "translation": "มินซูนับเงิน",
+      "chunks": [
+        "민수는",
+        "돈을",
+        "세요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "민수는 돈을 세요.",
+      "explanation": "แบบฝึกผสมคำที่เรียนแล้ว ใช้ประธาน + 돈을 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-open-eo",
+        "s13b-word-03",
+        "s10-11-word-040"
+      ],
+      "wordIds": [
+        "s13b-word-03",
+        "s10-11-word-040"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11 และไฟล์คำศัพท์ · แบบฝึกผสมที่เขียนเพิ่ม",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s13b-order-mix-05",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: ซูจีเลี้ยงลูกสุนัข",
+      "translation": "ซูจีเลี้ยงลูกสุนัข",
+      "chunks": [
+        "수지는",
+        "강아지를",
+        "키워요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "수지는 강아지를 키워요.",
+      "explanation": "แบบฝึกผสมคำที่เรียนแล้ว ใช้ประธาน + 강아지를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s13b-word-04",
+        "s10-11-word-044"
+      ],
+      "wordIds": [
+        "s13b-word-04",
+        "s10-11-word-044"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11 และไฟล์คำศัพท์ · แบบฝึกผสมที่เขียนเพิ่ม",
+        "kind": "learner-recap"
+      },
+      "added": true
+    },
+    {
+      "id": "s13b-order-mix-06",
+      "type": "order",
+      "topic": "order",
+      "prompt": "เรียงเป็นภาษาเกาหลี: คุณอาเรียนภาษาจีน",
+      "translation": "คุณอาเรียนภาษาจีน",
+      "chunks": [
+        "삼촌은",
+        "중국어를",
+        "배워요."
+      ],
+      "accepted": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "answerText": "삼촌은 중국어를 배워요.",
+      "explanation": "แบบฝึกผสมคำที่เรียนแล้ว ใช้ประธาน + 중국어를 + กริยารูปสุภาพ โดยกริยาอยู่ท้ายประโยค",
+      "requires": [
+        "s13a-rule-sov",
+        "s13b-rule-u-contract",
+        "s13b-word-10",
+        "s13b-word-21",
+        "s10-11-word-045"
+      ],
+      "wordIds": [
+        "s13b-word-10",
+        "s13b-word-21",
+        "s10-11-word-045"
+      ],
+      "source": {
+        "url": "https://www.udemy.com/course/korean-for-absolute-beginners-1/",
+        "label": "Udemy korean recap_Section13_1.pdf",
+        "locator": "หน้า 11 และไฟล์คำศัพท์ · แบบฝึกผสมที่เขียนเพิ่ม",
+        "kind": "learner-recap"
+      },
+      "added": true
+    }
+  ]
+}
