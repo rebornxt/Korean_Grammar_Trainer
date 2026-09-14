@@ -913,17 +913,17 @@
           "text": "열어요"
         },
         {
-          "id": "formal",
-          "text": "엽니다"
+          "id": "distractor-1",
+          "text": "열아요"
         },
         {
-          "id": "casual",
-          "text": "열어"
+          "id": "distractor-2",
+          "text": "여요"
         }
       ],
       "answer": "polite",
       "answerText": "열어요",
-      "explanation": "열다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 열어요",
+      "explanation": "열다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 열어요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s13b-word-23",
         "s13b-rule-batchim-eo"
@@ -949,17 +949,17 @@
           "text": "먹어요"
         },
         {
-          "id": "formal",
-          "text": "먹습니다"
+          "id": "distractor-1",
+          "text": "먹아요"
         },
         {
-          "id": "casual",
-          "text": "먹어"
+          "id": "distractor-2",
+          "text": "먹요"
         }
       ],
       "answer": "polite",
       "answerText": "먹어요",
-      "explanation": "먹다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 먹어요",
+      "explanation": "먹다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 먹어요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s10-11-word-022",
         "s13b-rule-batchim-eo"
@@ -985,17 +985,17 @@
           "text": "켜요"
         },
         {
-          "id": "formal",
-          "text": "켭니다"
+          "id": "distractor-1",
+          "text": "켜아요"
         },
         {
-          "id": "casual",
-          "text": "켜"
+          "id": "distractor-2",
+          "text": "커요"
         }
       ],
       "answer": "polite",
       "answerText": "켜요",
-      "explanation": "켜다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 켜요",
+      "explanation": "켜다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 켜요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s10-11-word-042",
         "s13b-rule-open-eo"
@@ -1021,17 +1021,17 @@
           "text": "배워요"
         },
         {
-          "id": "formal",
-          "text": "배웁니다"
+          "id": "distractor-1",
+          "text": "배와요"
         },
         {
-          "id": "casual",
-          "text": "배워"
+          "id": "distractor-2",
+          "text": "배우요"
         }
       ],
       "answer": "polite",
       "answerText": "배워요",
-      "explanation": "배우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 배워요",
+      "explanation": "배우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 배워요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s10-11-word-045",
         "s13b-rule-u-contract"
@@ -1057,17 +1057,17 @@
           "text": "세요"
         },
         {
-          "id": "formal",
-          "text": "셉니다"
+          "id": "distractor-1",
+          "text": "세아요"
         },
         {
-          "id": "casual",
-          "text": "세"
+          "id": "distractor-2",
+          "text": "서요"
         }
       ],
       "answer": "polite",
       "answerText": "세요",
-      "explanation": "세다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 세요",
+      "explanation": "세다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 세요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s10-11-word-040",
         "s13b-rule-open-eo"
@@ -1093,17 +1093,17 @@
           "text": "키워요"
         },
         {
-          "id": "formal",
-          "text": "키웁니다"
+          "id": "distractor-1",
+          "text": "키와요"
         },
         {
-          "id": "casual",
-          "text": "키워"
+          "id": "distractor-2",
+          "text": "키우요"
         }
       ],
       "answer": "polite",
       "answerText": "키워요",
-      "explanation": "키우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 키워요",
+      "explanation": "키우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 키워요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s10-11-word-044",
         "s13b-rule-u-contract"
@@ -1129,17 +1129,17 @@
           "text": "찍어요"
         },
         {
-          "id": "formal",
-          "text": "찍습니다"
+          "id": "distractor-1",
+          "text": "찍아요"
         },
         {
-          "id": "casual",
-          "text": "찍어"
+          "id": "distractor-2",
+          "text": "찍요"
         }
       ],
       "answer": "polite",
       "answerText": "찍어요",
-      "explanation": "찍다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 찍어요",
+      "explanation": "찍다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 찍어요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s13b-word-07",
         "s13b-rule-batchim-eo"
@@ -1165,17 +1165,17 @@
           "text": "재요"
         },
         {
-          "id": "formal",
-          "text": "잽니다"
+          "id": "distractor-1",
+          "text": "재아요"
         },
         {
-          "id": "casual",
-          "text": "재"
+          "id": "distractor-2",
+          "text": "저요"
         }
       ],
       "answer": "polite",
       "answerText": "재요",
-      "explanation": "재다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 재요",
+      "explanation": "재다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 재요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s13b-word-09",
         "s13b-rule-open-eo"
@@ -1201,17 +1201,17 @@
           "text": "읽어요"
         },
         {
-          "id": "formal",
-          "text": "읽습니다"
+          "id": "distractor-1",
+          "text": "읽아요"
         },
         {
-          "id": "casual",
-          "text": "읽어"
+          "id": "distractor-2",
+          "text": "읽요"
         }
       ],
       "answer": "polite",
       "answerText": "읽어요",
-      "explanation": "읽다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 읽어요",
+      "explanation": "읽다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 읽어요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s10-11-word-025",
         "s13b-rule-batchim-eo"
@@ -1237,17 +1237,17 @@
           "text": "줘요"
         },
         {
-          "id": "formal",
-          "text": "줍니다"
+          "id": "distractor-1",
+          "text": "좌요"
         },
         {
-          "id": "casual",
-          "text": "줘"
+          "id": "distractor-2",
+          "text": "주요"
         }
       ],
       "answer": "polite",
       "answerText": "줘요",
-      "explanation": "주다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 줘요",
+      "explanation": "주다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 줘요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s10-11-word-047",
         "s13b-rule-u-contract"
@@ -1273,17 +1273,17 @@
           "text": "펴요"
         },
         {
-          "id": "formal",
-          "text": "폅니다"
+          "id": "distractor-1",
+          "text": "펴아요"
         },
         {
-          "id": "casual",
-          "text": "펴"
+          "id": "distractor-2",
+          "text": "퍼요"
         }
       ],
       "answer": "polite",
       "answerText": "펴요",
-      "explanation": "펴다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 펴요",
+      "explanation": "펴다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 펴요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
       "requires": [
         "s13b-word-12",
         "s13b-rule-open-eo"

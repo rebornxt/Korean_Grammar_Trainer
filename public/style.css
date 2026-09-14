@@ -879,3 +879,43 @@ footer summary { padding: 10px 0; }
   button { transition: none; }
   .lab-step { animation: none; }
 }
+
+/* Keep answers legible and primary controls within thumb reach. */
+.choice-correct:disabled { opacity: 1; border: 2px solid var(--green); background: var(--goodbg); }
+.choice-wrong:disabled { opacity: 1; border: 2px solid var(--bad); background: var(--badbg); }
+.choice-mark { display: block; font-size: 16px; }
+#exercise, .feedback { scroll-margin-top: 90px; }
+.question-card > .section-heading { margin-top: 0; }
+.practice-actions button { min-height: 52px; flex: 1; }
+.speak-text { min-width: 44px; }
+summary { min-height: 48px; }
+summary:focus-visible { outline: 3px solid var(--green); outline-offset: 3px; }
+@media (max-width: 600px) {
+  main { padding-bottom: calc(100px + env(safe-area-inset-bottom)); }
+  #exercise, .feedback { scroll-margin-top: 16px; }
+  nav, body:not([data-view="lessons"]) nav {
+    position: fixed; top: auto; bottom: 0; left: 0; right: 0;
+    margin: 0; border-radius: 16px 16px 0 0;
+    padding: 6px 8px calc(6px + env(safe-area-inset-bottom));
+    gap: 4px; box-shadow: 0 -3px 16px #0000000a;
+  }
+  nav button { min-width: 0; min-height: 52px; font-size: 16px; padding: 8px 2px; }
+  body[data-view="practice"] main { padding-bottom: calc(250px + env(safe-area-inset-bottom)); }
+  .practice-actions {
+    position: fixed; bottom: calc(65px + env(safe-area-inset-bottom));
+    left: 0; right: 0; z-index: 4; margin: 0;
+    padding: 12px 16px; background: var(--panel); border-top: 1px solid var(--line);
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px;
+  }
+  .practice-actions button:only-child { grid-column: 1 / -1; }
+  .practice-actions button:first-child:nth-last-child(3) { grid-column: 1 / -1; }
+  .question-card { min-height: 52svh; display: flex; flex-direction: column; }
+  .question-card > .choices { margin-top: auto; padding-top: 20px; }
+  .choices button { min-height: 60px; }
+  .chunks button, .answer-zone button { min-height: 52px; min-width: 48px; padding: 9px 12px; }
+  .ready-card .actions button { flex: 1; min-height: 52px; }
+  .feedback { margin-bottom: 12px; }
+  .text-btn { padding: 10px; margin: 0; min-height: 48px; }
+  .footer-actions { gap: 10px; }
+  .filter-panel > summary { font-size: 16px; line-height: 1.65; padding: 12px 0; }
+}

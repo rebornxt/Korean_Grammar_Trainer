@@ -12,6 +12,7 @@ import {
   checkAnswer,
   scoreAnswer,
   shuffle,
+  prepareQuestion,
   isAudioShortcut,
   AudioPlayer,
 } from "./core.js";
@@ -84,14 +85,14 @@ function speech(text) {
       )
     : node("span", { lang: "ko" }, text);
 }
-function wordAudio(ids = []) {
+function wordAudio(ids = [], exclude = "") {
   const all = availableLessons(catalog).flatMap((l) => l.words || []);
   return node(
     "div",
     { class: "word-audio" },
     ids
       .map((id) => all.find((w) => w.id === id))
-      .filter(Boolean)
+      .filter(w => w && w.ko !== exclude)
       .map((w) => speech(w.ko)),
   );
 }
@@ -113,6 +114,7 @@ function view(name) {
   state.view = name;
   save();
   render();
+  if (name !== "practice") window.scrollTo({ top: 0 });
 }
 function render() {
   document.body.dataset.view = state.view;
@@ -606,9 +608,9 @@ function next() {
     return;
   }
   if (round.index >= round.queue.length) { showRoundSummary(); return; }
-  q = { ...round.queue[round.index] };
-  if (q.type === "order") q.displayOrder = shuffle(q.chunks.map((_, i) => i));
+  q = prepareQuestion(round.queue[round.index]);
   drawQuestion();
+  if (!editingFilters) $("#exercise").scrollIntoView({ block: "start" });
 }
 function drawQuestion() {
   const root = $("#exercise");
@@ -617,7 +619,7 @@ function drawQuestion() {
   const sc = state.scores[q.topic] || { streak: 0, best: 0 };
   const card = node(
     "section",
-    { class: "card" },
+    { class: "card question-card" },
     node(
       "div",
       { class: "section-heading" },
@@ -638,13 +640,17 @@ function drawQuestion() {
           : "นึกคำตอบก่อน แล้วค่อยเปิดเฉลย",
     ),
     node("div", { class: "ko" }, q.promptAudio ? speech(q.prompt) : q.prompt),
-    q.translation ? node("p", { class: "translation" }, q.translation) : null,
+    q.translation && !q.prompt.includes(q.translation) ? node("p", { class: "translation" }, q.translation) : null,
   );
   if (q.type === "choice") {
     const choices = node("div", { class: "choices" });
     for (const o of q.options) {
       const b = button(o.text, () => answer(o.id));
       b.disabled = answered;
+      if (answered && o.id === q.answer) b.classList.add("choice-correct");
+      if (answered && o.id === q.selected && o.id !== q.answer) b.classList.add("choice-wrong");
+      if (answered && (o.id === q.answer || o.id === q.selected))
+        b.append(node("span", { class: "choice-mark" }, o.id === q.answer ? " ✓ ถูกต้อง" : " ✕ ที่เลือก"));
       choices.append(b);
     }
     card.append(choices);
@@ -680,7 +686,7 @@ function drawQuestion() {
       card.append(
         node(
           "div",
-          { class: "actions" },
+          { class: "actions practice-actions" },
           check,
           button("เริ่มเรียงใหม่", () => {
             order = [];
@@ -694,12 +700,13 @@ function drawQuestion() {
     card.append(
       node(
         "div",
-        { class: "actions" },
+        { class: "actions practice-actions" },
         button(
           "เปิดเฉลย",
           () => {
             revealed = true;
             drawQuestion();
+            $(".feedback")?.scrollIntoView({ block: "start" });
           },
           "primary",
         ),
@@ -719,11 +726,12 @@ function drawQuestion() {
           : "คำตอบ",
       ),
       node("div", { class: "ko" }, speech(q.answerText)),
-      wordAudio(q.wordIds),
+      q.type !== "recall" ? wordAudio(q.wordIds, q.answerText) : null,
       node("p", {}, q.explanation),
       source(q.source),
     );
-    const actions = node("div", { class: "actions" });
+    if (q.added) feedback.append(node("small", {}, "แบบฝึกเสริมที่เขียนเพิ่มจากบทเรียน"));
+    const actions = node("div", { class: "actions practice-actions" });
     if (player.has(q.answerText))
       actions.append(button("ฟังเสียง · S", () => play(q.answerText)));
     if (q.type === "recall" && !answered)
@@ -753,6 +761,7 @@ function showRoundSummary() {
     button("เริ่มรอบใหม่", () => { round = null; next(); }),
     button("จบการฝึก", () => view("lessons"))));
   $("#exercise").replaceChildren(card);
+  $("#exercise").scrollIntoView({ block: "start" });
 }
 
 function answer(value) {
@@ -760,12 +769,14 @@ function answer(value) {
   answered = true;
   revealed = true;
   q.result = checkAnswer(q, value);
+  q.selected = value;
   if (q.result) round.correct++; else round.wrong.push(q);
   scoreAnswer(state, q.topic, q.result);
   if (q.type === "recall")
     state.words[q.wordId] = q.result ? "known" : "unknown";
   save();
   drawQuestion();
+  $(".feedback")?.scrollIntoView({ block: "start" });
 }
 document
   .querySelectorAll("nav button")

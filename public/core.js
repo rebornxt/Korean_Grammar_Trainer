@@ -145,6 +145,25 @@ export function shuffle(a, random = Math.random) {
   }
   return a;
 }
+export function prepareQuestion(question, random = Math.random) {
+  const result = { ...question };
+  if (question.type === "choice") result.options = shuffle(question.options, random);
+  if (question.type === "order") {
+    const indices = question.chunks.map((_, i) => i);
+    result.displayOrder = shuffle(indices, random);
+    // Never present a completed answer; bound retries for deterministic tests.
+    for (let attempt = 0; attempt < 12 && checkAnswer(question, result.displayOrder); attempt++)
+      result.displayOrder = shuffle(indices, random);
+    if (checkAnswer(question, result.displayOrder)) {
+      for (let i = 0; i < indices.length; i++) {
+        const candidate = indices.slice();
+        [candidate[i], candidate[indices.length - 1]] = [candidate[indices.length - 1], candidate[i]];
+        if (!checkAnswer(question, candidate)) { result.displayOrder = candidate; break; }
+      }
+    }
+  }
+  return result;
+}
 export function isAudioShortcut(event, revealed) {
   const target = event.target;
   return (

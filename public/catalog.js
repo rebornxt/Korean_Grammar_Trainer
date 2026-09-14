@@ -7155,7 +7155,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "돕다"
+              "text": "돕요"
             },
             {
               "id": "o2",
@@ -7207,7 +7207,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "곱다"
+              "text": "곱요"
             },
             {
               "id": "o1",
@@ -7271,7 +7271,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "굽다"
+              "text": "굽요"
             }
           ],
           "answer": "o0",
@@ -7323,7 +7323,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "눕다"
+              "text": "눕요"
             },
             {
               "id": "o2",
@@ -7375,7 +7375,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "덥다"
+              "text": "덥요"
             },
             {
               "id": "o1",
@@ -7439,7 +7439,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "고맙다"
+              "text": "고맙요"
             }
           ],
           "answer": "o0",
@@ -7491,7 +7491,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "줍다"
+              "text": "줍요"
             },
             {
               "id": "o2",
@@ -7543,7 +7543,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "잡다"
+              "text": "잡요"
             },
             {
               "id": "o1",
@@ -7607,7 +7607,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "입다"
+              "text": "입요"
             }
           ],
           "answer": "o0",
@@ -7931,7 +7931,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "걷다"
+              "text": "걷요"
             },
             {
               "id": "o2",
@@ -7983,7 +7983,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "듣다"
+              "text": "듣요"
             },
             {
               "id": "o1",
@@ -8047,7 +8047,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "묻다"
+              "text": "묻요"
             }
           ],
           "answer": "o0",
@@ -8099,7 +8099,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "싣다"
+              "text": "싣요"
             },
             {
               "id": "o2",
@@ -8151,7 +8151,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "깨닫다"
+              "text": "깨닫요"
             },
             {
               "id": "o1",
@@ -8513,7 +8513,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "끄다"
+              "text": "끄요"
             }
           ],
           "answer": "o0",
@@ -8565,7 +8565,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "크다"
+              "text": "크요"
             },
             {
               "id": "o2",
@@ -8617,7 +8617,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "뜨다"
+              "text": "뜨요"
             },
             {
               "id": "o1",
@@ -8681,7 +8681,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "쓰다"
+              "text": "쓰요"
             }
           ],
           "answer": "o0",
@@ -8733,7 +8733,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "아프다"
+              "text": "아프요"
             },
             {
               "id": "o2",
@@ -8785,7 +8785,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "모으다"
+              "text": "모으요"
             },
             {
               "id": "o1",
@@ -8849,7 +8849,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "바쁘다"
+              "text": "바쁘요"
             }
           ],
           "answer": "o0",
@@ -8901,7 +8901,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "잠그다"
+              "text": "잠그요"
             },
             {
               "id": "o2",
@@ -8953,7 +8953,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "배고프다"
+              "text": "배고프요"
             },
             {
               "id": "o1",
@@ -9017,7 +9017,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "예쁘다"
+              "text": "예쁘요"
             }
           ],
           "answer": "o0",
@@ -9069,7 +9069,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "기쁘다"
+              "text": "기쁘요"
             },
             {
               "id": "o2",
@@ -9121,7 +9121,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "애쓰다"
+              "text": "애쓰요"
             },
             {
               "id": "o1",
@@ -9185,7 +9185,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "슬프다"
+              "text": "슬프요"
             }
           ],
           "answer": "o0",
@@ -9379,7 +9379,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "하얗다"
+              "text": "하얗요"
             },
             {
               "id": "o2",
@@ -9431,7 +9431,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "저렇다"
+              "text": "저렇요"
             },
             {
               "id": "o1",
@@ -9495,7 +9495,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "어떻다"
+              "text": "어떻요"
             }
           ],
           "answer": "o0",
@@ -9547,7 +9547,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "노랗다"
+              "text": "노랗요"
             },
             {
               "id": "o2",
@@ -9599,7 +9599,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "파랗다"
+              "text": "파랗요"
             },
             {
               "id": "o1",
@@ -9663,7 +9663,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "이렇다"
+              "text": "이렇요"
             }
           ],
           "answer": "o0",
@@ -9857,7 +9857,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "모르다"
+              "text": "모르요"
             },
             {
               "id": "o2",
@@ -9909,7 +9909,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "고르다"
+              "text": "고르요"
             },
             {
               "id": "o1",
@@ -9973,7 +9973,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "나르다"
+              "text": "나르요"
             }
           ],
           "answer": "o0",
@@ -10025,7 +10025,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "구르다"
+              "text": "구르요"
             },
             {
               "id": "o2",
@@ -10077,7 +10077,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "누르다"
+              "text": "누르요"
             },
             {
               "id": "o1",
@@ -10141,7 +10141,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "기르다"
+              "text": "기르요"
             }
           ],
           "answer": "o0",
@@ -10339,7 +10339,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "짓다"
+              "text": "짓요"
             }
           ],
           "answer": "o0",
@@ -10391,7 +10391,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "긋다"
+              "text": "긋요"
             },
             {
               "id": "o2",
@@ -10443,7 +10443,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "잇다"
+              "text": "잇요"
             },
             {
               "id": "o1",
@@ -10507,7 +10507,7 @@ export const catalog = {
             },
             {
               "id": "o2",
-              "text": "붓다"
+              "text": "붓요"
             }
           ],
           "answer": "o0",
@@ -10559,7 +10559,7 @@ export const catalog = {
             },
             {
               "id": "o1",
-              "text": "젓다"
+              "text": "젓요"
             },
             {
               "id": "o2",
@@ -10611,7 +10611,7 @@ export const catalog = {
           "options": [
             {
               "id": "o0",
-              "text": "낫다"
+              "text": "낫요"
             },
             {
               "id": "o1",
@@ -11905,17 +11905,17 @@ export const catalog = {
               "text": "만나요"
             },
             {
-              "id": "formal",
-              "text": "만납니다"
+              "id": "distractor-1",
+              "text": "만나어요"
             },
             {
-              "id": "casual",
-              "text": "만나"
+              "id": "distractor-2",
+              "text": "만너요"
             }
           ],
           "answer": "polite",
           "answerText": "만나요",
-          "explanation": "만나다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 만나요",
+          "explanation": "만나다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 만나요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-034",
             "s13a-rule-open-a"
@@ -11941,17 +11941,17 @@ export const catalog = {
               "text": "찾아요"
             },
             {
-              "id": "formal",
-              "text": "찾습니다"
+              "id": "distractor-1",
+              "text": "찾어요"
             },
             {
-              "id": "casual",
-              "text": "찾아"
+              "id": "distractor-2",
+              "text": "찾요"
             }
           ],
           "answer": "polite",
           "answerText": "찾아요",
-          "explanation": "찾다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 찾아요",
+          "explanation": "찾다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 찾아요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-032",
             "s13a-rule-batchim-a"
@@ -11977,17 +11977,17 @@ export const catalog = {
               "text": "봐요"
             },
             {
-              "id": "formal",
-              "text": "봅니다"
+              "id": "distractor-1",
+              "text": "보요"
             },
             {
-              "id": "casual",
-              "text": "봐"
+              "id": "distractor-2",
+              "text": "버요"
             }
           ],
           "answer": "polite",
           "answerText": "봐요",
-          "explanation": "보다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 봐요",
+          "explanation": "보다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 봐요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-036",
             "s13a-rule-o-contract"
@@ -12013,17 +12013,17 @@ export const catalog = {
               "text": "사요"
             },
             {
-              "id": "formal",
-              "text": "삽니다"
+              "id": "distractor-1",
+              "text": "사어요"
             },
             {
-              "id": "casual",
-              "text": "사"
+              "id": "distractor-2",
+              "text": "서요"
             }
           ],
           "answer": "polite",
           "answerText": "사요",
-          "explanation": "사다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 사요",
+          "explanation": "사다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 사요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s13a-word-04",
             "s13a-rule-open-a"
@@ -12049,17 +12049,17 @@ export const catalog = {
               "text": "타요"
             },
             {
-              "id": "formal",
-              "text": "탑니다"
+              "id": "distractor-1",
+              "text": "타어요"
             },
             {
-              "id": "casual",
-              "text": "타"
+              "id": "distractor-2",
+              "text": "터요"
             }
           ],
           "answer": "polite",
           "answerText": "타요",
-          "explanation": "타다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 타요",
+          "explanation": "타다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 타요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s13a-word-06",
             "s13a-rule-open-a"
@@ -12085,17 +12085,17 @@ export const catalog = {
               "text": "팔아요"
             },
             {
-              "id": "formal",
-              "text": "팝니다"
+              "id": "distractor-1",
+              "text": "팔어요"
             },
             {
-              "id": "casual",
-              "text": "팔아"
+              "id": "distractor-2",
+              "text": "파요"
             }
           ],
           "answer": "polite",
           "answerText": "팔아요",
-          "explanation": "팔다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 팔아요",
+          "explanation": "팔다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 팔아요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-024",
             "s13a-rule-batchim-a"
@@ -12121,17 +12121,17 @@ export const catalog = {
               "text": "쏴요"
             },
             {
-              "id": "formal",
-              "text": "쏩니다"
+              "id": "distractor-1",
+              "text": "쏘요"
             },
             {
-              "id": "casual",
-              "text": "쏴"
+              "id": "distractor-2",
+              "text": "쒀요"
             }
           ],
           "answer": "polite",
           "answerText": "쏴요",
-          "explanation": "쏘다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 쏴요",
+          "explanation": "쏘다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 쏴요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-038",
             "s13a-rule-o-contract"
@@ -12157,17 +12157,17 @@ export const catalog = {
               "text": "닫아요"
             },
             {
-              "id": "formal",
-              "text": "닫습니다"
+              "id": "distractor-1",
+              "text": "닫어요"
             },
             {
-              "id": "casual",
-              "text": "닫아"
+              "id": "distractor-2",
+              "text": "달아요"
             }
           ],
           "answer": "polite",
           "answerText": "닫아요",
-          "explanation": "닫다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 닫아요",
+          "explanation": "닫다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 닫아요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s13a-word-12",
             "s13a-rule-batchim-a"
@@ -12193,17 +12193,17 @@ export const catalog = {
               "text": "차요"
             },
             {
-              "id": "formal",
-              "text": "찹니다"
+              "id": "distractor-1",
+              "text": "차어요"
             },
             {
-              "id": "casual",
-              "text": "차"
+              "id": "distractor-2",
+              "text": "처요"
             }
           ],
           "answer": "polite",
           "answerText": "차요",
-          "explanation": "차다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 차요",
+          "explanation": "차다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 차요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s13a-word-14",
             "s13a-rule-open-a"
@@ -12229,17 +12229,17 @@ export const catalog = {
               "text": "볶아요"
             },
             {
-              "id": "formal",
-              "text": "볶습니다"
+              "id": "distractor-1",
+              "text": "볶어요"
             },
             {
-              "id": "casual",
-              "text": "볶아"
+              "id": "distractor-2",
+              "text": "볶요"
             }
           ],
           "answer": "polite",
           "answerText": "볶아요",
-          "explanation": "볶다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 볶아요",
+          "explanation": "볶다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 볶아요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-031",
             "s13a-rule-batchim-a"
@@ -12265,17 +12265,17 @@ export const catalog = {
               "text": "물어봐요"
             },
             {
-              "id": "formal",
-              "text": "물어봅니다"
+              "id": "distractor-1",
+              "text": "물어보요"
             },
             {
-              "id": "casual",
-              "text": "물어봐"
+              "id": "distractor-2",
+              "text": "물어버요"
             }
           ],
           "answer": "polite",
           "answerText": "물어봐요",
-          "explanation": "물어보다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 물어봐요",
+          "explanation": "물어보다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 물어봐요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s13a-word-17",
             "s13a-rule-o-contract"
@@ -14809,17 +14809,17 @@ export const catalog = {
               "text": "열어요"
             },
             {
-              "id": "formal",
-              "text": "엽니다"
+              "id": "distractor-1",
+              "text": "열아요"
             },
             {
-              "id": "casual",
-              "text": "열어"
+              "id": "distractor-2",
+              "text": "여요"
             }
           ],
           "answer": "polite",
           "answerText": "열어요",
-          "explanation": "열다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 열어요",
+          "explanation": "열다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 열어요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s13b-word-23",
             "s13b-rule-batchim-eo"
@@ -14845,17 +14845,17 @@ export const catalog = {
               "text": "먹어요"
             },
             {
-              "id": "formal",
-              "text": "먹습니다"
+              "id": "distractor-1",
+              "text": "먹아요"
             },
             {
-              "id": "casual",
-              "text": "먹어"
+              "id": "distractor-2",
+              "text": "먹요"
             }
           ],
           "answer": "polite",
           "answerText": "먹어요",
-          "explanation": "먹다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 먹어요",
+          "explanation": "먹다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 먹어요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-022",
             "s13b-rule-batchim-eo"
@@ -14881,17 +14881,17 @@ export const catalog = {
               "text": "켜요"
             },
             {
-              "id": "formal",
-              "text": "켭니다"
+              "id": "distractor-1",
+              "text": "켜아요"
             },
             {
-              "id": "casual",
-              "text": "켜"
+              "id": "distractor-2",
+              "text": "커요"
             }
           ],
           "answer": "polite",
           "answerText": "켜요",
-          "explanation": "켜다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 켜요",
+          "explanation": "켜다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 켜요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-042",
             "s13b-rule-open-eo"
@@ -14917,17 +14917,17 @@ export const catalog = {
               "text": "배워요"
             },
             {
-              "id": "formal",
-              "text": "배웁니다"
+              "id": "distractor-1",
+              "text": "배와요"
             },
             {
-              "id": "casual",
-              "text": "배워"
+              "id": "distractor-2",
+              "text": "배우요"
             }
           ],
           "answer": "polite",
           "answerText": "배워요",
-          "explanation": "배우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 배워요",
+          "explanation": "배우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 배워요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-045",
             "s13b-rule-u-contract"
@@ -14953,17 +14953,17 @@ export const catalog = {
               "text": "세요"
             },
             {
-              "id": "formal",
-              "text": "셉니다"
+              "id": "distractor-1",
+              "text": "세아요"
             },
             {
-              "id": "casual",
-              "text": "세"
+              "id": "distractor-2",
+              "text": "서요"
             }
           ],
           "answer": "polite",
           "answerText": "세요",
-          "explanation": "세다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 세요",
+          "explanation": "세다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 세요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-040",
             "s13b-rule-open-eo"
@@ -14989,17 +14989,17 @@ export const catalog = {
               "text": "키워요"
             },
             {
-              "id": "formal",
-              "text": "키웁니다"
+              "id": "distractor-1",
+              "text": "키와요"
             },
             {
-              "id": "casual",
-              "text": "키워"
+              "id": "distractor-2",
+              "text": "키우요"
             }
           ],
           "answer": "polite",
           "answerText": "키워요",
-          "explanation": "키우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 키워요",
+          "explanation": "키우다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 키워요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-044",
             "s13b-rule-u-contract"
@@ -15025,17 +15025,17 @@ export const catalog = {
               "text": "찍어요"
             },
             {
-              "id": "formal",
-              "text": "찍습니다"
+              "id": "distractor-1",
+              "text": "찍아요"
             },
             {
-              "id": "casual",
-              "text": "찍어"
+              "id": "distractor-2",
+              "text": "찍요"
             }
           ],
           "answer": "polite",
           "answerText": "찍어요",
-          "explanation": "찍다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 찍어요",
+          "explanation": "찍다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 찍어요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s13b-word-07",
             "s13b-rule-batchim-eo"
@@ -15061,17 +15061,17 @@ export const catalog = {
               "text": "재요"
             },
             {
-              "id": "formal",
-              "text": "잽니다"
+              "id": "distractor-1",
+              "text": "재아요"
             },
             {
-              "id": "casual",
-              "text": "재"
+              "id": "distractor-2",
+              "text": "저요"
             }
           ],
           "answer": "polite",
           "answerText": "재요",
-          "explanation": "재다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 재요",
+          "explanation": "재다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 재요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s13b-word-09",
             "s13b-rule-open-eo"
@@ -15097,17 +15097,17 @@ export const catalog = {
               "text": "읽어요"
             },
             {
-              "id": "formal",
-              "text": "읽습니다"
+              "id": "distractor-1",
+              "text": "읽아요"
             },
             {
-              "id": "casual",
-              "text": "읽어"
+              "id": "distractor-2",
+              "text": "읽요"
             }
           ],
           "answer": "polite",
           "answerText": "읽어요",
-          "explanation": "읽다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 읽어요",
+          "explanation": "읽다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 읽어요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-025",
             "s13b-rule-batchim-eo"
@@ -15133,17 +15133,17 @@ export const catalog = {
               "text": "줘요"
             },
             {
-              "id": "formal",
-              "text": "줍니다"
+              "id": "distractor-1",
+              "text": "좌요"
             },
             {
-              "id": "casual",
-              "text": "줘"
+              "id": "distractor-2",
+              "text": "주요"
             }
           ],
           "answer": "polite",
           "answerText": "줘요",
-          "explanation": "주다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 줘요",
+          "explanation": "주다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 줘요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s10-11-word-047",
             "s13b-rule-u-contract"
@@ -15169,17 +15169,17 @@ export const catalog = {
               "text": "펴요"
             },
             {
-              "id": "formal",
-              "text": "폅니다"
+              "id": "distractor-1",
+              "text": "펴아요"
             },
             {
-              "id": "casual",
-              "text": "펴"
+              "id": "distractor-2",
+              "text": "퍼요"
             }
           ],
           "answer": "polite",
           "answerText": "펴요",
-          "explanation": "펴다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 펴요",
+          "explanation": "펴다 ตัด 다 แล้วใช้กฎของบทนี้ จึงได้ 펴요 ตัวเลือกอื่นจงใจแสดงการใช้สระหรือการย่อผิด ให้ตรวจรากคำและกฎก่อนเลือก",
           "requires": [
             "s13b-word-12",
             "s13b-rule-open-eo"
@@ -18259,5 +18259,5 @@ export const catalog = {
       "file": "audio/3ff5e1cbe324ed9e2c6bab9686c3bb23569cf20023f50aa1486ed8594aa43291.mp3"
     }
   ],
-  "version": "94e8984676c2"
+  "version": "897362759c2f"
 };

@@ -10,9 +10,35 @@ import {
   isAudioShortcut,
   AudioPlayer,
   audioTexts,
+  prepareQuestion,
 } from "../public/core.js";
 import { validateContent, audioManifest, loadContent } from "../tools/lib.mjs";
 import { fixture } from "./fixture.mjs";
+test("choices reach every answer position without changing stored content", () => {
+  const q = { type: "choice", answer: "a", options: ["a", "b", "c"].map(id => ({id, text:id})) };
+  const original = JSON.stringify(q), positions = new Set();
+  let seed = 42;
+  const random = () => ((seed = (1664525 * seed + 1013904223) >>> 0) / 2 ** 32);
+  for (let i = 0; i < 100; i++) {
+    const prepared = prepareQuestion(q, random);
+    positions.add(prepared.options.findIndex(o => checkAnswer(prepared, o.id)));
+    assert.deepEqual(prepared.options.map(o => o.id).sort(), ["a", "b", "c"]);
+  }
+  assert.equal(positions.size, 3);
+  assert.equal(JSON.stringify(q), original);
+});
+test("all ordering questions start unsolved, including a repeated no-op shuffle", async () => {
+  const c = await loadContent();
+  for (const q of c.lessons.flatMap(l => l.questions).filter(q => q.type === "order")) {
+    const original = JSON.stringify(q);
+    for (const value of [0, 0.2, 0.5, 0.999999]) {
+      const prepared = prepareQuestion(q, () => value);
+      assert.equal(checkAnswer(q, prepared.displayOrder), false, q.id);
+      assert.deepEqual([...prepared.displayOrder].sort((a,b) => a-b), q.chunks.map((_,i) => i));
+    }
+    assert.equal(JSON.stringify(q), original);
+  }
+});
 test("rule filter narrows exercises without losing prerequisite knowledge", () => {
   const c = fixture(), s = freshState();
   s.filters.rule = "rule-a";
